@@ -1,0 +1,7 @@
+﻿filename,predicted_category,confidence,best_pipeline,similarity,ocr_text,detected_language,translations
+Screenshot_11.png,manga,0.6123717861114906,clahe_2x_sharp_filtered,0.9010989010989011,wOAVE THE SOUL SOCIETY. ICHIGO KURO- SAKI...!,en,"{'ja': '魂の社会を織りましょう。黒咲一護…！', 'ur': 'روح کی سوسائٹی کو جھنجھوڑنا۔ ICHIGO KURO- ساکی...!', 'zh-cn': '编织灵魂社会。黑一护-咲……！'}"
+Screenshot_13.png,handwritten,0.5894187396056784,bilateral_adapt_filtered,0.45454545454545453,"Ha verink rol, bo oth",sk,"{'en': 'Ha verink rol, bo oth'}"
+Screenshot_3.png,handwritten,0.4803555068425596,proj_deskew_otsu,1.0,TO DO LIST,pt,{'en': 'TO DO LIST'}
+Screenshot_4.png,handwritten,0.5669293755198194,plain_gray_filtered,0.9047619047619048,Write n Wi pe Poster,ro,{'en': 'Write n Wi on Poster'}
+Screenshot_9.png,manga,0.8063932652814737,otsu_blue_filtered,0.7547169811320755,Leds UNBREAK- ABLE. SEE? F,en,"{'ja': 'LED は壊れません。見る？ F', 'ur': 'لیڈز UNBREAK- قابل۔ دیکھو؟ ایف', 'zh-cn': 'LED 灯牢不可破。看？ F'}"
+image (12).jpg,handwritten,0.6761510291979658,bg_normalize,0.7865168539325843,meeNNg in koncden €9 KMencky. Once the Common,en,"{'ja': 'コンクデンで会いましょう €9 KMencky。かつては一般的だった', 'ur': 'meeNNg in koncden €9 KMencky۔ ایک بار کامن', 'zh-cn': '在 koncden 开会 €9 KMencky。一旦通用'}"

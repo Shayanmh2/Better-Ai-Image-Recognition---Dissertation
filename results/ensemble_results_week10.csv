@@ -1,0 +1,43 @@
+﻿filename,ground_truth,best_pipeline,ensemble_ocr,ensemble_similarity,auto_ocr,auto_similarity,predicted_category
+image (12).jpg,meeting in London on Monday. Once the Common,bg_normalize,meeNNg in koncden €9 KMencky. Once the Common,0.7865,"ghey ES ex Oy nails a voy oy: Page { BUI Oyen af: pk Pet ao Wl BD GPR ee IZ a we fer um ay ffi, ly fr IRS hay Ro ae ee ge rz:
+FE PCE IIT DEF £93 HPs Py psp 65 ffi -y Ruoff > 6° Va ae Go digo? oes ahty g& f POMP YA ese. oS
+eeere G Wyo Oncor? C8) MOncoliy: Cece Mme Cimrmmorn",0.13249211356466878,handwritten
+Screenshot_3.png,TO DO LIST,proj_deskew_otsu,TO DO LIST,1.0,"—a— Spee oe wees tome -_———- -—— — .
+=> ~~ > ee —— ——_ a me -
+Lo eo: ee ag -
+= eee
+
+~~ =e ' ;
+~~ .- _: ae
+
+; rm
+~~ toe i
+—> - . a . eT . a os if re
+ao tee Tne P i wt a "" er ae et yate Lee le - se ar :
+ora ~ . - pats
+ae. Ae 4
+gy emas ry , . r
+Fae AGEN, | a i
+aan aa Soe , YU
+_ oo: + -. ~ woe * - .
+oe ere
+
+-. 1 ol _ an oe, Ty
+bon -~ ‘—— = +) a — 1 4 iz.",0.03314917127071823,handwritten
+Screenshot_4.png,Write 'n'  Wipe Poster,plain_gray,Write n Wi pe Poster,0.8571,"Write n W pe
+Foster",0.7804878048780488,handwritten
+Screenshot_9.png,IT’S UNBREAKABLE. SEE? !!!?,otsu_blue,Ps eT wi Leds BN ag UNBREAK- RS” ABLE. pak \ = SEE? 1 ; Wn F . 4 ;,0.4301,,0.0,manga
+Screenshot_11.png,"...SAVE THE SOUL SOCIETY. 
+ICHIGO KUROSAKI...!",clahe_2x_sharp,wOAVE THE SOUL SOCIETY.  ICHIGO KURO- SAKI...!,0.8261,THE SOUL SOCIETY. ICHIGO KURO- SAKI..!,0.8571428571428571,manga
+Screenshot_13.png,"Paperink
+A natural ballpoint handwriting font",otsu_blue,Paperinle | stoke |,0.3438,"a :
+& “f ‘5 Pp.
+| ‘ t
+
+* The : :
+
+py MOO COrApOUy |
+
+| Roundwortling, foul |
+
+sens aeneneeirnmeuereviceip i atmatemesct a ' So ‘",0.24277456647398843,handwritten

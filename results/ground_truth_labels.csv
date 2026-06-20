@@ -1,0 +1,170 @@
+﻿filename,category,image_path,ground_truth,notes
+0 (1).jpg,manga,sample_images/manga\0 (1).jpg,,training for SVM
+0 (2).jpg,manga,sample_images/manga\0 (2).jpg,"BUT DRIVER, IF WE'RE GOING TO SUIDO BASHI AT THIS HOUR, ISN'T IT FASTER TO GO BY TRAIN?, NO WARRIOR GOES TO BATTLE BY TRAIN SIR, AND THE CROWD WILL WAIT UNTIL YOU ARRIVE SIR, NO MATTER HOW LONG",
+0 (3).jpg,manga,sample_images/manga\0 (3).jpg,,training for SVM
+0 (4).jpg,manga,sample_images/manga\0 (4).jpg,"HMPH, BET YOU GUYS THOUGHT I WAS RUSTY AFTER SO MANY YEARS, LOOKS LIKE YOU THOUGHT WRONG, NOW, WHO'S NEXT, HEY",
+0.jpg,manga,sample_images/manga\0.jpg,"YOU CAN NO LONGER TAKE INTERVIEW!, SHOULD I SUSPEND YOUR RIGHT TO TAKE PHOTOS NEXT?!",
+5.jpg,manga,sample_images/manga\5.jpg,"にっ！, そうだヤマト!!!, ドカン, !!!, え!?, ガチッ!!, 不知夜月, わはははは!!, ドンチャン♪, アハハハハ!!!, ドォン, だはははは!!, 惜しいな こんなに 強くて馬が 合うのに!!, コレさえ 取れたら いつか 必ず!!, 僕だって海へ!!, ねーねー 海外は どうだ!? 若い奴ら どんどん 出て来て ないか!?, !!!, おれは別格として… 今各海で ヤベェ奴らが 暴れてる らしいんだ, 南の""キッド""だろ, 若いの? そうだな""キャベンディッシュ""とか…, ってのは話題だな…, 北の""ロー""西の""ベッジ""…, キラ, キラ, キラ",
+Screenshot_1.png,manga,sample_images/manga\Screenshot_1.png,"""NEXT DAY, AS NEWS OF DICE'S STRANGE DEATH RESOUNDS THROUGH GOTHAM CITY...""
+""DICE DIED BEFORE THE VERY EYES OF THOSE 20 PEOPLE! LOOKED LIKE AN AUTOPSY MIGHT REVEAL SOMETHING—OTHER THAN DEATH FROM NATURAL CAUSES. IF IT CANNOT, THEN THIS IS MURDER...""
+""STILL, THERE WAS THAT NOTE, COMMISSIONER... COULD IT HAVE BEEN A COINCIDENCE IF DICE FELLS HADN'T TOUCHED THE NOTE—AND THEN THROWN IT AWAY..."", ""BATMAN, I KNOW YOU LOVE A MYSTERY—BUT THIS COULDN'T BE MURDER—IT'S IMPOSSIBLE. COME ON, NOW—I'VE MORE IMPORTANT ASSIGNMENTS FOR YOU..."", ""BUT, TWO DAYS LATER...""
+""COMMISSIONER GORDON—THIS IS FRED BARKER. I'VE RECEIVED THE SAME-TYPE OF DEATH-NOTE THAT JIM DICE DID! YOU'VE GOT TO HELP ME!"". ""CALM YOURSELF, BARKER! SOME PRACTICAL JOKER IS TAKING ADVANTAGE OF DICE—BUT DON'T WORRY—JUST TO BE SAFE, I'LL HAVE YOUR HOUSE BE FULL OF POLICE TONIGHT..."",  ""THEN, THAT EVENING...""
+""WATERS AND COMMISSIONER GORDON! BUT YOU'RE EARLY—HAS SOMETHING GONE WRONG?""
+""WE'RE NOT EARLY—YOUR WATCH MUST BE SLOW!—AND EVERYTHING'S FINE—THE POLICE WILL BE ALONG IN A MOMENT..."", ""AND, AS MIDNIGHT DRAWS NEAR...""
+""EVERYTHING'S IN READINESS, COMMISSIONER. MY MEN ARE GUARDING EVERY ENTRANCE..."", ""SEE, FRED? YOU'RE GOING TO BE OKAY. COME ON—LET'S PLAY SOME CARDS TILL THIS HOAX BLOWS OVER.""",
+Screenshot_2.png,manga,sample_images/manga\Screenshot_2.png,"But two watching figures have not been fooled by the Joker's clever ruse. Hurry! Those clocks are wrong -- they're running backwards!
+Another of the Joker's reverse tricks! Watch that crowd! He's in there some place... Please let us pass! This man is ill!
+That invalid in the wheelchair -- his shoes are dusty, he's been walking. He's a fake!  Batman's hunch is right, for suddenly...
+Quick! Now's our chance. Now to start the Western Flier -- in reverse! It's a swell way to open up that locked gold car! Next time you play invalid, Joker, wipe the dust off your shoes!
+And next time you play detective --
+Another reversed crime! First the news story... then the getaway... and now he'll return to steal the gold!
+What's all the fuss about down there?  ",
+Screenshot_23.png,manga,sample_images/manga\Screenshot_23.png,"MEANWHILE —THE CAR STOPS — ITS OWNER GOES INSIDE A DRUG STORE FOR CIGARETTES
+I'LL HIDE HERE IN THE RUMBLE SEAT WHERE I WON'T BE DETECTED
+
+THE AUTO STARTS AGAIN — ALL'S WELL UNTIL SUDDENLY IT STRIKES A BUMP IN THE ROAD
+BUMP!SHORTY IS KNOCKED UNCONSCIOUS
+BONG!THE CAR IS DRIVEN WITHIN A LARGE GARAGE WHERE IT IS MET BY A GROUP OF HARD-LOOKING MEN
+WELL, WHAT'S HAPPENED?PLENTY! LISTEN, YOU BIRDS! WE'VE GOT TO ACT — AND ACT FAST!
+SCRAM, YOU HOBOS! GO ON, SCRAM!
+HA! HA! LOOK AT TH' CHEAP-SKATE HOBOS! HITCHIN' A RIDE!",
+Screenshot_3.png,manga,sample_images/manga\Screenshot_3.png,"X is for UNKNOWN X is an unknown quantity. Nobody knows what it is. That’s why it’s called X. It’s used in mathematics and in stories. It’s always something you can’t find. Dr. Lauretta Bender, Associate Professor of Psychiatry, School of Medicine, New York University
+Josette Frank, Consultant on Children’s Reading, Child Study Association of America
+Dr. C. Bowie Millican, Department of English Literature, New York University
+Dr. W. W. D. Sones, Professor of Education and Director of Curriculum Study, University of Pittsburgh
+Dr. S. Harcourt Peppard, Acting Director, Bureau of Curriculum Development, Board of Education, City of New York ACTION COMICS
+DATE WITH JUDY
+ADVENTURE COMICS
+ALL-AMERICAN COMICS
+ALL-FLASH
+ALL FUNNY COMICS
+ALL-STAR COMICS
+ANIMAL ANTICS
+BOY COMMANDOS
+BUZZY
+COMIC CAVALCADE
+DETECTIVE COMICS
+FLASH COMICS
+FUNNY FOLKS
+FUNNY STUFF
+GREEN LANTERN
+LEADING COMICS
+MORE FUN COMICS
+MUTT & JEFF
+REAL FACT COMICS
+REAL SCREEN COMICS
+SENSATION COMICS
+STAR SPANGLED COMICS
+SUPERMAN
+WONDER WOMAN
+WORLD’S FINEST COMICS DETECTIVE COMICS, No. 128, Oct., 1947. Published monthly.
+205 E. 42nd St., New York 17, N.Y.
+Entire contents copyright 1947 by National Comics Publications, Inc.
+Editorial offices: 480 Lexington Avenue, New York 17, N.Y.
+Subscription rates: In the United States and possessions, 1 year $1.00; Canada and foreign countries, $1.50 per year.
+Printed in U.S.A.",
+handwritten_1.jpg,handwritten,sample_images/handwritten\handwritten_1.jpg,"This is  A test image, writing like this to see what works, A blur should be harder",
+image (1).jpg,handwritten,sample_images/handwritten\image (1).jpg,Though they may gather some left-wing,
+image (2).jpg,handwritten,sample_images/handwritten\image (2).jpg,A large majority of Labour MPs are likely to turn,
+image (3).jpg,handwritten,sample_images/handwritten\image (3).jpg,members THE two rural African Nationalist,
+image (4).jpg,handwritten,sample_images/handwritten\image (4).jpg,Peeresses have been created. Most Labour sentiment,
+image (5).jpg,handwritten,sample_images/handwritten\image (5).jpg,"in Northern Rhodesia, but the Colonial Secretary,",
+image (6).jpg,handwritten,sample_images/handwritten\image (6).jpg,lucky to have descended from such economic altitudes.,
+image (7).jpg,handwritten,sample_images/handwritten\image (7).jpg,and their filing clerks. The studio is lad,
+image (8).jpg,handwritten,sample_images/handwritten\image (8).jpg,water to make him swim when he is born.,
+image (9).jpg,handwritten,sample_images/handwritten\image (9).jpg,"""Look!"" he went on earnestly. ""You're not going""",
+image.jpg,handwritten,sample_images/handwritten\image.jpg,"Though they may gather some Left-wing support, a",
+test_image.jpg,handwritten,sample_images/handwritten\test_image.jpg,"Polynomial time problems are deterministic and can be solved without complication and is understood by most people whereas NP or nondeterministic polynomial time is used a type of problem which requires effort to solve without any clear method of solving it.
+
+I don't know
+
+The time complexity of binary search is O(log n) while the complexity of linear search is O(n)
+
+I don't know
+
+The big O of the loop below is O(n²)",
+Screenshot_1.png,stylized,sample_images/stylized\Screenshot_1.png,"LIFE IS AT THEIR HANDS- DEATH IS ON THEIR MINDS HENRY FONDA 12 ANGRY MEN, IT EXPLODES LIKE 12 STICKS OF DYNAMITE!",
+Screenshot_2.png,stylized,sample_images/stylized\Screenshot_2.png,,"Ineligable, only for training SVM"
+Screenshot_3.png,stylized,sample_images/stylized\Screenshot_3.png,AMAICA ROAD S EN LATE DOCKHEAD,
+Screenshot_4.png,stylized,sample_images/stylized\Screenshot_4.png,STAR WARS L'EMPIRE CONTRE-ATTAQUE STAR WARS MARK HAMILL – HARRISON FORD – CARRIE FISHER BILLY DEE WILLIAMS – ANTHONY DANIELS,
+Screenshot_5.png,stylized,sample_images/stylized\Screenshot_5.png,"BRIDGE ST, A 458, TOURBRIDGE",
+Screenshot_6.png,stylized,sample_images/stylized\Screenshot_6.png,CAUTION DANGEROUS CORNER DRIVE SLOWLY,
+Screenshot_7.png,stylized,sample_images/stylized\Screenshot_7.png,最後の夜,
+Screenshot_8.png,stylized,sample_images/stylized\Screenshot_8.png,"客室への立入りは
+ご宿泊者のみとなります。
+ご面会等はロビーにて
+お願い申し上げます。
+The entrance to the guest room becomes only a hotel guest
+I would like the meetings in a lobby",
+2.jpg,manga,sample_images/manga\2.jpg,"月が不気味な顔に!
+世界に起きた異変の
+正体とは!? ,    あ… あれは,    なんだ あの
+コミカルな
+月は!!!",
+15.jpeg,manga,sample_images/manga\15.jepg,"アーサーのほうが傷ついている!!,やはり脆弱いな人間,それ息でも,",
+Screenshot_4.png,manga,sample_images/manga\Screenshot_4.png,"嗯?,它、它、它在动吗?,阿噗!,嗯? 那是谁?,龙，原来是你!,哈哈哈!,轰隆!,怎么回事? ……龙?你在干嘛?,哼，我恨这个……,还有这个……,还有这个……,龙打中了麒麟的腿。,哎哟!",
+Screenshot_5.png,manga,sample_images/manga\Screenshot_5.png,"OVER HERE., ANY SIGN OF HIM?, NOT YET, SIR, BUT HE HAS TO BE AROUND HERE SOME--, TIMOR? TIMOR, ARE YOU THERE?",
+Screenshot_6.png,manga,sample_images/manga\Screenshot_6.png,"十一年了整整十一年系统你就不能给我好一点的天赋吗, 气抖冷……, 点赞转发",
+Screenshot_7.png,manga,sample_images/manga\Screenshot.7.png,"我重生以后
+自带系统
+这是多少人
+梦寐以求的事
+
+不过每天只能摇一次
+灵根资质和先天气运
+这个设定真是坑爹啊
+
+可十一年都过来了
+我又何必在乎
+这么一两天呢",
+Screenshot_8.png,manga,sample_images/manga\Screenshot.8.png,"OR…. SO I THOUGHT,",
+Screenshot_10.png,manga,sample_images/manga\Screenshot.10.png,"コ…コロン…
+その生物は
+一体何だ!?
+
+わーっ
+そんな物
+食べるな!!
+
+バリッ バリッ",
+Screenshot_12.png,manga,sample_images/manga\Screenshot.12.png,BLOOD MANIP-ULA-TION…,
+image (10).jpg,handwritten,sample_images/handwritten\image (10).jpg,"assuredness ""Bella Bella Marie"" (Parlophone), a lively song that changes tempo mid-way.",
+image (11).jpg,handwritten,sample_images/handwritten\image (11).jpg,showing that such changes are part of a,
+Screenshot_1.png,handwritten,sample_images/handwritten\Screenshot.1.png,Always,
+Screenshot_2.png,handwritten,sample_images/handwritten\Screenshot.2.png,Handwritten,
+Screenshot_9.png,stylized,sample_images/stylized\Screenshot_9.png,中文字牌,
+Screenshot_10.png,stylized,sample_images/stylized\Screenshot_10.png,"コ…コロン…
+その生物は
+一体何だ!?
+
+わーっ
+そんな物
+食べるな!!
+
+バリッ バリッ",
+Screenshot_11.png,stylized,sample_images/stylized\Screenshot_11.png,避険車道,
+Screenshot_12.png,stylized,sample_images/stylized\Screenshot_12.png,"آپ کی احتیاط
+آپ کی سلامتی کی
+ضمانت ہے",
+Screenshot_13.png,stylized,sample_images/stylized\Screenshot_13.png,"Trafalgar Square  
+Lambeth Bridge",
+Screenshot_14.png,stylized,sample_images/stylized\Screenshot_14.png,"Humps for ½ mile  
+Give way to oncoming vehicles  
+No footway for 400 yds",
+Screenshot_15.png,stylized,sample_images/stylized\Screenshot_15.png,Max Speed 20,
+Screenshot_16.png,stylized,sample_images/stylized\Screenshot_16.png,NO EXIT,
+Screenshot_17.png,stylized,sample_images/stylized\Screenshot_17.png,NO ENTRY,
+Screenshot_18.png,stylized,sample_images/stylized\Screenshot_18.png,MARKET SQUARE,
+Screenshot_19.png,stylized,sample_images/stylized\Screenshot_19.png,"The Royal Borough of Kensington and Chelsea
+PAVILION STREET, S.W.1",
+Screenshot_20.png,stylized,sample_images/stylized\Screenshot_20.png,"Watford  
+Amersham  
+M25",
+image (12).jpg,,testing_images\image (12).jpg,meeting in London on Monday. Once the Common,
+Screenshot_3.png,,testing_images\Screenshot_3.png,TO DO LIST,
+Screenshot_4.png,,testing_images\Screenshot_4.png,Write 'n'  Wipe Poster,
+Screenshot_9.png,,testing_images\Screenshot_9.png,IT’S UNBREAKABLE. SEE? !!!?,
+Screenshot_11.png,,testing_images\Screenshot_11.png,"...SAVE THE SOUL SOCIETY. 
+ICHIGO KUROSAKI...!",
+Screenshot_13.png,,testing_images\Screenshot_13.png,"Paperink
+A natural ballpoint handwriting font",

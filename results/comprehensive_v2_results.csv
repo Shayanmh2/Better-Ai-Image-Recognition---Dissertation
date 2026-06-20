@@ -1,0 +1,345 @@
+﻿filename,predicted_category,confidence,best_pipeline,similarity,ocr_text,detected_language,translations,true_category,source
+0 (1).jpg,manga,0.8075184657581571,gray_2x_sharp,0.40529411764705886,"Sv
+PAN",sl,{'en': 'St\nPAN'},manga,sample
+0 (2).jpg,manga,0.5476055756964803,nlm_adapt_filtered,0.5821917808219178,"“IF ee ed ee on LK NO GOES TO BATTLE BY TSAIN THE CROWD) WILL LINTIL YOU ACEYVE SID, NO MATTER LONG",en,"{'ja': '「もし LK で EE ED EE が TSAIN THE CROWD によって戦いに行かないなら、どんなに長くてもあなたはシドを受け入れるでしょう」', 'ur': '""اگر LK پر EE ED EE NO GO BATLE BY TSAIN CROWD) تو آپ کو کوئی بات نہیں بہت دیر لگے گی', 'zh-cn': '“如果 ee ed ee 在 LK 上不参加 TSAIN THE CROWD 的战斗）LINTIL 你 ACEYVE SID，无论多久'}",manga,sample
+0 (3).jpg,manga,0.8097113564036096,otsu_blue,0.4222222222222222,". y fas Os YEA Pl 4 if R
+os (ua G by |
+me £4"" | ZI eer \",cy,"{'en': '. the bass If YEA Pl 4 if R\nif (ua G by |\nme £4"" | ZI eer \\'}",manga,sample
+0 (4).jpg,manga,0.8705240362396127,gray_2x_sharp_filtered,0.6746987951807228,"HMPH, BET YOU GUYS THOUGHT WAS RUSTY AFTER SO MANY YEARS",en,"{'ja': 'ふーん、何年も経ったので錆びついたと思ったでしょうね', 'ur': 'HMPH، شرط لگائیں کہ آپ لوگوں نے سوچا کہ اتنے سالوں بعد زنگ آلود ہو گیا تھا', 'zh-cn': '哼，我打赌你们认为这么多年后已经生锈了'}",manga,sample
+0.jpg,manga,0.6799315157119621,nlm_adapt_filtered,0.7261146496815286,YOU CAN NO LONGER DO INTERVIEWS! RIGHT TO TAKE PHOTOS NEXT?! HS o> xa WYN,so,{'en': 'YOU CAN NO LONGER DO INTERVIEWS! RIGHT TO TAKE PHOTOS NEXT?! HS o> xa WYN'},manga,sample
+15.jpeg,manga,0.823204398246246,adaptive_filtered,0.043478260869565216,~萱這謹雷疆菫 ン ー ぐ ぅ Q ン 優 ア ヾ ー マ ン ン ー マ グ う パ い シ ィ し ン シ ペ ッ ペ ン 芒 お ド ズ ダ s 蓬 ー ン う ゲ ベ 蕩熱 る る 方 ん ー 書 ー ハ い し ん ハ か 交 て ァ ー ド =萱謹壽萱.謹『萱璽潭聰⑪ 惚 ー 紗}・ ソ ク ン ム ー シ ー ド ー シ ー ン ア 夜 鯵 い ⑩篁飢騒 彡 カ シ ク ダ タ ブ ル 嘲蓋嘉贋 ン プ S ア ッ ル ー ン ク タ ン ー ヘ 尾 〟ー奮 欝賣遜 棚 人 績 M ー し O ー 丿 ニ 団 る ゃ 迦 返 ト ーー に 画 ほ 一 I ペ ー テ ン ス リ ド が は 攫 ーー〟′〟 ー 口 し ト ミ デ ー い ミ P ー 息き そ 価 竈鱒蓼~婆 ー M い a ー ー で れ 疆⑪` 称 ュ 鱒~ ー 三 も 閾 縄鱒瘻⑪縄 ー S 八 子 糸 ご ー ー い ベ ペ ー ぺ こ ー ー そ ー ミ,ja,{'en': '~ 萱謹萬謹 熆熆菫 ん ー Ｇ う Ｇ Ｇ ん Ｇ Ｇ Ｇ ん Ｇ Ｇ Ｇ Ｇ ん Ｇ Ｇ Ｇ Ｇ Ｇ Ｇ ん Ｇ Ｇ Ｇ Ｇ ん Ｇ Ｇ Ｇ Ｇ Ｇ Ｇ Ｇ Ｇ Ｇ Ｇ ん Ｇ Ｇ Ｇ Ｇ Ｇ Ｇ ん Ｇ Ｇ Ｇ Ｇ Ｇ Ｇ ん Ｇ Ｇ Ｇ Ｇ Ｇ Ｇ Ｇ Ｇ Ｇ Ｇ Ｇ Ｇ Ｇ Ｇ Ｇ Ｇ sec) Or intersect the card = 萱謹棽萱. S A L R N K TAN H E O I I I S I S A R U R N K TAN H E O I I I S I S A R U R N K TAN H E O I I S A B I H E P E S H I L E I N D I M E S O M E S I O I N I D I N R N Y A C A G A R E T A N I O N I P A P E N T E N S R I D G A H A B I C O N I O N I D E N D E T E M I D E.” I P ー Breath so value Kamomasu 蓼~Ba ー M I a ー ー Dere ▆⑪` Name Yu 鴒~ ー 三も Threshold Trout fistula⑪ ー S Yako Ito Go ー ー I Be pe peko ー So Mi'},manga,sample
+2.jpg,manga,0.7542333703440878,gray_2x_sharp_filtered,0.18421052631578946,ョ J ら 蓼 号 睨 い い,ja,"{'en': ""I'm staring at J.""}",manga,sample
+5.jpg,manga,0.6798565079479836,clahe_2x_sharp,0.0225140712945591,"ン 健 、 、 /W 魄 -
+
+) 鐡 =
+喪 絵 z , M 不 は ・
+⑧ へ 、 斗 ④ さ
+pg イ ④ ロ =
+て 、 い \ 志 シ ー シ
+, め リ ン ミ ー ク 、
+③ P コ
+, レ ク ク ク ヽ ク
+い 、 で つ Ct ら
+
+e ,剛
+
+ミ = ふ
+
+の の の の の ど
+
+の の の の の の
+
+き
+
+④ ) _ ぐ
+さ m
+ニ ニ ニ ニ ニ ニ ベ ニ ー= ニ ー ニ ー:
+
+へ ぺ ッ
+
+ふ へ へ へ へ へ
+oQ
+へ へ へ へ ヽ ヽ ヾ",ja,"{'en': 'N Ken , , /W 魄 -\n\n) Iron =\nMourning picture z, M not ・\n⑧ to, doo ④\npg A ④ B =\nte \\ shi shi shi\n, Melin Meek ,\n③P\n, lek kuku woku\nCt et al.\n\ne, hard\n\nMi = Fu\n\nthroat\n\nof of of of of of of of of of of of of\n\nKi\n\n④) _ gu\nm\nni ni ni ni ni ni be ni = ni ni nee:\n\nHepe\n\nFu he he he he he he\noQ\nTo to to to to ヽ ヽ ヾ'}",manga,sample
+Screenshot_1.png,manga,0.7082237214170751,gray_2x_sharp_filtered,0.06729475100942127,"DETECTIVE COMI NEXT DAY, AS NEWS OF DICE'S STRANGE DEATH RESOUNDS THROUGH GOTHAM CITY. STILL, THERE WAS THAT DICE DIED VERY COMMISSIONER. EYES OF MORE THAN IT HAVE AN AUTOPSY HAS REVEALED COINCIDENCE? I WISH NOTHING THAN DEATH FELLS HADN'T THOUGHT FROM NATURAL CAUSES. I IT WAS NOTHING AND CANNOT TERM THIS THROWN IT AWAY... COMMISSIONER THIS IS FRED BARKER. I'VE RECEIVED THE SAME TYPE YOu: BUT DON'T WORRY-JUST TO BE Je LATER... OF DEATH-NOTE THATJIM E DID. YOU'VE GoT A) WE'RE NOT EARLY- YOUR WATCH MUST GE cs BATMAN, I KNOW YOU LOVE A MYSTERY-- BUT THIS BE IT'S COME ON; NOW-- I'VE MORE IM- PORTANT SAFE, LL HAVE YOUR HOUSE FULL OF POLICE TONIGHT.’ SEE, FRED? WATERS AND COMMISSIONER BE SLOW. AND MIDNIGHT YOU'RE GOING TO Wy GORDON: BUT YOU'RE EVERYTHING'S DRAWS EARLY--HAS SOME- FINE--THE POLICE THING GONE WRONG WILL BE ALONG BE OKAY. COME ON-- EVERYTHING'S LET'S PLAY SOME IN READINESS, CARDS TILL THIS IN A MOMENT... COMMISSIONER. MY eer MEN ARE GUARDING EVERY",en,"{'ja': '翌日、ゴッサムシティ中にダイスの奇妙な死のニュースが響きわたる中、刑事コミ。それでも、ダイスは非常に死亡しました、委員長。解剖で判明した以上の人の目は偶然？死が自然原因で考えられなかったらいいのに。何もなかったので、これを捨てたわけにはいきません... 長官、こちらはフレッド・バーカーです。私はあなたと同じタイプを受け取りました：でも、心配しないでください-後でJeになるだけです...DEATH-NOTEのJIM Eがそうでした。あなたはわかっています A) 私たちはまだ早いです - あなたの時計はバットマンのものでなければなりません、私はあなたがミステリーが大好きであることを知っています - しかし、これはそれです。さて――私の身の安全がより重要です。今夜、あなたの家は警察でいっぱいになりますよ。』わかるか、フレッド？ウォーターズとコミッショナーはゆっくりしてください。そして真夜中、あなたはワイ・ゴードンのところへ行くことになります。でも、あなたはすべてが早い段階で引き分けています-いくつかの良い点があります-警察のことはうまくいきません。さあ、準備万端でカードをプレイしましょう。すぐにこれまでカードをプレイしましょう... 委員長。私の素晴らしい男たちがすべてを守っています', 'ur': 'جاسوس کامی اگلے دن، جیسے ہی ڈائس کی عجیب موت کی خبر گوتم شہر میں سنائی دیتی ہے۔ پھر بھی، وہاں تھا کہ ڈائس بہت ہی کمشنر مر گیا۔ اس سے زیادہ کی آنکھوں نے ایک پوسٹ مارٹم کیا ہے اتفاق کیا ہے؟ میری خواہش ہے کہ قدرتی وجوہات سے موت کے علاوہ کچھ نہ سوچا گیا ہو۔ میں یہ کچھ بھی نہیں تھا اور اسے ختم نہیں کر سکتا... کمشنر یہ فریڈ بارکر ہے۔ مجھے آپ کی طرح ہی موصول ہوئی ہے: لیکن فکر نہ کریں-بس بعد میں بننے کے لئے... موت کا نوٹ- جو جم ای نے کیا۔ آپ کو مل گیا ہے A) ہم جلدی نہیں ہیں- آپ کی گھڑی GE cs BATMAN ضروری ہے، میں جانتا ہوں کہ آپ ایک راز سے محبت کرتے ہیں-- لیکن یہ ہو جائے گا؛ اب-- میں زیادہ ضروری محفوظ ہوں، آج رات آپ کا گھر پولیس سے بھرا ہو گا۔ دیکھو، فریڈ؟ پانی اور کمشنر سست ہوں۔ اور آدھی رات کو آپ وائی گورڈن جا رہے ہیں: لیکن آپ سب کچھ جلد تیار ہو گیا ہے--کچھ ٹھیک ہے--پولیس کے ساتھ جو کچھ غلط ہوا ہے وہ ٹھیک ہو جائے گا۔ چلو-- سب کچھ ہے تیاری کے ساتھ کھیلتے ہیں، کارڈ اس وقت تک... کمشنر۔ میرے مرد ہر ایک کی حفاظت کر رہے ہیں۔', 'zh-cn': '第二天，科米侦探，戴斯离奇死亡的消息传遍哥谭市。尽管如此，骰子还是死得很惨。尸检以外的人的眼睛已经揭示了巧合？我希望没有人想到过死亡是自然原因造成的。我这没什么，不能说这是把它扔掉了……专员，我是弗雷德·巴克。我已经收到了和你一样的类型：但是别担心——只是稍后会成为吉姆·E 所做的死亡笔记。你已经得了 A) 我们还早——你的手表必须是 GE cs 蝙蝠侠，我知道你喜欢神秘——但事情就这样了；现在——我更重要的是安全，今晚你的房子里就会布满警察。”看到了吗，弗雷德？沃特斯和专员要慢慢来。午夜你要去怀伊戈登：但是你一切都还早——有一些——很好——警察出问题了，一切都会好起来的。来吧——一切都准备好了，一会儿就打牌……专员。我的手下正在守护着每一个'}",manga,sample
+Screenshot_10.png,manga,0.6890470427035761,clahe_2x_sharp,0.1016949152542373,"③
+
+れ ,ノz,,麟ノ 〟",ja,"{'en': '③\n\nRe, Noz,, Rinno 〟'}",manga,sample
+Screenshot_12.png,manga,0.8316542358160603,bilateral_sharp_filtered,0.5423728813559322,"BLOODY Saf MANP- wa, TION... La) LN gy",cy,"{'en': 'BLOODY Saf MANP- wa, TION... La) LN gy'}",manga,sample
+Screenshot_2.png,manga,0.6285964722575919,adaptive_filtered,0.05303678357570573,"DETECTIVE BUT TWO WATCHING FIGURES Have NOT BEEN FOOLED BY THE JOKER'S| F THOSE CLOCKS JOKER'S REVERSE CLEVER RUSE. ARE WRONG- WATCH ff WHATS ALL) THEYRE THAT CROWOoY RUNNING, dee CRIME! R SOME A THE A ‘a RETURN TO ESS THE GOLD! Gey LS AE ONS os an Fa eae NOW WS A SWELL Nol NEXT TIME You OPEN PLAY )f NEXT WESTERN UP THAT LOCKED WIPE THE DUST OFF TtMeE t GOLD CARY YOUR SHOES.’ ay Ss: <j vetecTive— By A PR AS Se SAR",en,"{'ja': ""探偵だけど監視している二人はジョーカーに騙されない| F それらの時計はジョーカーの逆の巧妙な策略です。それは間違っています - 何が起こっているのか見てください) クロウイが走っているのです、犯罪者です! ROME A THE A 'A RETURN TO ESS THE GOLD! Gey LS AE ONS os an Fa eae NOW WS A SWELL Nol Next Time You OPEN PLAY )f NEXT WESTERN UP THAT LOCKED WIPE THE DUST OFF TtMeE t GOLD CARY YOUR SHOES.’ ay Ss: <j vetecTive— By A PR AS Se SAR"", 'ur': ""جاسوس لیکن دو دیکھنے والی شخصیات جوکر کے دھوکے میں نہیں آئیں۔ F THOS LOCKS JOKER's Reverse CLEVER RUSE۔ غلط ہیں- سب کیا دیکھو) وہ کراؤوئی بھاگ رہے ہیں، ڈی کرائم! R Some A The A ‘ A Return to ESS The Gold! اگلی بار جب آپ کھلیں گے تو اب کوئی سوج نہیں رہا"", 'zh-cn': '侦探，但两个观察人物并没有被小丑的愚弄| F 这些时钟是小丑的反聪明计。错了——注意什么）他们是克鲁伊在跑，犯罪！ R 一些 A THE A ‘a 回归黄金！ Gey LS AE ONS os an Fa eae 现在 WS A SWELL Nol 下次您打开游戏时 )f 下一个锁定的西部 擦拭灰尘 TtMeE t GOLD CARY YOUR SHOES.’ ay Ss: <j vetecTive — 作者：A PR AS Se SAR'}",manga,sample
+Screenshot_23.png,manga,0.7833983279232395,original_sharp_filtered,0.11387900355871886,"MEANWHILE THE CAR Ts OWNER GOES INSIDE CRUG STORE FOR CIGARETTES te ON, Ha! wal HIDE HERG ba SCRAM LOOK AT TH’ IN THe z CHEAP. SEAT WHERE WONT HOOKIN’ A Be oN LY IT STRIKES A BUMP IN THE ROAD, NS) Ve i of he CAR DRIVEN WITHIN A we GARAGE WHE r SS Y prenry! or HARB MBN WS LISTEN, You giRps! SS WN HAPPENED GOT To wee AN i VW ai A",en,"{'ja': 'その間に、車の所有者はタバコを求めてクルーグストアに入ります。ウォルはヘルグを隠し、スクラムは安いものを見てください。引っ掛けない場所に座ってください、道路の段差にぶつかる可能性があります、NS) SS Y の予定のガレージ内で車を運転している彼の車を見たことがあります。または HARB MBN WS 聞いてください、このお嬢さん! SS WN HAPPENED GOT おしっこする AN i VW ai A', 'ur': ""اس دوران کار کا مالک سگریٹ پینے کے لیے کرگ اسٹور کے اندر چلا گیا، ہا! wal HIDE HERG ba SCRAM LOOK AT TH' in the z Cheap۔ وہ جگہ جہاں ہُکنگ نہیں ہو گی وہ سڑک پر ٹکراتی ہے، NS) Ve i of he Car driven WITHIN A we garage whe r SS Y prenry! یا ہارب ایم بی این سنیں، آپ جی آر پی ایس! SS WN ہوا AN i VW ai A"", 'zh-cn': ""与此同时，车主走进 CRUG 商店买香烟，哈！ wal HIDE Herg ba SCRAM Look at TH' in the z Cheap.座位不会在路上遇到颠簸，NS）我们的车库里有一辆汽车在SS Y prenry！或 HARB MBN WS 听着，你们这些家伙！ SS WN 发生了必须要 AN i VW ai A""}",manga,sample
+Screenshot_3.png,manga,0.8288112163326228,nlm_adapt,0.23436586791350086,"Schoo} of Medicino, Now York University
+
+| Editorial oo
+Advisory Board |
+
+OR. LAURETTA BENDER
+Associato Professor of Psychiatry
+
+|
+
+ir
+
+JOSETTE FRANK
+Consultant on Children’s Reading..
+Child Study Assoctation of Amarice
+
+DR. C.. BOWIE MILLICAN
+
+Departmont of English Literaluro
+New York Univorsity
+
+Or. W. W. D. SONES _
+
+Peofassor of Education and
+Director of Cursiculum Study,
+Universify of Pittsburgh
+
+Dr. S. HARCOURT PEPPARD
+Acting Dircetor, Bureau of Child Guidance
+Board of Education, City of New York
+
+The following mag-
+azines all bear this
+trademark as your
+guarantee of the best
+in comic reading:
+
+ACTION COMICS
+A DATE WITH JUDY
+ADVENTURE COMICS
+ALL-AMERICAN COMICS
+ALL-FLASH
+ALL FUNNY COMICS
+ALLSTAR COMICS
+ANIMAL ANTICS
+BATMAN
+BOY COMMANDOS
+BUZZY
+COMIC CAVALCADE
+DETECTIVE COMICS
+FLASH COMICS
+FUNNY FOLKS
+FUNNY STUFF
+GREEN LANTERN
+LEADING COMICS
+MORE FUN COMICS
+_ MUTT & JEFF
+REAL FACT COMICS
+REAL SCREEN COMICS
+SENSATION COMICS
+STAR SPANGLED COMICS
+SUPERMAN
+WONDER. WOMAN
+WORLD'S FINEST COMICS
+
+DETECTIVE COMICS, No. 128. Oct, 1947. Published month-
+ly by_ National Comics Publications, Inc: 480 Lexington Ave.
+
+New York 17, N. Y. Whitney Ellsworth, Editor. Reentered at
+Office at Now Noth, N. ¥.
+
+second closs matter at ‘the Pos
+under the act af Morch 3, 1879. Yeorly subscription in the
+$1.50 including postage. Foreign, $3.00 in American
+
+f und %.
+
+: For advertising rates oddtese Richard A. Feldon & a""
+
+LS
+
+LO
+
+{hig
+
+O
+IS X, THE UNKNOWN
+
+QUANTITY—
+
+POOR CHAP, HE'LL NEVER
+READ THE BOOKS.
+WITH THE SIGN THAT
+MEANS ""I WANT IT,
+
+GEE."" ,
+
+“ON THE COVER OF
+LA
+
+= S
+CONICS
+FOR EXAMPLES
+IS YOUR
+GUARANTEE
+OF THE BEST
+INANY COMIC
+MAGAZINES
+
+205 ©. 42nd St. New York 17, N. ¥. Entire contents copys
+fighted 1947° by National Comics Publicstions, Inc. Except
+those who ‘have authorized use of their names, the stories
+characters and incidents mentioned in_ this periodical are en-
+Urely imaginary and fictitigus and no identification with actuo?
+Persons, living or dead, is intended or should be inferred.
+
+Printed fn U.S.A. ,",en,"{'ja': 'ニューヨーク大学メディシーノのSchoo}\n\n|編集担当\n諮問委員会 |\n\nまたは。ラウレッタ・ベンダー\n精神医学准教授\n\n|\n\n赤外線\n\nジョゼット・フランク\n子どもの読書コンサルタント。\nアマリス児童研究協会\n\nDR. C..ボウイ・ミリカン\n\n英語リテラルロ科\nニューヨーク大学\n\nあるいは。 W.W.D.SONES_\n\n教育長と\nカリキュラム研究ディレクター、\nピッツバーグの大学\n\nS・ハーコート・ペパード博士\n児童相談所局長代理\nニューヨーク市教育委員会\n\n次の雑誌\nアジンは皆これに耐える\nあなたの商標として\n最高の保証\n漫画を読む場合：\n\nアクションコミックス\nジュディとのデート\nアドベンチャーコミック\nオールアメリカンコミックス\nオールフラッシュ\nすべての面白い漫画\nオールスターコミックス\n動物のふざけた行為\nバットマン\nボーイコマンドス\nバジー\nコミックカヴァルケイド\n探偵漫画\nフラッシュコミック\n面白い人たち\n面白いもの\nグリーンランタン\n一流のコミック\nもっと楽しいコミック\n_ ムットとジェフ\nリアルファクトコミックス\nリアルスクリーンコミック\nセンセーションコミックス\n星条旗コミックス\nスーパーマン\n不思議です。女性\n世界最高のコミック\n\nDETECTIVE COMICS、No. 128、1947 年 10 月、発行月 -\nly by_ National Comic Publications, Inc: 480 Lexington Ave.\n\nニューヨーク 17、ニューヨーク州ホイットニー・エルズワース、編集者。に再入力しました\nNow Noth のオフィス、N. ¥。\n\n「ポスト」での第二の問題\n1879 年モルヒ 3 日以降の法律に基づく。\n送料込みで1.50ドル。外国人、アメリカ人 $3.00\n\n資金と%。\n\n: 広告料金については、奇妙なリチャード・A・フェルドンと「」\n\nLS\n\nLO\n\n{高い\n\n○\nIS X、未知\n\n数量—\n\nかわいそうな人、彼は決してしないよ\n本を読んでください。\nというサインとともに\n意味は「欲しいのですが、\n\nやあ。」\n\n「表紙に\nLA\n\n=S\nコニックス\n例として\nあなたのものです\n保証\n最高の\nイナニーコミック\n雑誌\n\n205 ©. 42nd St. New York 17, N. ¥.コンテンツ全体のコピー\n1947年にNational Comic Publications, Inc.によって戦われた。\n「自分の名前とストーリーの使用を許可した人」\nこの定期刊行物に記載されている人物や事件は、\nまさに空想的で架空のものであり、実際のものとの同一性はありませんか？\n生きているか死んでいるかに関わらず、人物が意図されているか、推測されるべきです。\n\n米国で印刷された、', 'ur': 'سکول آف میڈیسن، ناؤ یارک یونیورسٹی\n\n| ادارتی oo\nایڈوائزری بورڈ |\n\nیا لوریٹا بینڈر\nنفسیات کے ایسوسی ایٹو پروفیسر\n\n|\n\nir\n\nجوسیٹ فرینک\nکنسلٹنٹ برائے بچوں کی پڑھائی..\nچائلڈ اسٹڈی ایسوسی ایشن آف امریس\n\nڈاکٹر C. BOWIE MILLICAN\n\nانگریزی Literaluro کا شعبہ\nنیویارک یونیورسٹی\n\nیا ڈبلیو ڈبلیو ڈی سونز _\n\nپیوفاسر آف ایجوکیشن اور\nنصابی مطالعہ کے ڈائریکٹر،\nپٹسبرگ کی یونیورسٹی\n\nڈاکٹر ایس ہارکورٹ پیپرڈ\nقائم مقام ڈائریکٹر، بیورو آف چائلڈ گائیڈنس\nبورڈ آف ایجوکیشن، سٹی آف نیویارک\n\nمندرجہ ذیل میگ-\nazines سب یہ برداشت کرتے ہیں\nآپ کے بطور ٹریڈ مارک\nبہترین کی ضمانت\nمزاحیہ پڑھنے میں:\n\nایکشن کامکس\nجوڈی کے ساتھ ایک تاریخ\nایڈونچر کامکس\nآل امریکن کامکس\nآل فلیش\nتمام مضحکہ خیز کامکس\nآل اسٹار کامکس\nجانوروں کی اینٹیکس\nبیٹ مین\nبوائے کمانڈوز\nBUZZY\nکامک کیولکیڈ\nجاسوسی مزاحیہ\nفلیش کامکس\nمضحکہ خیز لوگ\nمضحکہ خیز چیزیں\nسبز لالٹین\nمعروف کامکس\nمزید تفریحی کامکس\n_ MUTT اور JEFF\nحقیقی حقیقت مزاحیہ\nاصلی اسکرین کامکس\nسینسیشن کامکس\nسٹار اسپینگلڈ کامکس\nسپرمین\nونڈر۔ عورت\nدنیا کے بہترین کامکس\n\nجاسوسی کامکس، نمبر 128۔ اکتوبر، 1947۔ شائع شدہ ماہ-\nly by_ National Comics Publications, Inc: 480 Lexington Ave.\n\nنیویارک 17، این وائی وٹنی ایلس ورتھ، ایڈیٹر۔ پر دوبارہ داخل ہوا۔\nناؤ نوتھ، N. ¥ پر دفتر۔\n\n\'پوز\' پر دوسرا بند معاملہ\nمورچ 3، 1879 کے ایکٹ کے تحت۔ میں سالانہ سبسکرپشن\n$1.50 بشمول ڈاک۔ غیر ملکی، امریکی میں $3.00\n\nf اور %\n\n: اشتہاری قیمتوں کے لیے رچرڈ اے فیلڈن اور ایک""\n\nایل ایس\n\nLO\n\n{ہائی\n\nاے\nIS X، نامعلوم\n\nمقدار-\n\nغریب آدمی، وہ کبھی نہیں کرے گا\nکتابیں پڑھیں۔\nاس نشانی کے ساتھ\nمطلب ""میں یہ چاہتا ہوں،\n\nGEE.""،\n\n""کے سرورق پر\nایل اے\n\n= ایس\nCONICS\nمثالوں کے لیے\nآپ کا ہے۔\nگارنٹی\nبہترین کا\nINANY مزاحیہ\nمیگزین\n\n205 ©. 42ویں سینٹ نیویارک 17، N. ¥. پورے مواد کی کاپیاں\nنیشنل کامکس پبلی کیشنز، انکارپوریٹڈ کے ذریعہ 1947° کا مقابلہ کیا۔\nوہ لوگ جنہوں نے \'اپنے ناموں، کہانیوں کے استعمال کی اجازت دی ہے۔\nاس رسالہ میں مذکور کردار اور واقعات en-\nواقعی خیالی اور فرضی اور عمل کے ساتھ کوئی شناخت نہیں؟\nافراد، زندہ یا مردہ، ارادہ ہے یا اندازہ لگایا جانا چاہئے.\n\nمطبوعہ ایف این یو ایس اے،', 'zh-cn': ""现约克大学医学院\n\n|编辑部\n顾问委员会|\n\n或者。劳雷塔·本德尔\n精神病学副教授\n\n|\n\n红外\n\n乔塞特·弗兰克\n儿童阅读顾问..\n阿马里斯儿童研究协会\n\n博士。 C..鲍伊·米利肯\n\n英语文学系\n纽约大学\n\n或者。 W.W.D.SONES _\n\n教育家和\n课程研究主任，\n匹兹堡大学\n\nS.哈考特·佩帕德博士\n儿童指导局代理局长\n纽约市教育委员会\n\n以下磁\n吖嗪都承担这个\n商标作为您的\n最好的保证\n在漫画阅读中：\n\n动作漫画\n与朱迪的约会\n冒险漫画\n全美国漫画\n全闪存\n所有有趣的漫画\n全明星漫画\n动物滑稽动作\n蝙蝠侠\n男孩突击队\n嗡嗡声\n漫画队伍\n侦探漫画\n动画漫画\n有趣的人\n有趣的东西\n绿灯侠\n领先漫画\n更多好玩的漫画\n_ 穆特和杰夫\n真实漫画\n真人银幕漫画\n轰动漫画\n星条旗漫画\n超人\n想知道。女人\n世界上最好的漫画\n\n侦探漫画，第 128 期。1947 年 10 月。出版月份-\n作者：National Comics Publications, Inc: 480 Lexington Ave.\n\n纽约 17，纽约州惠特尼·埃尔斯沃斯，编辑。重新进入于\n办公室位于诺斯 (Now Noth)，N. ¥。\n\n'Pos 的第二件结案\n根据 1879 年 Morch 3 号法案。\n1.50 美元，包括邮费。国外，美国 3.00 美元\n\n资金和%。\n\n：对于广告费率，理查德·费尔顿 (Richard A. Feldon) 和“\n\nLS\n\n洛\n\n{高\n\n氧\n是 X，未知者\n\n数量—\n\n可怜的家伙，他永远不会\n阅读书籍。\n带有标志\n意思是“我想要它，\n\n哎呀。”,\n\n“在封面上\n洛杉矶\n\n= S\n圆锥曲线\n举例来说\n是你的\n保证\n最好的\n伊尼漫画\n杂志\n\n205©。 42nd St. 纽约 17, N. ¥。全部内容复制\n1947° 与 National Comics Publicstions, Inc. 进行战斗。除了\n那些“授权使用他们的名字、故事”的人\n本期刊中提到的人物和事件是 en-\n纯粹是想象和虚构的，与现实没有认同吗？\n人，无论是活着的还是死了的，都是有意的或应该推断出来的。\n\n美国印制，""}",manga,sample
+Screenshot_4.png,manga,0.8163641854424464,original_sharp,0.06796116504854369,"- 一 李 3 史 不 一 一 7
+〈′臼 〔苎 铉 菩汪`、薹喜鏖J二晕皇 伯 23 阮 沥 范 圆 》 - . 鸿
+1 l d 一 标 ( 一 e 阮
+沥 又 、 [ | | 言墙「(
+城 氢筐涝'=「'羞耆『;赘熹翩骂【′′鬟琬陷 仪 个 伟 夺 的
+: '.墓'′""薹 鬟雹!…'熹T`宅歪亘=鬓′ ""′-`_罡嘈 园 | 怎 久 回 事 ? …. 龙 ? 仵 在 十 品 2 月
+L MHKaeerc 灵 | ′′
+E 小 1 , 仪 W5 仁 刀 F 刑
+z l | 目 口 = 乏z鲁妾笋`缘′艾荟」蘑涉 5
+E E 一 ( 一 吴 / KK
+人 > Z l 螂′ 广 伟
+一 渡 蛇 肉
+2 厂 | 途 二 `′一一 园 园 有 达 个 . {′′一 刃
+co | “ H 员 , 我 恨 这 个 …... 还 有 这 个 …...
+铋〈′ 藿二′喜蓼颞鞋`义 8 ′…二′′_亨' 口 扬
+G , | 已 2 一 要 些
+韧… 7 愤直 2 〉〉三…_叠凳′_ 涂 伟 个邃二熹膏
+` 3 一 “ 一 咖 7
+D …婶 小 创 怡 : 1273 酗》彰〈 古
+b 市 哟 ( `)`′一""「 | K.[Ah
+J 意 2 | 8 a",zh-cn,"{'en': '- 一李 3 史不 一一 7\n〈′ Jiu 〔苎酓波王`,蹹 Xi鏖J Erhunhuang Bo 23 Ruan Li Fan Yuan》 - . Hong\n1 l d a standard (a e nguyen\nLi You, [ | | Yanqiang ""(\nThe city\'s hydrogen basket waterlogged\' = ""\'shy\';\n: \'. Tomb\'\'""薹鬟鬟!...\'熹T`Zhaiwaigen=鬓′""\'-`_Gang Cao Garden | How long has it happened? .... Dragon? Wu in the tenth grade in February\nL MHKaeerc Ling | ′′\nE small 1, instrument W5 benevolence knife F punishment\nz l | Eyes and mouth = lack z Lu concubine\'s bamboo shoots `yuan\' Aihui"" mushroom she 5\nE E 一 ( 一 五 / KK\nPeople > Z l mantis′ Guang Wei\nA crossing snake meat\n2 Factory | Tu 2 `′一一园园 There are up to . {′′一 Blade\nco | ""Member H, I hate this...and this...\nBismuth〈′ Huoer′xipolytemporal shoes`meaning 8′…二′′_heng\' mouth Yang\nG , | already 2 a to some\nTough... 7 Angry 2 〉〉Three..._Stacked Stool\'_ Tu Wei A Sui Erxi Paste\n` 3 a “ a coffee 7\nD...Aunt Xiao Chuang Yi: 1273 Alcohol》Chang〈 Ancient\nb city yo ( `)`′一""\u3000 | K.[Ah\nJ meaning 2 | 8 a'}",manga,sample
+Screenshot_5.png,manga,0.6836736395191635,original_sharp_filtered,0.7352941176470589,"re IGN eZ NOT YET, SIR, BUT HE HAS TO ARQUND HERE Se, a eS TIMOR? f wae TIMOR, ARE YOU if y See",en,"{'ja': 'まだ回復していません、先生、しかし彼はここで議論しなければなりません、それで、密かに？さあ、ティモール、あなたはいますか？', 'ur': 're IGN eZ ابھی تک نہیں، سر، لیکن اسے یہاں آرکنڈ کرنا ہے، ایک ایس تیمور؟ تیمور، تم ہو اگر تم دیکھتے ہو؟', 'zh-cn': '先生，还没有，但他必须在这里扎堆，是帝汶吗？ f 是东帝汶，你是吗？'}",manga,sample
+Screenshot_6.png,manga,0.7047152773632738,blackhat,0.20809248554913296,"-
+g 》/囊*/「 山 蓄萨
+年 《
+
+系 统 你 就 不 能 给 我 | - 氘 二 “
+好一点的天贝i毛贬`身/ ′…_′《'%一\》′_″…雹
+| 口 一 A
+~ 一 “ a 人
+/ / -AtQaj 人 |
+/ ' &' 物// 十 u 一 国
+w 3
+1 23",zh-cn,"{'en': '-\ng》/Nang*/『山沔\nYear ""\n\nSystem, you can’t give me | - Deuterium Two “\nBetter tempeh i Mao demoted `shen/ ′…_′《\'%一\\》′_″…hail\n| Mouth 1 A\n~ a “ a person\n/ / -AtQaj People |\n/ \' &\' thing// ten u one country\nw 3\n1 23'}",manga,sample
+Screenshot_7.png,manga,0.48917258702030864,plain_gray,0.7203791469194313,"我 重 生 以 后
+自 带 系 统
+这 是 多 少 人
+梦 寐 以 求 的 事
+不 过 每 天 只 能 摇 一 次
+灵 根 资 质 和 先 天 气 运
+这 个 设 定 真 是 坑 爹 啊
+可 十 一 年 都 过 来 了
+我 又 何 必 在 乎
+这 么 一 两 天 呢",ko,"{'en': ""I am alive and well.\nSelf-improvement\nMany small people\n梦寐以求的事\n不 过 每 天 只 能 摇 1 次\n灵根资质和先天气运\nIt's true, it's true, it's happening.\n10 years, 1 year, 1 year, 1 year, 1 year.\nI'm in front of you, I'm in front of you\n一 两 天 呢""}",manga,sample
+Screenshot_8.png,manga,0.6892304993544041,otsu_blue_filtered,0.5454545454545454,a r THOUGHT. il,cy,{'en': 'and r THOUGHT. again'},manga,sample
+Screenshot_1.png,handwritten,0.5772114076410628,plain_gray,0.4,(May,tl,{'en': '(May'},handwritten,sample
+Screenshot_2.png,handwritten,0.502607503793019,otsu_blue,0.9523809523809523,andwritten,en,"{'ja': 'そして書かれた', 'ur': 'اور لکھا', 'zh-cn': '并书面的'}",handwritten,sample
+Screenshot_3.png,handwritten,0.4803555068425596,handwritten_v8,0.010338885697874785,"—a— Spee oe wees tome -_———- -—— — .
+=> ~~ > ee —— ——_ a me -
+Lo eo: ee ag -
+= eee
+
+~~ =e ' ;
+~~ .- _: ae
+
+; rm
+~~ toe i
+—> - . a . eT . a os if re
+ao tee Tne P i wt a "" er ae et yate Lee le - se ar :
+ora ~ . - pats
+ae. Ae 4
+gy emas ry , . r
+Fae AGEN, | a i
+aan aa Soe , YU
+_ oo: + -. ~ woe * - .
+oe ere
+
+-. 1 ol _ an oe, Ty
+bon -~ ‘—— = +) a — 1 4 iz.",en,"{'ja': '—a— Spee oe wees tome -————- -—— — 。\n=> ~~ > ええ —— ——_ 私 -\nLo eo: ee ag -\n= ええ\n\n~~ =e \' ;\n~~ .- _: え\n\n; rm\n~~ つま先\n—> - 。 。 eT. OSがあれば\nao tee Tne P i wt a ""er ae et yate Lee le-sear :\nおら〜。 - 撫でる\nああ。エー4\nギエマスリ、。 r\nフェイ・アジェン、 |あ、私\nああ、ああ、ソー、ユ\n_oo: + -。 〜悲惨な* - 。\nああ、エレ\n\n-。 1 ol_an oe、Ty\nボン -~ ‘—— = +) a — 1 4 iz.', 'ur': '—a— Spee oe wees tome -_————- ——— — .\n=> ~~> ee —— ——_ a me -\nلو ایو: ای ای جی -\n= eee\n\n~~ =e \' ;\n~~ .- _: ae\n\n; rm\n~~ پیر i\n--> - ایک ای ٹی ایک OS اگر دوبارہ\nao tee Tne P i wt a "" er ae et yate Lee - se ar :\nیا ~ --.پیٹ\nae Ae 4\ngy emas ry , . r\nFae AGEN، | ایک میں\naan aa Soe , YU\n_oo: + -. ~ افسوس * - .\nاوہ پہلے\n\n--. 1 ol _ an oe, Ty\nbon -~ ‘—— = +) a — 1 4 iz۔', 'zh-cn': '—a— Spee oe wees tome -_——- -—— — 。\n=> ~~ > ee —— ——_ 一个我 -\nLo eo: ee ag -\n= ee\n\n~~=e\';\n~~ .- _: ae\n\n; rm\n~~脚趾我\n—>-。一个。 eT 。操作系统如果重新\nao tee Tne P i wt a ""er ae et yate Lee le-se ar :\n奥拉～。 - 拍拍\nae. AE 4\n吉埃马斯里，。 r\n费阿根，|我\n苏\n_ oo：+ -。 〜祸* - 。\n厄埃雷\n\n-. 1 ol _ oe, Ty\nbon -~ ‘—— = +) a — 1 4 iz.'}",handwritten,sample
+handwritten_1.jpg,handwritten,0.5690179844300667,clahe_2x_sharp,0.4397163120567376,"writes Liles hes fotze
+
+WILE orks
+
+Te bee Should: jee Race",en,"{'ja': 'リイルズはフォッツェを書いています\n\nワイルオークス\n\nティービーすべき: ジーレース', 'ur': 'Liles hes fotze لکھتے ہیں۔\n\nWILE orks\n\nTe bee چاہئے: jee ریس', 'zh-cn': 'Liles hes fotze 写道\n\nWILE兽人\n\nTe bee 应该：jee Race'}",handwritten,sample
+image (1).jpg,handwritten,0.5775305480606395,bg_normalize,0.6133333333333333,THOR Hoy Wary Qabed soma Le bh - Wrong,en,"{'ja': 'THOR Hoy Wary Qabed soma Le bh - 間違っています', 'ur': 'THOR Hoy Wary Qabed soma Le bh - غلط', 'zh-cn': 'THOR Hoy Wary Qabed soma Le bh - 错误'}",handwritten,sample
+image (10).jpg,handwritten,0.7133555327822628,proj_deskew,0.9371428571428572,"xssuredness ""Bella Bella Narie"" ( arlophone ), o lively song that change tempo mid-way .",en,"{'ja': 'xssuredness「Bella Bella Narie」（アーロフォン）、途中でテンポが変わる元気な曲。', 'ur': 'xssuredness ""Bella Bella Narie"" ( arlophone ) , o زندہ دل گانا جو رفتار کو درمیان میں بدل دیتا ہے۔', 'zh-cn': 'xssuredness “Bella Bella Narie”（arlophone），一首中途改变节奏的活泼歌曲。'}",handwritten,sample
+image (11).jpg,handwritten,0.5802384899007301,bg_normalize,1.0,showing that Such Changes are part of a,en,"{'ja': 'このような変更が、', 'ur': 'یہ ظاہر کرنا کہ ایسی تبدیلیاں a کا حصہ ہیں۔', 'zh-cn': '表明此类变更是'}",handwritten,sample
+image (2).jpg,handwritten,0.562689255470491,clahe_2x,0.6436781609195402,Large a o/ habeur OM Rane Lhely 0 barn,en,"{'ja': 'ラージ ア オー/ ハブール OM Rane Lhely 0 納屋', 'ur': 'بڑا ایک o/ habeur OM Rane Lhely 0 barn', 'zh-cn': '大型 o/ habeur OM Rane Lhely 0 谷仓'}",handwritten,sample
+image (3).jpg,handwritten,0.6043985972393301,bg_normalize,0.65,muewbery THE Awe purl Afmtcan Aahevalih,en,"{'ja': 'muewbery THE Awe purl Afmtcan Ahevalih', 'ur': 'muewbery The Awe purl Afmtcan Aahevalih', 'zh-cn': 'muewbery THE Awe purl Afmtcan Aahevalih'}",handwritten,sample
+image (4).jpg,handwritten,0.7254483703920456,bg_normalize,0.7083333333333334,teeresses have heen Craleol Net Gbour Seakwenk,nl,{'en': 'teeresses have gone Craleol Net Gbour Seakwenk'},handwritten,sample
+image (5).jpg,handwritten,0.6425386609812311,morph_clean,0.7628865979381443,"mn Northem Rhoderr.o, ut Ahe lolonial Seertory,,",en,"{'ja': 'mn Northem Rhoderr.o、ut Ahe lolonial Sertory、、', 'ur': 'mn Northem Rhoderr.o, ut Ahe lolonial Seertory,,', 'zh-cn': 'mn Northem Rhoderr.o, ut Ahe lolonial Seertory,,'}",handwritten,sample
+image (6).jpg,handwritten,0.6565398447453571,otsu_blue,0.9056603773584906,lucky lo have descended From Soch economic oltdudes .,en,"{'ja': '幸運なことに、ソッホの経済老人の子孫です。', 'ur': 'خوش قسمت لوگ سوچ کے معاشی بزرگوں سے اترے ہیں۔', 'zh-cn': '幸运的是，你是索赫经济老家伙的后裔。'}",handwritten,sample
+image (7).jpg,handwritten,0.5908567957696604,red_ch_clahe,0.5316455696202531,atnk thor RL; caret. (ler thittah Lad,en,"{'ja': 'RL に注意してください。キャレット。 (ラー・ティッター・ラッド', 'ur': 'atnk تھور آر ایل؛ کیریٹ (لر ٹھٹھہ لاڈ', 'zh-cn': '雷神 RL；插入符。 （勒蒂塔小伙子'}",handwritten,sample
+image (8).jpg,handwritten,0.5884817706337034,bg_normalize,0.4266666666666667,wole be weber Qn ser whee Kelly Jor.,en,"{'ja': 'ウェーバー、ケリー・ジョーを待ちなさい。', 'ur': 'wole be weber Qn ser whee Kelly Jor۔', 'zh-cn': '我是韦伯·凯利·乔 (Kelly Jor)。'}",handwritten,sample
+image (9).jpg,handwritten,0.5841231331034407,morph_clean,0.7446808510638298,"‘Lock! fe wend om eamrantly ""You are nat gorng",en,"{'ja': ""'ロック！フェ・ウェン・オム・アム・ラットリー「あなたはナット・ゴーンではない」"", 'ur': '\'تالا! fe wend om eamrantly ""You are nat gorng', 'zh-cn': ""'锁！ fe wend om eamrantly “你是 nat gorng""}",handwritten,sample
+image.jpg,handwritten,0.5654908870304264,bilateral_adapt,0.4634146341463415,Baik te me peter rome if wip topes,en,"{'ja': 'Baik te me Peter rome if wip topes', 'ur': 'بیک ٹی می پیٹر روم اگر وِپ ٹاپس', 'zh-cn': 'Baik te me peter 罗马 if wip topes'}",handwritten,sample
+test_image.jpg,handwritten,0.5823582892561463,detail_enhance,0.03308270676691729,"‘Ss ‘i ¥ 3 Ps. D>
+Dy Polsnomel ti mk = p/ablems are determin tstie
+
+ae 4a > - aA ""7 D “
+iP Se haw hendatermid les py Fewial Hine is oo
+
+~ tipe ct problem
+
+a PME Ye 7 ing -
+3: the Hime complerity Bian, sasich 15 Ololen
+co the bigQ of the tes SEER",en,"{'ja': '\'Ss\'i ¥3Ps.ド＞\nDy Polsnomel timk = p/ablems が決定されます\n\nae 4a > - aA ""7 D ""\niP Se haw hendatermid les py Fewial Hine は oo\n\n~ ティペCT問題\n\nPME イェー 7 イング -\n3: 姫コンプリビアン、サシック 15 オロレン\nco tes SEERのbigQ', 'ur': '\'Ss\' i¥ 3 Ps۔ ڈی>\nDy Polsnomel ti mk = p/ablems tstie کا تعین کرتے ہیں۔\n\nae 4a > - aA ""7 D""\niP Se haw hendatermid les py Fewial Hine is oo\n\n~ ٹائپ سی ٹی مسئلہ\n\nایک PME Ye 7 ing -\n3: ہیم کمپلیریٹی بیان، ساسچ 15 اولولین\nco the bigQ of the tes SEER', 'zh-cn': '‘Ss’i ¥ 3 Ps。 D>\nDy Polsnomel ti mk = p/ablems 确定 tstie\n\nae 4a > - aA “7 D “\niP Se haw hendatermid les py Fewial Hine is oo\n\n~ 提示 ct 问题\n\nPME 叶 7 ing -\n3：Hime complerity Bian，sasich 15 Ololen\nco tes SEER 的 bigQ'}",handwritten,sample
+Screenshot_1.png,stylized,0.6898030053358332,original_sharp_filtered,0.6757990867579908,Ghd LIFE 1S IN THEIR HANDS-@@DEATH IS ON THEIR MINDS! EXPLODES UKE HENRY FONDA STICKS f DYNAMITE! ANGRY WX,de,{'en': 'Ghd LIFE 1S IN THEIR HANDS-@@DEATH IS ON THEIR MINDS! EXPLODES UKE HENRY FONDA STICKS f DYNAMITE! ANGRY WX'},stylized,sample
+Screenshot_10.png,stylized,0.6867689497783103,plain_gray,0.16981132075471697,"TOKYO EXHIBITION
+ー ま ょ
+T
+
+の ) 曹蔓 に
+夷 詣 山
+観 昌
+
+IIIIIIIII I 言箒隋",ja,{'en': 'TOKYO EXHIBITION\n- Well\nT\n\n) to Cao Li\nPilgrimage to Mt.\nKansho\n\nIIIIIIIII I Word Broom Sui'},stylized,sample
+Screenshot_11.png,handwritten,0.5678088238854022,raw_filtered,0.3076923076923077,寸 避 险 车 道,zh-cn,{'en': 'inch escape lane'},stylized,sample
+Screenshot_12.png,handwritten,0.5071749853876861,adaptive_filtered,0.34210526315789475,مر ہت اعناط یپ ا پت سے جھ امتھ سلا ے بس,ur,{'en': 'Jhamath sila bus from Marathi Ananat Yippapat'},stylized,sample
+Screenshot_13.png,stylized,0.6603533922107896,detail_enhance_filtered,0.96875,Trafalgar Square Lambeth Bridge,en,"{'ja': 'トラファルガー広場 ランベス橋', 'ur': 'ٹریفلگر اسکوائر لیمبتھ برج', 'zh-cn': '特拉法加广场 兰贝斯桥'}",stylized,sample
+Screenshot_14.png,stylized,0.5298600688846266,nlm_adapt,0.6086956521739131,"Flumps for
+1a mile
+
+No footway
+ror 400 yds",en,"{'ja': 'のためのふくらはぎ\n1マイル\n\n歩道なし\nロール400ヤード', 'ur': 'کے لیے فلمپس\n1 میل\n\nکوئی پیدل راستہ نہیں۔\nرور 400 گز', 'zh-cn': '失败的\n1英里\n\n没有人行道\n约 400 码'}",stylized,sample
+Screenshot_15.png,stylized,0.636511319661033,otsu_blue_filtered,0.8571428571428571,Max speed,so,{'en': 'Max speed'},stylized,sample
+Screenshot_16.png,stylized,0.6354091217480932,plain_gray_filtered,1.0,NO EXIT,pt,{'en': 'NO EXIT'},stylized,sample
+Screenshot_17.png,stylized,0.6765323606450913,plain_gray_filtered,1.0,NO ENTRY,pt,{'en': 'NO ENTRY'},stylized,sample
+Screenshot_18.png,stylized,0.6957090175821055,proj_deskew_otsu_filtered,0.9629629629629629,MARKET SQUARE:,en,"{'ja': 'マーケットスクエア:', 'ur': 'مارکیٹ چوک:', 'zh-cn': '市场广场：'}",stylized,sample
+Screenshot_19.png,stylized,0.6641826088820616,proj_deskew_otsu,0.8615384615384616,"The Royal Borough of . «ington
+and Chelse:
+
+PAVILION
+STREET, SWI",en,"{'ja': 'の王立特別区。 «イントン\nそしてチェルス：\n\nパビリオン\nスイス、ストリート', 'ur': 'رائل بورو آف . ""انگٹن\nاور چیلسی:\n\nپویلین\nسٹریٹ، SWI', 'zh-cn': '皇家自治区。尼亚宁顿\n和切尔西：\n\n展馆\n街道，SWI'}",stylized,sample
+Screenshot_2.png,manga,0.6697732555704436,otsu_blue,0.0297029702970297,"ee Sane y= er eye eet. eet
+Piarieecns ere ee
+be a r) 7 Ren acd . 3 4 : = i vir.
+= = er ""S + ‘ames = . ~ ——ves =
+: a oR : Te ee as ig.
+Ry time aes . arr . As . F wr ty TE: mer
+peri deen ing + se ee nl |g
+= ' = — a : ss . _
+ea ATG POF a RL NET BOE SHER Ke: ere",nl,"{'en': 'ee Sane y= er eye eats. eat\nPiarieecn\'s honorary ee\nbe a r) 7 Ren acd . 3 4 : = i vir.\n= = er ""S + \'ames = . ~ ——ves =\n: a oR : Te ee as ig.\nRy time aes . arr . Ash . F wr ty TE: mer\nperi deen ing + se ee nl |g\n= \' = — a : ss . _\nea ATG POF a RL NET BOE SHER Ke: honorary'}",stylized,sample
+Screenshot_20.png,stylized,0.7269522993146391,morph_clean_filtered,0.8095238095238095,Watford n Amersham,en,"{'ja': 'ワトフォードとアマシャム', 'ur': 'واٹفورڈ این ایمرشام', 'zh-cn': '沃特福德和阿默舍姆'}",stylized,sample
+Screenshot_3.png,stylized,0.7323237170871075,plain_gray,0.8363636363636363,"AMAICA ROAD
+LATE DOCKHE A",en,"{'ja': 'アマイカロード\n後期ドッケA', 'ur': 'امیکا روڈ\nلیٹ ڈوکے اے', 'zh-cn': '阿米卡路\n晚期多克A'}",stylized,sample
+Screenshot_4.png,stylized,0.6284814762219534,clahe_2x,0.2535211267605634,"oe ; — — i
+= a
+2 "" =
+Wie ah
+wy A - ’
+s “7 > . ws :
+P ‘ — ¥ aN . Ay - + 4 -
+aire
+[oe
+‘ a a",en,"{'ja': 'オエ; — — 私\n=a\n2 "" =\nウィーアー\nなぜA-’\n■「7>. WS :\nP\' — ¥ aN .ああ - +4 -\nエール\n[オエ\n「あ、あ」', 'ur': 'oe — — میں\n= a\n2"" =\nوائی آہ\nwy A -\'\ns “7 > . ws:\nP \' — ¥ aN . Ay - + 4 -\nہوا\n[oe\n\' ایک اے', 'zh-cn': ""俄伊; ——我\n= 一个\n2” =\n魏啊\nwy A-’\ns “7 > .工作：\nP'— ¥ aN 。嗯 - + 4 -\n艾尔\n[奥伊\n' 一个""}",stylized,sample
+Screenshot_5.png,stylized,0.7522159142329113,raw,0.8387096774193549,"BRIDGE STe*
+> A 458 |
+TOURBRIDGE |",en,"{'ja': 'ブリッジステ*\n>A458 |\nツアーブリッジ |', 'ur': 'برج سٹی*\n> A 458 |\nٹور برج |', 'zh-cn': '桥 STe*\n> 458 |\n旅游桥|'}",stylized,sample
+Screenshot_6.png,stylized,0.6834035790664885,plain_gray_filtered,1.0,CAUTION DANGEROUS CORNER DRIVE SLOWLY,de,{'en': 'CAUTION DANGEROUS CORNER DRIVE SLOWLY'},stylized,sample
+Screenshot_7.png,stylized,0.6732338017404139,clahe_2x_filtered,0.2857142857142857,ピ の,ja,"{'en': ""Pi's""}",stylized,sample
+Screenshot_8.png,manga,0.6248649247776329,gray_2x_sharp,0.4620938628158845,"P
+ピ っ
+
+ー ァ “ 面
+〈 ニ
+
+| 真 |
+R
+並
+R
+
+す 。
+iie aance l fie ⑨uet `OOm DecOmeS 0 ③ hotel gueSt
+
+|would e fie eelngsln alODDy
+
+や &⑥
+m ミ
+ス
+
+お 願 い 申 し",nl,{'en': 'P\nピ っ\n\nーァ “ 面\n〈 ニ\n\n| 真 |\nR\n並\nR\n\nす。\niie aance l fie ⑨uet `OOm DecOmeS 0 ③ hotel guest\n\n|would e fie eelngsln alODDy\n\nや &⑥\nm ミ\nス\n\nお願い申し'},stylized,sample
+Screenshot_9.png,stylized,0.6606116411213565,raw,0.7272727272727273,中 文 字 牌,ko,{'en': 'Chinese characters'},stylized,sample
+Screenshot_11.png,manga,0.6123717861114906,clahe_2x_sharp_filtered,0.9010989010989011,wOAVE THE SOUL SOCIETY. ICHIGO KURO- SAKI...!,en,"{'ja': '魂の社会を織りましょう。黒咲一護…！', 'ur': 'روح کی سوسائٹی کو جھنجھوڑنا۔ ICHIGO KURO- ساکی...!', 'zh-cn': '编织灵魂社会。黑一护-咲……！'}",unknown,testing
+Screenshot_13.png,handwritten,0.5894187396056784,bilateral_adapt_filtered,0.45454545454545453,"Ha verink rol, bo oth",sk,"{'en': 'Ha verink rol, bo oth'}",unknown,testing
+Screenshot_3.png,handwritten,0.4803555068425596,proj_deskew_otsu,1.0,TO DO LIST,pt,{'en': 'TO DO LIST'},unknown,testing
+Screenshot_4.png,handwritten,0.5669293755198194,plain_gray_filtered,0.9047619047619048,Write n Wi pe Poster,ro,{'en': 'Write n Wi on Poster'},unknown,testing
+Screenshot_9.png,manga,0.8063932652814737,otsu_blue_filtered,0.7547169811320755,Leds UNBREAK- ABLE. SEE? F,en,"{'ja': 'LED は壊れません。見る？ F', 'ur': 'لیڈز UNBREAK- قابل۔ دیکھو؟ ایف', 'zh-cn': 'LED 灯牢不可破。看？ F'}",unknown,testing
+image (12).jpg,handwritten,0.6761510291979658,bg_normalize,0.7865168539325843,meeNNg in koncden €9 KMencky. Once the Common,en,"{'ja': 'コンクデンで会いましょう €9 KMencky。かつては一般的だった', 'ur': 'meeNNg in koncden €9 KMencky۔ ایک بار کامن', 'zh-cn': '在 koncden 开会 €9 KMencky。一旦通用'}",unknown,testing

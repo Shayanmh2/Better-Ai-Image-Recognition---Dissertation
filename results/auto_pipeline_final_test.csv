@@ -1,0 +1,25 @@
+﻿filename,predicted_category,confidence,ocr_quality,ocr_text,detected_language,translations
+Screenshot_11.png,manga,0.6132030893375906,Good,THE SOUL SOCIETY. ICHIGO KURO- SAKI..!,en,"{'ja': '魂の社会。黒咲一護..!', 'ur': 'روح معاشرہ۔ ICHIGO KURO- ساکی..!', 'zh-cn': '灵魂社会。黑一护-咲……！'}"
+Screenshot_13.png,handwritten,0.6156741106094523,Good,"a :
+& “f ‘5 Pp.
+| ‘ t
+
+* The : :
+
+py MOO COrApOUy |
+
+| Roundwortling, foul |
+
+sens aeneneeirnmeuereviceip i atmatemesct a ' So ‘",en,"{'ja': ""：\n&「f '5 Pp.\n| 't\n\n* : :\n\nパイムー株式会社 |\n\n|ラウンドワーリング、ファウル | 写真\n\nsens aeneneeirnmeuereviceip 私は「だから」"", 'ur': 'a:\n& ""f \'5 Pp.\n| ٹی\n\n*دی::\n\npy MOO COrApOUy |\n\n| راؤنڈ ورٹلنگ، فاؤل |\n\nsens aeneneeirnmeuereviceip i atmatemesct a \'تو\'', 'zh-cn': ""一个：\n& “f ‘5 页。\n| ' t\n\n* : :\n\npy moo 公司 |\n\n|圆虫，犯规|\n\nsens aeneneeirnmuereviceip i atmatemesct a 'So '""}"
+Screenshot_3.png,stylized,0.6840995900775726,Good,"J @
+a’ ’ $
+je Tr
+- Taw
+° ol well # ae
+*, ° <_ mer",cy,"{'en': ""J @\nand'' $\nje Tr\n- Quiet\n° ol better # ae\n*, ° <_ Wed""}"
+Screenshot_4.png,handwritten,0.5986989732158351,Moderate,"Write n W pe
+Foster",ro,{'en': 'Write n W on\nFoster'}
+Screenshot_9.png,manga,0.7859053190067088,Good,,unknown,{}
+image (12).jpg,handwritten,0.8090329606519144,Good,"ghey ES ex Oy nails a voy oy: Page { BUI Oyen af: pk Pet ao Wl BD GPR ee IZ a we fer um ay ffi, ly fr IRS hay Ro ae ee ge rz:
+FE PCE IIT DEF £93 HPs Py psp 65 ffi -y Ruoff > 6° Va ae Go digo? oes ahty g& f POMP YA ese. oS
+eeere G Wyo Oncor? C8) MOncoliy: Cece Mme Cimrmmorn",en,"{'ja': 'ghey ES ex Oy は voy oy を釘付けにします: Page { BUI Oyen af: pk Pet ao Wl BD GPR ee IZ a we ferum ay ffi, ly fr IRS hay Ro ae ee ge rz:\nFE PCE IIT DEF £93 HPs Py psp 65 ffi -y Ruoff > 6° Va ae ゴーディゴ?オーエス アティ g& f POMP YA ese。 OS\nええいGワイオオンコール？ C8) モンコリー: Cece Mme Cimrmmorn', 'ur': 'ghey ES ex Oy nails a voy oy: Page { BUI Oyen af: pk Pet ao Wl BD GPR ee IZ a we fer um ay ffi, ly fr IRS hay Ro ae ee ge rz:\nFE PCE IIT DEF £93 HPs Py psp 65 ffi -y Ruoff > 6° Va ae Go digo؟ oes ahty g&f POMP YA ese. او ایس\neeere G Wyo Oncor؟ C8) MOncoliy: Cece Mme Cimrmmorn', 'zh-cn': 'ghey ES ex Oy 钉了一个 voy oy: Page { BUI Oyen af: pk Pet ao Wl BD GPR ee IZ a we fer um ay ffi, ly fr IRS hay Ro ae ee g rz:\nFE PCE IIT DEF £93 HPs Py psp 65 ffi -y Ruoff > 6° Va ae Go digo？ oe ahty g& f POMP YA ese。操作系统\neeere G Wyo Oncor？ C8) MOncoliy: Cece Mme Cimrmmorn'}"

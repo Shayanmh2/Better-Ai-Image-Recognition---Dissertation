@@ -1,0 +1,2471 @@
+filename,category,psm,raw_text,processed_text,raw_length,processed_length,length_improvement,ground_truth,has_ground_truth,timestamp,raw_char_accuracy,raw_word_accuracy,proc_char_accuracy,proc_word_accuracy,char_accuracy_improvement,translated_text,translation_from_cache,translation_success,translation_error,target_lang,translated_at
+0 (1).jpg,manga,6,"00 am
+~~ aN ’
+De} UA
+sore
+| cop
+NA | ~~
+ie =, ie 5 i BY ez
+ye yh ay Lacey!","es ly. Ws Af] _. rm Oh ‘
+{ ‘\ ‘4 se ae) Se
+: : 7 4 / y 'g 7 . AN Ns ."" ‘. i of _ . ag3 =
+I, . G : ee a PAG | toe yd PN MSy ""RN
+. . “e2a? 5 ° 4 : on Vpn gi Be # - eh 2
+. 7, om . : . e i CME, 2 —_ Sa, - _
+| . a ” “oe “ cote ~~ ~~ .
+ee | ~ vf : “Wn nee
+AN. aa e I, t ip, chow ,
+ey vA ' : : 1 “ ry
+eB : of AS
+- ot ie v . L > —, oon
+ek ; Bg Cea: sy ! . o LA aX
+i A? 5 ~ 2 Th Ss a ™, y ~ VE Ps Ae «XS
+i pp N. Sr we WAS ‘ Hi [ ' by bn “ay ae) i. E> fi, . a . or,
+ap st Ca yaa 4 a4 ee uy AS cy"" We ERY * onan ‘| is , wN ay \.
+ries Parone ae at ye ae te ae, = a, “4 ~ WA, ra LP, KS zi}. tf a So . ‘ NS i 7
+F a OPO SE, Ley LONE! 3 @Q — ""= 7 Aad) rn 4 OY, . yar ai tas
+(Dr ? 3h te SS Ro pe Z ers cl eee “Wf -# 1 w
+1A) - Aim 4. FBS 6 a oil { . ae foe due ff a _ y SA
+SAN ee , fi F| o a Se > ay ae n \ no
+? pf: . Gao re ‘ he Pa Ys 5 a4) \' Vy
+i Ay he fog . Per TIT. f : Ares
+AY \ < LY v, fe Me "" is. fh de e a AY aly
+. , os 5 one rn, * f- 4 ” Rg —_ +. : . f
+es eoeron Oy AA Eg POP yp ‘ Ps — ° Nee”
+. ae ay as eat JOP OL fo et os : pe”
+a Ps Pam ""ale Tw ef iad LOLS ; o ’ ott ity
+: —_ - “S Keo oS amie ov l a euAY eae
+i A. tT ey 4, Paras
+. ~ ~ were ao . ae ~ a _ = = . - ee a a — =e LA
+: i“ Ay ~ ‘p. a ene 1 —
+\ = whem j wat i - oes ; 4 ¥ : “
+~S. : va ica . . a — ore te
+BFS, eo) ‘ ‘=, %s “ ™ 5 f ~ > , Pa fo A vA ‘ ro 3 - i
+ie vi 4 y ff ee ~ NS n ‘ . : oy: ir “ . wierd “ay fhe AS ND
+a fp “| aN eS aA KY N: “un Can : : 3 ‘fy ak ied ot ; per a OR
+| ee NS ye Na _—s . ‘ 3 : 0 att BEDS ONY MLO a
+‘ a) eS Sa ee aN , PNA Cotte SSNS De ae
+. 1 = ace , Py oh . As AS at oN if . ; cat y WY b> ee, “Way i ee ae
+¢ j te ae ry Pa 2 Lace ome y 7) ee : are ™ WY oN CLS, On it. TN
+F a pr Ser or 0 bef, ‘ ba at: : "" Vou ‘AY. : Lt eS NN aw Coe ewe met
+we fe ce 7"" te : Up. sN — ; ome ——
+. = pia of yl 4 | t |",74,1776,1702,,False,2026-04-10T16:58:18.673269,,,,,,"میں جھوٹا ہوں۔ Ws Af] _. rm اوہ‘
+{ ‘ \ ‘ 4 اگر ae) اگر
+: : 7 4 / y 'g 7 . AN Ns "" . i کا _ . ag3 =
+میں، جی: ہاں اور پی اے جی | PN MSy ""RN کے قریب
+. . ""e2a؟ 5 ° 4 : Vpn gi Be # - eh 2 پر
+. 7، آدمی : اور CMEs، 2 —_ Sa, - _
+| . a "" "" oe "" ساحل ~~ ~
+ہاں | ~ vf : ""کون نہیں کرتا
+ME اے ای آئی، ٹی آئی پی، چاؤ،
+ey vA ' : 1 “ کے ساتھ
+eB: AS کا
+- واٹر ہاؤس v L > -، the
+ایک جناب چائے: ہاں! . یا ایل اے ایکس
+اور اے؟ 5 ~ 2 Th Ss a TM، اور ~ VE Ps Ae «XS
+i pp N. Sr we was ' Hi [ ' by bn “ay ae) i. e> fi, . a. یا،
+ap st We ERY * onan ‘ | ہے، wN ay \.
+ries Parone ae at ye ae te ae, = a, “4 ~ WA, ra LP, KS zi}. tf a So. ‘ NS i 7
+F سے OPO SE، یہ قانون ہے! 3 @Q — ""= 7 Aad) rn 4 OY، . یار آئی تس
+(ڈاکٹر ? 3h سے SS Ro pe Z ers cl eeee “Wf -# 1 w
+1A) - مقصد 4. FBS 6 ایک تیل { ۔ اور دشمن دو ff a _ y SA
+SAN ہاں، اگر F| یا Se > ay اور n \ no
+? pf: آپ Pa Ys 5 a4 نہیں کہتے) \' Vy
+i Ay he fog per TIT. f: آریس
+AY \ < LY v، ایمان مجھ "" e a AY aly کا fh ہے۔
+. , os 5 one rn, * f- 4 ” Rg —_ +. : . f
+اس نے کہا Oy AA Eg POP yp ‘Ps — ° Nee”
+. اور اس نے JOP OL fo et os سے کہا: pe""
+ایک Ps Pam ""ale Tw ef iad LOLS؛ o' ott ity
+: —_ - “میں میرا ایک دوست ہوں۔
+i A. tT ey 4، پیرا
+. ~ ~ ao تھے . a ~ a _ = = . - ہاں a — = اور LA
+:i"" Ay~ 'p. a he 1 —
+\ = whem j wat i - oes ; 4 ¥ : “
+~ ایس : جاتا ہے۔ ایک - ایسک آپ
+BFS, eo) ‘ ‘ =, %s “ ™ 5 f~ > , Pa fo A vA ‘ ro 3 - i
+یعنی vi 4 y ff ee ~ NS n ‘ . : oy: ir “ . wierd “ay fhe AS ND
+a fp “| aN eS aA KY N: “un can : : 3 ‘fy ak ied ot ; سونے کے لیے
+| ہاں اگر _—s کے لیے NS۔ ' 3 : 0 پر بیڈز اونی ایم ایل او اے
+'a) eS Saee aN، PNA Cooked SSNS of ae
+. 1 = ace , Py oh . اور AS on on if . ; WY بلی نے کہا، ""ویسے میں ہاں ہاں
+¢ j te ae ry Pa 2 Lace ome y 7) ee : TM WY پر CLS ہیں، اس پر۔ ٹی این
+F a pr Ser or 0 bef, 'ba at: : "" Vou'AY. : Lt eS NN aw Coe ewe met
+ہم آپ پر یقین رکھتے ہیں: اوپر۔
+. = پیا آف دی 4 | t |",True,True,,ur,2026-04-10T17:00:37.163245
+0 (2).jpg,manga,6,"= @ Tee,
+YOU Abeve wee a t TRAN Si
+| Matter now eo","ORWE
+, -
+beg wi] ORE ee ON oe
+’ Masta wes , ftv’ 7 . 7 7 ae sos . ig a ae ~ .
+a Foo, Te aes vw : x ees Pear ramet a oS =
+te See a a nn) me
+CF. 4 are q ‘ ~ Nace targee in Se A ra : . Neer
+on ‘ fc 7a A “, So * <<. A -* 4 ae ee 7° i :
+on ° —_
+Sy
+af awh, (: . yf Suipo
+ee o ’ rr i "" : 5 P Gg -
+1 are one ape estan dveane Dil acy TR TE ie poo
+i sae A - SII Sie Caaae SSSI pane ween, oP A HOLS
+, ON l. ee
+ny ~ \ won
+Wie ems 4 . ae o ‘a Bas A .
+oh WO ts * { =4 ” 4 . ~~ "" . y = te peer LA Gir Pale .
+pYAST NT a Y ' 4 wee Ve
+4 q f 3 rr ae ra —
+MATT pt— a AQ ee | . NO WARS
+a oo ra S ° f, ' , Ad ‘ .
+fe weet le fy ‘ ee |
+wre yrieec eae = gl et, AE nn, Wi oo“
+‘i aw” e ety aes a a~ ‘",50,673,623,"BUT DRIVER, IF WE'RE GOING TO SUIDO BASHI AT THIS HOUR, ISN'T IT FASTER TO GO BY TRAIN?, NO WARRIOR GOES TO BATTLE BY TRAIN SIR, AND THE CROWD WILL WAIT UNTIL YOU ARRIVE SIR, NO MATTER HOW LONG",True,2026-04-10T16:58:22.660731,21.65,5.88,13.31,2.94,-8.34,"ORWE
+, -
+بیگ] ORE ہاں پر ہاں
+'ماسٹر ویسٹ، ایف ٹی وی' 7۔ 7 7 اور چٹنی ig a ae ~ .
+a Foo, Te aes vw : x ees ناشپاتی کی شاخ a oS =
+آپ مجھے دیکھتے ہیں۔
+سی ایف۔ 4 ہیں q ' ~ Se Ara میں پیدا ہوئے : اعصاب
+'fc 7a A' پر، تو * <<. A -* 4 اور ee 7° i :
+° —_ پر
+Sy
+af awh, (: . yf Suipo
+ee o' rr i "" : 5 P Gg -
+1 آپ میں سے ایک ہیں Dil acy TR TE یعنی پو
+i sae A - SII Sie Caaae SSSI چھاتی، oP A HOLS
+، آن ایل۔ کھاؤ
+یا ~ \ جیتا۔
+یہ 4 ہیں جبکہ باس اے
+اوہ WO ts * { =4 ” 4 . ~~ "" . y = ہم مرتبہ ایل اے ٹرن پیل کے لیے
+pYAST NT a Y' 4 wee Ve
+4 q f 3 rr ہیں —
+MATT pt- اور AQ ہاں | . کوئی جنگیں نہیں۔
+ایک گھنٹہ جہاں S ° f, ' , Ad ' .
+fee weet and fy 'ہاں |
+جہاں نتائج ہیں = gl et, AE nn, Wi oo""
+'i aw' e ety aes a~'",True,True,,ur,2026-04-10T17:00:37.163245
+0 (3).jpg,manga,6,,"x es : :
+~~, r va
+wf . See .. Zz Test — “ fi y * . . L
+“ 2 int tee OT ns: : EFENES on NS Tf, ey . < ? oy Me o,
+ft Oa ‘. = 1 a ; 4 Ay bie |B x vd, snre 4 m7
+[o° fife fF 7 ff NESSIE] PO Z . LSS fNhyp ARAL i J fi;
+pS SLND eh, AM P/N) WG Pi fite pofee' fof fo-s
+f ry J as iad <s wl. SS £3 FW. hb 4 ~ HOP, ies ff stn fapre fad bares ‘é
+: a Cy Pag ey, my lirry nis , Bey if. 7 Aart YY EF"" [IA ROEM fia dies Jove. 4
+y oe age ~ vf . b. 7 ite : ’ veoh tf A | oa y Ry) Y, if: bE Wid, : boty Ree of hs co *
+- J ff ) 1: LY We 5 : fae) \ ° VSB 3 * = i pes binant) ae ®
+: a é : . aes Di “a . ” OPEN Te Cc Ee I Oe
+. - ny fo q oy / ‘ ~ bol a ay nak s ave ewe a Peeey:
+iy - Pa Whe. os ay eet ° me i. yg : $24 SE te
+. an wan - Sere qe: CAR TO ae
+a ae . SN ° . 1 . Sn aD ve
+ee. » —v = wo =v ey
+. | r p Nae
+» ate ) v4 ° we ~ ~ wag ebacstp bo Fs bene. . .
+CoO tee AD OLR poset tee. nf RS rs vaste ee TNT Oe ae Dy ttty *elath . c ca x "" crete Te RT
+ore oN
+— ~~. 3 = ~~
+Oe ei oe ee es Ep aw Bee
+BSS AAS ER UCR AGUS ASV BENE SCR ACS ame COSY Te RN RN eS HER ENTS ce ees aes eS ee ee a. ; SPS OREe
+IEE oe ee: RON a a ff ORE
+SSeS tieoeceiny oer miu Sienn: waar SSS EES ES hie MSPNGIS Bre are hucon Reese reer auoen as Reeataeeeoy SOO
+ENN bak ov. (773 SS \ “A rs. . Mh as! : Cf ‘ na) ?
+ae alia yas aN ye Y aoe LI BK OSS
+——<——— Se = y . ‘ “. aoa"" ~~ ) oe mw ane, mW, KE ’
+~ a SANS = ~ er Y ae 77 ve
+pe IWS See S eT, Te Se” :
+a 3h a cell “A ; Js ao f))
+ltd a oh . . A ‘ ee ss Pa -_ ow “5 K~ ;
+5 4 we 4 Y SS 7 ft f —-
+a | SO 40 , a op.
+. at ee ~ ° 4 4 <s ¥ ir) : : eed os a Tete
+Sf: mn ¥ a ‘ “iG — q 4 59) i Gra
+¥ ws ~ W7, 2 - .",0,1598,1598,,False,2026-04-10T16:58:27.560926,,,,,,"x ہے ::
+~~، r تھا
+wf دیکھیں .. Zz ٹیسٹ - "" fi y * . . L
+"" 2 int tee OT ns: : EFENES on NS Tf, ey. < ? oy Me o,
+ft Oa‘‘۔ = 1 ایک ; 4 دن |B x VD, snre 4 m7
+[o° fife fF 7 ff NESSIE] PO Z . LSS fNhyp ARAL i J fi;
+pS SLND eh, AM P/N) WG Pi باہر آتا ہے pofee' all under s
+f کے ساتھ J اور iad <s wl. SS £3 FW۔ hb 4 ~ HOP, ies ff stn fapre fad bars ‘é
+: ایک سائی پاگ، میری للی اب، ہو اگر۔ 7 آرٹ YY EF"" [IA ROEM fia die Jove.
+y oe عمر ~ vf b. 7 یہ: 'veoh tf A | اور ملک کا بادشاہ
+- Jff ) 1: LY کہاں 5 : fae) ​​\ ° VSB 3 * = i سطح بائننٹ) آنکھ ®
+: a اور : aes کہیں ""a ."" کھولیں Te Cc ہاں میں Oe
+. - یا حالات کے تحت / ~ بال Peeey کو دیکھنے کے لیے:
+iy - جب Whe. os اور eet ° me i. Yg : $24 SE
+. an wan - Song qe: CAR TO ae
+ایک ae SN ° 1. Sn اورD اور
+کھاؤ » —v = wo =v ey
+. | r p نام
+» ate ) v4 ° ہم ~ ~ wag ebacstp bo Fs بھی۔ . .
+CoO چائے AD OLR poset چائے۔ nf RS rs vast ee TNT Oe ae to ttty *elath c ca x "" یقین کریں آپ RT کریں
+گھنٹے پر
+--~~ 3 = ~~
+اوہ ہاں ہاں ہاں یہ ایپ یا مکھی ہے۔
+BSS AAS AT UCR اور ASV BENE SCR ACS ame CoZY Te RN RN اس کا ENTS وہ کیا ہے۔ ; SPS OREe
+ہاں کا IEE: RON a ff ORE
+SSeS Sienn میں پیدا ہوا تھا: SSS EES ES MSPNGIS میں چلا گیا۔
+EV پر ENN۔ (773 SS \ “A rs. . Mh as! : Cf ‘na) ?
+اور دیگر Y aoe LI BK OSS ہیں۔
+——<——— اگر = y ۔ ' “. aoa"" ~~ ) oe mw ane, mW, KE'
+~ a SANS = ~ Y ae 77 be پر
+یا IWS S eT دیکھیں، آپ کریں گے"" :
+3h کا ایک سیل ""A؛ Js اور f))
+لمیٹڈ سے اوہ . A ' ee ss Pa -_ ow “5 K~ ;
+5 4 جہاں 4 Y SS 7 ft f —-
+ایک | SO 40، اور op.
+. at ee ~ ° 4 4 <s ¥ ir): : eed os a Tete
+Sf: mn ¥ a ‘ iG — q 4 59) i Gra
+¥ ws ~ W7, 2 - .",True,True,,ur,2026-04-10T17:00:37.163245
+0 (4).jpg,manga,6,"ma ~~
+teesou 4 “ee a MPH, BET
+ae 2 ah le) ee
+PAL TY
+WHO'S NEXT C&S Fa NOWW
+sy as) 7
+le aS SS
+HEY v= SMT, ie
+NaN ra TO.
+PON Li A
+rO) SAN ‘ ie Liss",". : SN
+LOOKS a Ve — f ay
+ee CE GP Cass “W, HMPH, BET
+LIKE YOU Se eS GS Wy) you éuvs
+r — = TINY ao) A. of .. Wy . 5 4
+Ny WAIN (SP BS WAS RUSTY
+oA AN NS fb AFTER BO
+WHO'S NEXT OK ite wow
+° Pama ae
+, ot Bh (| (ae A 3 din Ayn
+7 ~ NS {rs _ PO, a Seca eee ee Paes oe
+(| HEY a, ~ ) | ff =.
+NGS LSS, 4
+‘ Ne, . Nie
+7 UR am an",145,316,171,"HMPH, BET YOU GUYS THOUGHT I WAS RUSTY AFTER SO MANY YEARS, LOOKS LIKE YOU THOUGHT WRONG, NOW, WHO'S NEXT, HEY",True,2026-04-10T16:58:31.346874,21.46,15.79,26.46,52.63,5.0,". : ایس این
+لگتا ہے ایک Ve — fay
+ee CE GP Cass “W, HMPH, BET
+LIKE YOU Se eS GS Wy) آپ éuvs
+r — = TINY ao) A. of .. Wy . 5 4
+Ny WAIN (ایس پی بی ایس زنگ آلود تھا۔
+BO کے بعد oA AN NS fb
+کون اگلا ٹھیک ہے یہ واہ
+° Pama ae
+, ot Bh ( | (ae A 3 din Ayn
+7 ~ NS {rs _ PO, a Seca eee ee Paes oe
+(| ارے ایک، ~ ) | ff =
+این جی ایس ایل ایس ایس، 4
+' نہیں، . این آئی
+7 UR am an",True,True,,ur,2026-04-10T17:00:37.163245
+0.jpg,manga,6,"ro AL /
+Cr Soy ge
+is apy ee
+
+py ee ie 4 }","Ip) Nene NA
+fx) 7 IYe ee? f aa ¥ Bie
+ooas {. Sa we — . > ay — So os, - i ~ )
+(Ree ROSS
+ORR EST ON SN WX A
+é } ‘ v d f Y "" . .
+Nae & “3 LR
+. i. | a,
+PHOTOS NEXT?! _ SENN, LONGER DO
+&)] '$ INTERVIEWS!
+_ NS ty °
+/ ‘ G) : ~ t
+’ ""td NO a",41,232,191,"YOU CAN NO LONGER TAKE INTERVIEW!, SHOULD I SUSPEND YOUR RIGHT TO TAKE PHOTOS NEXT?!",True,2026-04-10T16:58:34.960734,21.78,0.0,20.0,35.71,-1.78,"آئی پی) نینی این اے
+fx) 7 IYe ee؟ f aa ¥ Bie
+ooas {. ہم - . > ay — تو os, - i ~)
+(ری آر او ایس ایس
+ORR EST SN WX A پر
+é } ' v d f Y "" . .
+Nae & “3 LR
+. i | ایک
+اگلی تصاویر؟! _ سین، مزید کرو
+&)] '$ انٹرویوز!
+_ NS ty °
+/ 'G): ~ t
+' td NO a",True,True,,ur,2026-04-10T17:00:37.163245
+15.jpeg,manga,6,"VS DR H/o?
+eg dl ct |
+
+. EE Naas a iF,
+ye Fj LA = EN — 7 [= Q ,
+i Gee «gee","SA ee a I  etirees ne
+MEL Ree oe
+Z kee seen aetsctia ereineed Seen ee nstacene
+Lae  _—=—OL_L.
+seame . Lipase seas. ns peas oe os a See ors si “4
+y—r—— ee ed :
+fe, Resear Bena  . pacer aaa ge
+<e WG es ee HRN _—_ KES Cc c 22
+My? kG, Sees eee Bcrree A SN ey ORES NC |
+Y a a eee CEN RS , |
+pareeceenesennoens artes NC Ss aan ah ame oS Shenton cotaeart cesar ;
+~< - ees es ee ey eo 2 |
+V a Min Ey on ae Bec, |
+i ~—N : ZE
+Sone - Bie Be | (\ |
+_ ES *S Cs pie f 38 |
+_t, = ~— WDD wa) 1\ a
+gs Ns oe ee Wisse) 2 "" Y
+ZY Yi 4 CREE Sacre oe eS A [ey WQY.,,
+. Ya | .- we Go fe) tii
+COE _ FE So Saas fie God | , FA |
+. A a a * sf acearerotanen = = . ence ores Faia aaa A
+ME Y SSS ZN a i a teu aA
+L ty ES Zoi} i: QY \F -F Z |
+, VA WSs iy A] Ne ee Cs EN) 7 yp iy |
+Rea “ S53 cs ee ener as WNunanenees Sears: tives 3! Z Zz:
+8, pene Ss on ects oo ee So Ses a oe 4 i‘ matey LEE EEO A 4
+fs satay Rae so ae seeecteaerene a ae nee at I PALEER 4 a}
+yy) J { ON SE J Ze 4
+ae Gey oe ee cs esac yee ° ey Zé Ly,
+Sea a eS oe ee aS ene ceteoep rt ° ka O Eo uy.
+Nas Sw 7 City
+preartnettit: — SS YY,
+| 7 SS SS ag Yi
+) $$$
+| -_ _ ii Yt 4 —
+yk x / ————=—=__——
+y "" ———_—
+rt ,; y, 3 }
+W| ! X ! yt th |
+—, — ‘ » fy
+th \ a | | iz % !
+aN Pow FF) | VX vs
+ae al f =S 1 if a \
+{ ¥ i, LS A AD Vv
+: d <r yf |
+t 4 Ne Og) 7) ¥ Vy 7 Ul \ |
+t ee, j - “0 ‘
+‘4 < at Fe
+| vil
+aaa \n | N At f
+i 4S, AY ‘
+/ > aa , , Bema So fe ttt &_: ERS
+: 4) ! § Bee Cana “Y. : ge ee
+paar Pant ~ ‘ ‘ Se
+=—_— — —_ * Vee : tate \ Xcess
+~— = _ i —s = Poe eA serers O gb, ae *° /
+— 7 oan fi oN 2 Le
+_—_.. . ” ’ — = _ . SO [sa OL $ oS Seer : SS wea ee f EoeS 4
+“ SS SS SS == SS \~ ————— a |
+° 4 sisee — - .. == . —_—_— == —_ —S = |
+_ ’ See! = _ = -
+ee =""-_ ——- \ |
+- ee |",74,1697,1623,"アーサーのほうが傷ついている!!,やはり脆弱いな人間,それ息でも,",True,2026-04-10T16:58:44.120430,4.6,0.0,0.47,0.0,-4.13,"SA ہاں اور میں ختم نہیں کرتا
+ایم ای ایل کنگ اوہ
+Z اور ان کا aetsctia ereineed Seen ee nstacene
+صفحہ _—=—THE_L۔
+نشست موسمی لپیس۔ ns peas oe os a See or if “4
+y—r—— یہ ہے:
+ایمان، تحقیق بینا. پیسر دستیاب نہیں ہے۔
+<e WG اور ee HRN _—_ KES Cc c 22
+میرا؟ kG، سات گھنٹے A SN اور HOURS NC |
+Y a ee CEN RS , |
+NC Ss Aan Ah Ame OS Shenton Cotaeart Cesar ;
+~< - ہے اور ہے 2 |
+V a Min Ey on the Bec، |
+i~—N : ZE
+آواز - خوبصورت | (\ |
+_ IS *S Cs برائے f 38 |
+_t، = ~— WDD اگر) 1\ a
+gs Ns oe ee Wisse) 2 "" Y
+ZY Yi 4 مقدس دل OeS A [ey WQY.,,
+. جی ہاں | .- کہاں جاؤ fe) چائے
+COE _ FE سو ساس خدا کا بیٹا | , FA |
+. A a a * sf acearerotanen = = . ence گھنٹے Faia A
+ME اور SSS ZN تیار نہیں ہیں۔
+L ty ES Zoi} i: QY \F -F Z |
+, VA WSs iy A] Ne ee Cs EN) 7 yp iy |
+Rea “ S53 cs ee ener as WNunanenes Sears: tives 3! Z Zz:
+8، قلم Ss on ects oo ee So Ses a oe 4 i ‘ death LEE EEO A
+fs Satay Rae اگر وہ آپ کو I PALEER 4 a میں دیکھتا ہے۔
+yy) J { پر IF J Ze 4
+اور گی زی لی کا بیٹا ہے،
+سمندر دی eS oe ہی O Eo uy ہے۔
+نرس Sw 7 سٹی
+سابقہ: - SS YY،
+| 7 SS SS ag Yi
+)$$$
+| -_ _ ii Yt 4 -
+yk x / ————=—=__——
+y "" ———_—
+rt، y، 3 }
+W| ! ایکس! yt ویں |
+—، — ‘» fy
+th \ a | | سے %
+aN Pow FF) | وی ایکس بمقابلہ وی ایکس
+ae at f =S 1 اگر a \
+{ ¥i، LS A AD Vv
+:d <r yf |
+t 4 اور Og) 7)¥ Vy 7 Ul \ |
+t ہے، j - “0 ‘
+'4 < Fe پر
+| vil
+aaa \n | ن پر ایف
+اور 4S، AY '
+/> aa , , Bema So fe ttt &_: ERS
+:4) § بی کانا “Y. : ہاں جاؤ
+پتلون کا جوڑا ~ '' اگر
+=—_— — —_* دیکھیں: باپ \ Xcess
+~— = _ i —s = Poe eA serers O gb, ae *° /
+- 7 دن فی 2 دن
+_—_... ” ’ — = _ .SO [sa OL $ oS Seer : SS wea ee f EoeS 4
+“ SS SS SS == SS \~ ————— a |
+° 4 اب —- .. == . —_—_— == —_ —S = |
+_ 'دیکھو! = _ = -
+ہاں =""-_ ——- \ |
+- ہاں |",True,True,,ur,2026-04-10T17:00:37.163245
+2.jpg,manga,6,"waa YE) \ONR®
+ee a VAY \\
+2) | |
+WE. | ll \\","| ‘ . . | P en
+i. =“  ¥ x a (gal ; : A wi : 4
+Cviaie en Zerg wt \\. =
+fs BPA ee OO, (ESE EEN SE. : ” | E
+LBBSE” /  \ . ILO XA \
+evry 8€=€=€=©6h6N : —_— <{\
+fore SR Mg ° < — \ =
+= em GY :
+Pa\\\W(@) ails 2
+SN \ VS wm tk teed NY oP
+LS | =: se AN
+iS i &# se. |
+147 - = \ ._ SK \ y {\ .
+HS - W\ — | Ee), N |
+Su RE NO | LEE OO
+fdas < A ) ” ee
+i a
+got |
+o Red “8 Dp vo
+d°. : 4 VA
+° > La , ° a? a Y
+he ~ 8 €J - oar ey i
+> ay ¢ oe Me f« Ry} y Wy
+f oF, RP OS , Afi ‘s
+fay BN GEE, by if
+* ’ veer Wa ; fs & * “6 4
+i \\ fg SE Z foe Cts
+° . \ ? . : - seat
+yY \. . . . ""~\ : , LY
+a an ga wh ~
+| Yj ) | | :
+. , ""4 ’ i | \ G R \ y) f \ \\ X
+! Mi | TaN TE.WW™N
+-— ,
+WU = : 3
+ooo ) qw,
+; if fin \\
+f » ENS, wzN S",44,693,649,"月が不気味な顔に!
+世界に起きた異変の
+正体とは!? ,    あ… あれは,    なんだ あの
+コミカルな
+月は!!!",True,2026-04-10T16:58:52.145853,7.14,0.0,1.87,10.0,-5.27,"| ' . | P en
+i ="" ¥ x a (gal ؛ : A wi : 4
+Cviaie en Zerg wt \\. =
+fs BPA ee OO، (ESE EEN SE. : ” | E
+LBBSE"" / \ . ILO XA \
+evry 8€=€=€=©6h6N : —_— <{\
+fore SR Mg ° < — \ =
+= em GY :
+Pa\\\W(@) ails 2
+SN \ VS wm tk teed NY oP
+ایل ایس | =: سے اے این
+iS i&# se. |
+147 - = \ ._ SK \ y {\ .
+HS - W\ — | ای، این |
+Su RE NO | لی او
+fdas < A ) ” ee
+میں ایک
+مل گیا |
+o سرخ “8 Dp vo
+d° : 4 VA
+° > لا، ° اے؟ ایک Y
+he ~ 8 €J - oar ey i
+> ay ¢ oe Me f« Ry} y Wy
+f oF، RP OS، Afi's
+fay BN GEE، by if
+* ' ویر وا ؛ fs اور * “6 4
+i \\ fg SE Z foe Cts
+° \ ? . :- سیٹ
+yY \. . . . ""~\ : , LY
+a an ga wh ~
+| Yj) | | :
+. , ""4 ' i | \ G R \ y) f \\ X
+! ایم آئی | TaN TE.WW™N
+----،
+WU = : 3
+ooo) qw،
+; اگر فن \\
+f » ENS، wzN S",True,True,,ur,2026-04-10T17:00:37.163245
+5.jpg,manga,6,"SU “etl WG | TY, G(lzo8
+Sy SS 1A
+2) ) of |
+4 F DAREN UE f f _
+BP CEI AS MC
+VAN RSS ee ae 3 30 D
+=
+Vy ( ) . FN ==
+‘gD 7, \ Gea ie
+oS KS aN a JE ; SY 2 kb
+Sa 2 yl!) 6) Gey YEN RY sane
+y R FQ) [> Jus % lays \k es P
+Wa ee ere ag
+SOs SS eee
+- : Ni
+v \e/ N an 22 hh
+(EX % ace es Fmt Bt eu Bes chy ras
+Tone eae pee? BE RIE
+a ee BN. 7G Pichon,
+a) 4 VS LEN eee
+SS woe >>, Ss (SS pd EO «(
+SY dm C8 sae A esis NAG
+SSS ea 2 AE Ds
+=e ae 218 b) X mts Be Be «|
+=] YD190 TAGES: y no PB (‘*)","\) Ue Soe | (bS 9 3
+| Stevens he PLES 2 2 z
+SY WY . SEY ZA * ,
+y IS Se NESS PE? AM [Sa >
+p cg BZ i POLS eee o
+& g) SNK ATS a” 1 &.
+~ ' MN OES SY , . NA
+SPP HWALN S&S “S>5 & =A
+TN aN A eae) {e
+~ , a7 7 j } : Cat : nha Le"" y ‘ -
+OO Y INL ; LEO AS LID sé JOLERD eer'/7
+AG % é. PRK on [5 A AW, TS . Eg. bjs,
+WS ¢ ag ASS VAS) SFOS oor) |
+<A 1? NY, Vix — ITY ‘ CA yr . .
+= AD YUN IN o ‘0 Ke AO GS = =
+C7 we wl ars aA Vs
+\ ae: np eC J) & jo et a OAL =
+COR S S a PRR REN EG has NAB RYE So
+Sey F | uf We Wik | ie Loree a _
+Li N CS ord | Do SE A AG DN LD Ik db
+IAN SUNS Re AREY | SSS OMNI | | ZB RO) \
+SO We DY Bcd INOS) [xii abe eR Ca SS Z \ “lg
+AEM ONS a AES eS
+Sf Se TEU, MZ ioe e 4% Ph ees sroay ASRS ; ES: SSNS Sx SS RON
+b>
+te akdb L > 2 4 . a es ?P ee +s
+MR ESP Ve wey at Fite || arom || Seakec He
+7 WoT AW 5 HRI $ | 2 4
+ee "" Div v
+2 . he 7 . x >
+PEO JRO ERR] vy Pp x DT tew
+5 ¥ a? rT AR “ = § - BaP fy
+\ ps
+IN ( .° b
+T= Shp D ! Say Z es 4:
+= an? We, TRON a \ ; Ei »
+e oa ase, Nf Wiis 7 <a { SF = ps .
+AS BS AN :
+> NES ER Chey WP
+Wa } oe GEN
+SASSSSSS \ Oy) ree 41K
+SASSSAS atv AY BAN \ AN eee ve) NAT Me
+SAAS 6 Rio TE! “~ “yy. } YW
+SSAA ois, z 7 4b Fill Ay jj i ( XN j
+SY vem Cio war CER | Oi [BANG
+SS > 7 Wt Pm as L et ed | Gg 2 4 ((
+SH 222 1B TOUS en } 2c
+= b A 6 KG ° (Inte o: \ yp
+SSS 4 72 . A SE 5 Kl
+— ~~ i ‘ y
+= ae AN ae Va NOP:
+Rael Ar, o ; ex \ fated 17 S| 4
+NTIS te ae 3
+EF ON GED ALE 5 be ©) I @ys\\ CH | Me TS REE —~ in
+Flier \ te & ‘ ""yy, ~ ve / Sh ad < —<—— mn \\\
+Ye 3°) PMMA nS PDR
+2 yw 44 ° vw > f
+sh, ual \ AS “6 / a is y
+SSE S VJ Psi an = we LEB",474,1560,1086,"にっ！, そうだヤマト!!!, ドカン, !!!, え!?, ガチッ!!, 不知夜月, わはははは!!, ドンチャン♪, アハハハハ!!!, ドォン, だはははは!!, 惜しいな こんなに 強くて馬が 合うのに!!, コレさえ 取れたら いつか 必ず!!, 僕だって海へ!!, ねーねー 海外は どうだ!? 若い奴ら どんどん 出て来て ないか!?, !!!, おれは別格として… 今各海で ヤベェ奴らが 暴れてる らしいんだ, 南の""キッド""だろ, 若いの? そうだな""キャベンディッシュ""とか…, ってのは話題だな…, 北の""ロー""西の""ベッジ""…, キラ, キラ, キラ",True,2026-04-10T16:58:59.845076,0.0,0.0,0.0,0.0,0.0,"\) Ue Soe | (بی ایس 93
+| سٹیونز اور PLES 2 2 z
+SY WY جانے کی کوشش کریں *،
+اور کیا NESS آن ہے؟ AM [آن >
+p cg BZ اور POLS eee o
+اور جی) SNK ATS a"" 1 اور۔
+~ ' MN OES SY ، . NOR
+SPP فائٹ سوال و جواب “S>5 اور =A
+TN aN A eae) {e
+~ , a7 7 j } : بلی : nha Le"" y ‘ -
+OO Y INL ; LEO AS LID sé JOLERD eer'/7
+AG % PRK پر [5 A NO, TS . مثلاً بی جے ایس،
+WS ¢ ag ASS VAS) SFOS oor) |
+<A 1؟ NY, Vix — ITY ‘ CA سال۔ .
+= AD YUN IN o ‘0 Ke AO GS = =
+C7 we wl ars aA بمقابلہ
+\ae: np eC J) & jo et a OAL =
+COR S S a PRR REN EG کے پاس NAB RYE تو ہے۔
+F | آزمائیں ہفتہ پر | یعنی لوری ایک _
+N CS آرڈر | SE A AG DN LD I db کرو
+ایان سنز ری آرے | SSS OMNI | | ZB RO)\
+SO We DY Bcd INOS) [xii abe eR Ca SS Z \ “lg
+AEM ONS سے AES eS
+Sf Se TEU, MZ ioe e 4% Ph ees sroay ASRS ; ES: SSNS Sx SS RON
+b>
+akdb L > 2 4 تک . a ہے ?P ee +s
+MR ESP اور Fite پر راستہ || مہک || Seakec وہ
+7 WoT آوازیں 5 وائر $ | 2 4
+ہاں "" Div v
+2 اور 7 . x >
+PEO JRO ERR] vy Pp x DT tew
+5 ¥ ایک؟ rT AR “ = § - BaP fy
+\ پی ایس
+IN (.° b
+T = Shp D ! کہو کہ Z 4 ہے:
+= ایک؟ جہاں، TRON ہے \ ; ارے »
+یہ کافی تھا، Nf Wiis 7 <a { SF = ps ۔
+AS BS AN:
+> NES ER Chey WP
+ہماری } oe HOPE
+SASSSSSS\Oy) ree 41K
+SASSSAS atv AY BAN \ AN eee ve) NAT Me
+SAAS 6 Rio TE! ""~ ""yy } YW
+SSAA ois, z 7 4b Fill Ay jj i ( XN j
+CER پر SY vem Cio | ارے [بنگ
+SS > 7 Wt Pm بطور L et ed | جی جی 2 4 ((
+SH 222 1B ALL in } 2c
+= b A 6 KG ° (Inte o: \ yp
+SSS 4 72 . A SE 5 Cl
+— ~~ i ‘ y
+= ae AN ae Va NOP:
+Rael Ar, o ; سابق \ قسمت 17 S | 4
+NTIS the ae 3
+اگر GED ALE 5 پر ہو ©) I @ys\\ CH | لیکن TS REE —~ میں
+فلائر \ the & ‘ ""yy, ~ اور / Sh اشتہار < —<—— mn \\\
+پانی 3°) PMMA nS PDR
+2 yw 44 ° vw > f
+sh,ual\AS “6/a ہے y
+SSE S VJ Psi an = ہم LEB",True,True,,ur,2026-04-10T17:00:37.163245
+Screenshot_1.png,manga,6,"© DETECTIVE COMICS ©
+D ‘STILL, THERE WAS THAT il BE MURDER -- IT'S /MPOSS/BLE,’
+DICE DIED BEFORE THE VERY NOTE, COMMISSIONER. JME | COME ON, NOW-- VE MORE IM:
+EYES OF MORE THAN 50 PEOPLE!) COULD IT HAVE BEEN A @i PORTANT ASSIGNMENT:
+AN Autopsy Was REVEALED ""og CONCIDENCE? t wish Wl FOR YOU.
+a Z be =I 1 OF 4
+<= saa =| ae [| ~. =
+NA ee a Ree A
+Nes 4 Wz
+NE \ A|
+== | PE |
+C= | iy =
+EouiniSSONER GORDON IP cain sours, carven: come reac yy
+70 HELP ME Sains. Ss 5, —
+See Se, Ct i sf
+Se Seis
+ole 7 aa EK Se
+S Ate hs 4
+<P Wg
+NA 1 Ns
+NN | -
+aS I
+i way FE evtes exeances. amt
+aaa BI, xd | Bea
+ion S) ae - whe de a nf
+gm 2 1) e
+LF oA cL ah zi ad iS ©) eer
+sie #E z + =
+6 ee We | VIN SS","DETECTIVE COMICS | @)
+©) ) |
+ere unos | I AN, I RNOW You LOVE I.
+NEXT DAY, AS NEWS OF D:CE'S STRANGE DEATH RESOUNDS 7, BATMAN, | BUT THIS COULON'T,
+/ L THROUGH GOTHAM CITY... RGU STILL, THERE WAS THAT BE MURDER «1S MMEOSSIBLE.! J
+DICE DIED BEFORE THE VERY \ NOTE, COMMISSIONER. Ail \ sone ep at ens Al
+EYES OF MORE THAN 30 PEOPLE! COULD IT weve pee NT AN FOR YOU. en |
+SAAMURDER pom CROWN TT AWAY SI [8 ""Coe faa 6 i
+- ‘ ‘ ra vf 4 4 x : ’ i
+> yal V\) Ait LEY ‘\ vi —S }
+a . Ne y | ‘e) te \ ¥ A
+— : "" 1: M YOURSELF, BARKER: SOME PRAC- Yi
+Tpoectwaenn A COMMISSIONER GORDON ; Cicit dokeR 1g TAKING ADVANTAGE OF
+- SBUT,TWO {/ THIS IS FRED BARKER! I'VE- | is YOUS BUT DON'T WORRY-JUST TO BE
+‘| DAYS RECEIVED THE SAME TYPE Yor Y OY SAFE, LL HAVE YOUR HOUSE '¢
+| LESTER. 7 OF Ea Your ly £ chi eheren i) 37.2( FULL OF POLICE TONIGHT’
+
+° | eras : y D: I ha 2 * < 'e >> a, : va Pet
+Eta 70 HELP ME J Koike ve MVS. Soa Ceawipy DS Sett -
+one Mt oe SS / | | We Bh i @fha<4
+
+ot Wed —<“~ XS ) a=) ) CA: OD] OT Oar YN EN \\ /\
+ete N 8 MN fpssO/ 3 6 | Nk Ff Wht SBM | ae
+
+. 7 ’ « 2 AR oS ’ it"" dm “e Ty! oe ate wete! es ~ a ° yo, -
+
+iT soe C44 / WE'RE NOT EARLY= . roan ee ED?
+PER ATES VER WATCH MUST | | PANDA (Beet Seek SBR Es EREOS 5
+
+_| WATERS AND COMMISSIONER )BE SLOWS AND | | DRAWS pe pe Oa COME ON== |.
+| |\ (GORDON! BUT YOURE _/ EVERYTHING'S mot EVERYIHINGIS\ LETS PLAY SOME
+| {CEARLY-“HAS SOME: FINE-THE ee ||. ——l i READINESS, ) CARDS “TILL THIS y;
+| NING GONE WRONGE /\ WILL BE ALONG f COMMISSIONER. MY Ly HOAX BLOWS _4
+A Wes eee FE (A MOMENT ""7 MEN ARE GUARDING“) OVER, es |
+an \A yt) oe! Sp pay A EVERY ENTRANCE...) Dy
+ra — PV sd 4S ST. ma
+LAs cha| | ee OT ~ 7) VETTS 1a 154
+~ NGS SK a -¢7 5 iy ; ; | SSI Ey TN
+ane M “Oo, : <—-P, . —— I t i Toys NL ae ied |
+© URANUS Sd pam YR Sar ae PORT se |
+
+betes N bs NP SS Pe Ney fe ey | ies i SOW alse |
+
++ te, Ne + > ISAS . ne Le Qo. | ; on of
+
+AY . woe aoe i . 4 = i ; meee 4",676,1912,1236,Always,True,2026-04-10T16:59:03.989470,2.23,0.0,0.81,0.0,-1.42,"جاسوسی مزاحیہ | @)
+©)) |
+پہلے unos | آئی این، آئی آر این او یو لوو آئی۔
+اگلے دن، جیسا کہ ڈی: سی ای کی عجیب موت کی خبر 7، بیٹ مین، | لیکن یہ کولن نہیں،
+/ L گوتھم سٹی کے ذریعے... RGU پھر بھی، وہاں قتل ہونا تھا «1S MMEOSSIBLE! جے
+ڈائس بہت پہلے ہی مر گیا \ نوٹ، کمشنر۔ Ail\sone ep at ens Al
+30 سے ​​زیادہ لوگوں کی آنکھیں! کیا یہ آپ کے لیے NT AN پیشاب کر سکتا ہے؟ en |
+سمردر پوم کراؤن ٹی ٹی دور ایس آئی [8 ""کو ایف اے اے 6 آئی
+- ' ra vf 4 4 x : ' i
+> yal V\) Ait LEY ‘\vi —S }
+ایک نی وائی | ‘e) te \¥A
+- : "" 1: میں خود، بارکر: کچھ PRAC- یی
+Tpoectwaenn ایک کمشنر گورڈن ; Cicit dokeR 1g کا فائدہ اٹھانا
+- SBUT، دو {/ یہ فریڈ بارکر ہے! میں نے- | آپ ہیں لیکن فکر نہ کریں - بس ہونا ہے۔
+'| ایک ہی قسم کے موصول ہونے والے دن یار وائے محفوظ، آپ کا گھر ہوگا' ¢
+| لیسٹر۔ 7 OF Ea Your ly £ chi eheren i) 37.2 ( آج رات پولیس سے بھری ہوئی ہے
+
+° | eras : y D: I ha 2 * < 'e >> a, : va Pet
+Eta 70 HELP ME J Koike اور MVS۔ Soa Ceawipy DS سیٹ -
+ایک Mt oe SS / | | ہم Bh i @fha<4
+
+ot Wed —<“~ XS ) a=) ) CA: OD] OT Oar YN EN \\ /\
+ete N 8 MN fpssO/ 3 6 | Nk Ff Wht SBM | ae
+
+. 7 ’ « 2 AR oS ’ it"" dm “e Ty! اوئے گیلا کھایا! es ~ a ° یو، -
+
+iT soe C44 / ہم جلدی نہیں ہیں = . کیا ED ہے؟
+PER ATES VER WATCH MUST | | پانڈا (بیٹ سیک SBR Es EREOS 5
+
+_| پانی اور کمشنر ) سست اور | | ڈراز پر او اے آو آن== |
+| |\ (گورڈن! لیکن آپ _/ سب کچھ ہے ہر ہنگس\ چلیں کچھ کھیلنے دیں
+| {Cearly-"" کچھ ہے: FINE-The ee ||. ——l i تیاری، ) کارڈز ""اس وقت تک؛
+| ننگ غلط ہوا /\ کمشنر کے ساتھ ہوگا۔ مائی لائی ہوکس بلوز _4
+A Wes eee FE (ایک لمحہ ""7 مرد حفاظت کر رہے ہیں"") OVER, es |
+an \A yt) oe! ایس پی ہر داخلے پر ادائیگی کریں...) Dy
+ra — PV sd 4S ST۔ ایم اے
+LAs cha| | ee OT ~ 7) VETTS 1a 154
+~ NGS SK a -¢7 5 iy ; ; | SSI Ey TN
+ane M “Oo, : <—-P, . —— I t i کھلونے NL ae ied |
+© URANUS Sd pam YR Sar ae port se |
+
+betes N bs NP SS Pe Ney fe ey | ies میں بھی بوتا ہوں |
+
++ te, Ne + > ISAS ۔ ne Le Qo. | ; پر
+
+اے وائی افسوس aoe میں 4 = میں meee 4",True,True,,ur,2026-04-10T17:00:37.163245
+Screenshot_10.png,manga,6,"LT ie ies eA |
+| Sie
+Ss < HN) 4 ais ~
+S ra = : =e ste
+ate [E@N a:
+= zz, Tei #2:
+= ANG My. 5 Bits :
+A 7 Aina
+er rere Sa A \ ! a","——— eee Y SSRN
+cli Sa Ww Ny) ; l \; ’ bY
+ee NTN SSS (Sar.
+: f SI EES DNS
+f _ _ : ‘. Vs Say ALI ay fe Ze >, / 2 BS
+Prcg Ws 3 SF ty. ZB SES I ler Je o.
+‘sy SY We \ Ui galas a 2 NN SS ie z Fin Ss
+Mee RGA
+VP 5 O6). 8) Ce)
+A AO) SORE COMO PSS
+Bo |S ar
+ar RENNES AK WIKEN AQ - <=
+= Vy G \ i ING V/2'6 = : m=
+—"""" ! AL LK ®): UNSER DAW sa: > Shes __ ee
+—————— + Y = | Fa, Co — a —
+ee HONE. GS) a= | ee
+a AS ""Quik wo = | a
+—— S' OW NN 7 ° eZ
+ae jal sez a a4
+SS Soe A\ a ye"" : ff > oy
+z bw PAL — esl
+ON fie. AMIN We 3
+am AN ae Zi SS is ‘ 2 y
+F oN ; no,  Myee y WM Tf :
+Ze ay. Ji no Si AS NZ Pee
+ae 16 % KS NOY (| A 3 .
+EN IY PN NN NIN \",126,626,500,"コ…コロン…
+その生物は
+一体何だ!?
+
+わーっ
+そんな物
+食べるな!!
+
+バリッ バリッ",True,2026-04-10T16:59:06.723166,11.68,0.0,3.23,0.0,-8.45,"——— ہاں SSRN
+cli Your Ww) ; l\; بذریعہ
+دیکھیں NTN SSS (سابق۔
+: f ہاں EES DNS
+f _ _ : ' بمقابلہ ALI ہے fe Ze >, / 2 BS
+قیمت 3 SF۔ زیڈ بی ایس ای ایس لائٹ جی ہاں۔
+‘ sy SY ہم \ Ui galas a 2 NN SS یعنی z Fin Ss
+مئی RGA
+VP 5 O6)۔ 8) کیا)
+AT AO) PSS کے طور پر اوپر
+بو | ایس اور
+رینس اور ہفتہ AQ تک - <=
+= Vy G \ i ING V/2'6 = : m =
+-""""! AL LK ®): UNSER DAW جب: > وہ __ ہاں
+—————— + Y = | کریں، کے ساتھ — سے —
+ہاں ہاں۔ GS) a= | ہاں
+a AS ""Quick wo = | a
+—— S'OW NN 7th eZ
+اور وہ a4 تک پہنچ گیا۔
+SS تم جو بھی ہو"" : ff > oy
+z از PAL — esl
+بیٹی پر۔ آمین ہم 3
+جیسا کہ SS سے AN ae ' 2 y ہے۔
+F oN ; یا، WM Tf کا مہینہ:
+زی مہینہ۔ اگر آپ AS NZ پیشاب نہیں کرتے ہیں۔
+اور 16 % NOY KS (| A 3 .
+EN IY PN IS NIN \",True,True,,ur,2026-04-10T17:00:37.163245
+Screenshot_12.png,manga,6,": — AL
+
+PPS ol _ Fy) BLOOD
+SOS CaS AF TION...
+ACS Ly pee .
+: [Is PA \. <i gWe","| | ! on a
+
+i —C*i ALT
+cm 4 Nv . ~ “ il
+\\ Li UNINC) £™ BLOOD \@
+Yd AES * SN 7 TION... |N\
+\ Weer’ \Se=ety/) 7 SAAS Vary al \ |
+Wg 3 2° of TH = OMAR fp Wil
+SN kk ee
+ENGR |) NA Eee] NRECONY es
+GA Ws /) Se RESET 3, ENN LE",77,219,142,"آپ کی احتیاط
+آپ کی سلامتی کی
+ضمانت ہے",True,2026-04-10T16:59:08.765168,4.4,0.0,2.03,0.0,-2.37,"| | ! ایک پر
+
+i —C*i ALT
+سینٹی میٹر 4 Nv ~ "" il
+\\ Li UNINC) £™ خون \@
+Yd AES * SN 7 TION... |N\
+\ Weer' \Se=ety/) 7 SAAS Vary al \ |
+Wg 3 2° of TH = OMAR fp Wil
+SN kk ee
+ENGR |) NA Eee] NRECONY es
+GA Ws/) سے ری سیٹ 3، ENN LE",True,True,,ur,2026-04-10T17:00:37.163245
+Screenshot_2.png,manga,6,"GS) DETECTIVE COMICS &
+NOT BEEN FOOLED BY THE JOKER'S| | THOSE cLocks JOKER'S REVERSE
+SOLEER'LEREt EO Gy THE SOMERS! f Taos Sess | Tete Nexen
+EE pscrier we ESS RONNING tes Kaneee
+(REVERSED Crime! WY ABOUT BACKWARDS. A SOME PLACE...
+Aer Sie Saws! Wy Bean, ) ty
+FLL . Se FQ
+THE GOLD’ OM ONS) Merce Oz a
+ane NY (FRO SS fi (Genmemnens|
+Fess LET WW THAT NVALIO N THEN) BATMAN'S HUNCH IS RIGHT, FOR
+ised! Y Wathen SS YI BoegeNets
+wees Meee BUEN, al
+
+Bol Pigagee es | :
+leh) Nie oe,
+AY yer BL I-A es — 4 E hay ee
+
+i LAZY | ode J eS CN ee
+We. ae t 8 Ni ee N Sg <> 5 -
+el AS Lr 3 \\ Ss WE OE
+
+Sow B. \ (PASSE es i |
+START THE WAY TO OPEN PLAY INVALID, JOKER, )( NEXT
+( SESTERS METER Ueeeo ) | Kise MEST CEE) Ne
+| FLIER— IN GOLD CAR YyouR ) you
+WNREVERSE / PLAY
+SS 4 > Bese, <@loetee te
+Ls Bl AER SS
+TP ANY KSEE
+L= VSS WS | ESS NA LAE","DETECTIVE COMICS | &.
+\ 4 >
+BUT TWO WATCHING FIGURES HAVE |1/ HURRY! V7 ANOTHER OF THE |
+NOT BEEN FOOLED BY THE JOKER'S] THOSE CLOCKS ‘| JOKER'S REVERSE
+CLEVER RUSE.’ § ARE WRONG {\, TRICKS / WATCH LI
+Zl” ANOTHER \( THE FUSS ? RUNNING, ¥ He IN THERE
+| ( REVERSED CRIME! ABOUT fy BACKWARDS.’ /\~ SOME PLACE... )
+STORY...THEN THE A THERE 2 AF S Te Fe ae
+| Now: HELL SAIS) BS AWA ELSE. tea
+RETURN TO STEAL BA > J [EE MS SS OK (REN Le
+B GOLD! Zoe SON CASO ae Oy anaes
+~s eR INS ee ao eS Nf i —aanman
+seox NN {SSS \ YS Teese AYA TET
+Ag RGN RS RPS [ERSCEEEC OSS
+as: 55 v: WAN “SPIRO SERRE EN
+GS. TSS Nin SNE
+/ PLEASE LET \°/ THAT INVALID IN THE BATMAN'S HUNCH IS RIGHT, FOR
+-\ THIS MAN J SHOES ARE DUSTY.’ IE NN ee
+15 tll? /\ aes BEEN WALKING.” (QUICK! NOW'S , aces Ou oe
+PEE Js oe et HHP “ey EES ee WN CTY | es
+fea Meare CO) | la sat hI eee
+ie a el ee Nes Ne. ANOS
+. ‘3 (S27e y a4 eh: “ | GEN ante at TaN —< | Net ence Cs = te .
+: ESS BY aod | Nis ANRe INN OS BASS
+i, p PN ‘as ~~ -—— Sa AK NN NS ye Bee Sh
+Pa AES). AIDS. SE A) RA) WANTED SINS NES
+RAG ag pO? KY 1G BEN ORO S Cas 4
+NOW TO- ITIS A SWELL Ne: ~ NEXT TIME YoU. N./ AND.
+START THE WAY TO OPEN PLAY INVALIO, JOKER, \f NEXT
+‘| WESTERN UP THAT LOCKED } | |WiIPE THE DUST OFF /| TIME
+FLIER— IN GOLD CARS / lL YOUR SHOES.’ ~~ You
+REVERSE J/ : / PLAY
+Nore | LO ned DETECTIVE—
+ee =< IN ker Mee ro 2s BOK ee LEY 2 NES
+EN og EO ao KX",824,1379,555,Handwritten,True,2026-04-10T16:59:12.958159,1.49,0.0,1.83,0.0,0.34,"جاسوسی مزاحیہ | اور
+\ 4 >
+لیکن دو دیکھنے والے اعدادوشمار ہیں |1/ جلدی کرو! V7 ایک اور |
+جوکر کی طرف سے بیوقوف نہیں بنایا گیا] وہ گھڑیاں‘ | جوکر کا الٹ
+چالاک چال۔ ’ § غلط ہیں {\, چالیں / دیکھو LI
+Zl"" ایک اور \( ہنگامہ آرائی؟ بھاگ رہا ہے، ¥ وہ وہاں ہے۔
+| ( الٹا جرم! پیچھے کی طرف کے بارے میں۔' /\~ کچھ جگہ...)
+کہانی...پھر ایک 2 AF S Te Fe ae
+| اب: HELL SAIS) BS AWA ELSE۔ چائے
+STEAL BA > J [EE MS SS OK (REN Le
+بی گولڈ! Zoe SON CASO ae Oy anaes
+~s eR INS ee ao eS Nf i —aanman
+seox NN {SSS \ YS Teese AYA TET
+Ag RGN RS RPS [ERSCEEEC OSS
+جیسا کہ: 55 v: WAN “SPIRO SERRE EN
+جی ایس TSS Nin SNE
+/ براہ کرم بتائیں \°/ جو بیٹ مین کی سوچ میں غلط ہے، اس کے لیے
+-\ اس آدمی کے جوتے دھول دار ہیں۔ IE NN ee
+15 tll؟ /\ aes چل رہا ہے۔"" (جلدی! ابھی، aces Ou oe
+PEE Js oe et HHP “ey EES ee WN CTY | es
+fea Meare CO) | la sat hi eeee
+یعنی a el ee Nes Ne. اے این او ایس
+. '3 (S27e y a4 eh: “ | GEN ante at TaN —< | Net ence Cs = te .
+: ESS BY aod | Nis ANRE INN OS BASS
+i، p PN ‘ as ~~ ——— Sa AK NN NS ye Bee Sh
+Pa AES)۔ ایڈز۔ SE A) RA) WANTED SINS NES
+RAG ag pO؟ KY 1G BEN ORO S Cas 4
+اب ITIS A SWELL Ne: ~ اگلی بار آپ سے۔ N./ اور.
+پلے انویلیو، جوکر کو کھولنے کا راستہ شروع کریں، اگلا
+'| ویسٹرن اپ جو بند ہے } | |دھول کو صاف کریں /| وقت
+فلائر — سونے کی کاروں میں / اپنے جوتے۔ ~~ آپ
+ریورس J/ :/ پلے
+نور | لو نیڈ جاسوس-
+ee =< IN ker Mee ro 2s BOK ee LEY 2 NES
+EN og EO ao KX",True,True,,ur,2026-04-10T17:00:37.163245
+Screenshot_23.png,manga,6,"a Bion.
+eH eae? do's, hal ual ie Moe, Wn pale ss |
+Roe / }] cw,
+a.9\) | Nea
+oomcemey (ON Wo,
+REST PRET ce Wena, | Cone een cena
+| bch wore eagitt ae \S ‘
+i aaa | Wea
+an Ay
+Jeonourer vans LeoKne men / Wee, wiier's VRS ren, You aps! Sn
+| | 4 z\ AS RES 4
+| Woy > LHe) Rey) ie\ SS
+han"" € Pomel AA a \
+nie “a BA NE a
+a | (aes Pe ol
+ee NS","+ = a a - os _ a a a N ¥, meaner Ns DO a re 7}
+Toa ge ae yt . “Ret? 7, al AN Pee a Ce Wn CG | a as ee PS een pi mem es iC m= &
+af at MEAN WHILE wee Soe ope Re cas Ss ops es tS SINGS. - GOCS CWE
+(ops Se a Spemey pecnminmamen 1 iF Oa 1 ©) : “ XH = tak oot wee .
+{ee el | Aonde cteam Bom rcloambrres fe
+on ib 3 “GERAM yaw"" eo tweede pa —— 3V ae at . v “ whe ra “ees —e ka ae Nag a hee . ; 1
+EB ibsr: de one ks (Ode mate ye PRS oF atesipe upped cee fe
+RORY Garam 20 feo aed de oh Sf ie eueete . pa ee ed
+Pe NESE at TL enesleara ToT] co sear Waees wane poo oe |
+: heed Ve mes’ 9n, s foe an . r of "" © erg *, en joke) BBTECTOD olf + eg ae ""% oa
+. . 7 e aA : ge . "" My . fe ane ON IN A es = . - 3
+2 ; SCS oe 9 i rit. , de wt ad Po tg : FAH. Ss . cca
+1. ee ee . N Sr i cou . 7 , ‘ ° a . : va S . y ~ > -< ovo h
+as . - yy WY “4 - nr Ye 4 , ; a No ua is * og f ¥
+i . * ‘ 34 . . : % ee cork va te Ro ‘
+a . Ct Po 7a Ay; . oa h => 4 5 - we te, ; Sy oN of
+vo > . “et én a me ve . NA : 7 . “s 7 * 4 ‘on . i an nd ‘wet
+a \ WS tae ae Ni j ae : . ia ay ere maar [|
+. “ ‘ ba - oo ey . oy h ' > i ‘ana : - ANY ‘ ——< . so 4 3 b en = ov 4 ee a They, va ehae: Ke + x
+' s rage pan . y wots ? —— » veh a a i . ae ay ia 44 oe a
+, / 3 a 4 . ee . 4 OR. : a aA SLY 5 Sy Lf Aba Aa SE ae §
+Fpl ame es ~ Saree. are | PANS fr ~ . : UR “ey pee NM ee d
+: 4 oa ol r) . ofl Srey 4 i Se .
+: : ey ~ "" + ve A>. ogee het \ 3 { ’ . ue —s — alae rr 7, CN i ‘ ee on an
+€ ps tbe 4 ™~ * == : a oy >A bee , + ws ~~ ss ire tt “BN + ” 4 ee
+i ta : eames yoy — a  e : * ; : AN . nd . : ~ * ‘ * ~ “
+t . 28 .. o., Seay ""| 5 ’ Bs AT . 2 act, a
+Ce AUTS ‘STARTC “AGAIN, “AUUS -WOLL UNTIL [| SHORTY (G. KNOCKOO UACONGSIOUG:. lL:
+| PPLECOONLY IT STRIKES A DUNE IN ‘THE ROAD,, ee aan . 1
+7 PE Met SO ea horera I Sn Ei SS is
+Byes eee co ts titan, wo aimee cee y- . kt ata Pe Ee een egg tes Ca *. 7 pi
+a ote ie et , fie ‘é oy. ONY ai +4, Wenge ah a Yo AE LASS oo 5) \ ! { ea
+oe | rs Ore ore : ce AS CO DC Oe aden Loe NS NY rare LIN] ~~  O
+: q oF a ra % : rae ae ee SA EY Ate “a Nacaer xe eis * bee ov 5 wee asl Seo : ae Se ° t
+: bes ae. ue Ly gw FS Lg oN ie aie ee Meera ee ke oe . wes ee a
+] Perey ete Ane md a GF Cet he yay? gee, pat gh q se NS Nf (ee ek ky hr!” x Oa ‘
+' we on . hfe AQ GR pes Aad AM os k SOF ar th V/A Sea Teel
+| y on Dk fy ae Lo ; in woe he ae { at me + ee on oe se oan ™~) hen a yer .
+‘aaa *% : ld / , N aN . - oy ak. Pe © .* ete ; coat *. ave kt oN S oe
+; i - : ra % a SF” fj } Vee _ vw : . pO | \ a ; ed = ) eo . SA jf
+. ~ t Fy ‘ e ( - a r \ * \' - , ‘ n ¢ . ; te
+| fous NO Alsen [pe te .
+bn P moment fa 4 : econ £4 a wg _ ~ a? 4 - A wen a ~ - _ - j C
+‘ . © “a fo ‘ spo 8 tae GN at oR” “ oan - ye <6 ee, a wer . ” .
+of BBS per a, aa van ¢ eee bee mid Pon NaN ef
+. * . . of . a rs ~ * * 2 . . ” ~~ = ae ew f rls 4
+pe 8 lee Be ga ef ae: non vvpsoninny wae td Kew. a aS ee! a et i . see ar a ent
+‘. af wat eo en y - ’ S ews i - a -y ae i: ae ue a :
+4h AS eee oon — Nes NS yee 7 Poy t see Ea ee es
+ms oy Og Ce Seems aera eon ee ge . f- E-Ten! Ot
+Yo Same PAR OTIS OS beep ee ge bt ape a Sees | oe nes, Cee Ne eee
+4 caesar’ sy Vee Re ONO EE OP pee a ME OP y +. _ AF * ar. we ee ST
+tomes ey? Sar wot oe . . : ea ss eee tte ot
+LETHE CAR IG ORINDA” WITHIN: A R \SY LENTY 2. NR!
+eye é ~ ve ° é y ® co 7 fu My ~
+1 (CY & CROP OB HARD *LOOKING MEN LL, aT ISTCN, YOU E RES! | = PE YS
+Sy ee we eee ee eines: ied HAPPENED? NY... teva ‘Gdr To Ace). +P ONE
+Mt t fe Vi RES CCS < CKD gS SOC Bead ee peat Fare pF ED
+5 tee g ay ss . 1 Fe , a Soy ue i Ae = as ‘ye 3 oY a on i. : rh wet a a. aac moo aye. .
+AW 2, ) ay fa ; a es ri we . , SODA ast » ef Ru a 4 he. ae»
+; iu bee too wae f “ A _ . ts fae Va ye ae pre ae + ; ae * a_i .
+: wre . ye. et a | eae >. ee ee roe Pele Ls y. — : . eenars ean
+a NA Ved Re Si ie S SENN Ee RN 5s UE, Ae
+~~, Lat t wai - Be. a ; Ly. fi. Pr ae wy i ( i 7, Sas . hw +, * .
+sIANQ Jog ie acer) Aaa! Mens 0 ne PERT ys
+a a Ne 3 . a’. ey af e As = Ve - ILy 4, 3 ag , :
+. : $ as a Bn OSA ft ee dn a i) 4 vam _t .) Y . done “, .
+be Me, Y \, rey 5 & ¢ = € can
+12 . Sion pomegg \ eer Ages meseaa, : ais 1] . | Sky :
+“& nM t at SRS ‘ aa . * ewe = Nene ae. ¥ . _ ” 4
+\, . ‘ ay Se : 2 cekahatenemntmneckontd a OP Ve, Cans Fad ae ‘aim —— _ ""
+“ are | ee ae ey a a F Te eae bie oe "" . ae ma SS -",332,4249,3917,"MEANWHILE —THE CAR STOPS — ITS OWNER GOES INSIDE A DRUG STORE FOR CIGARETTES
+I'LL HIDE HERE IN THE RUMBLE SEAT WHERE I WON'T BE DETECTED
+
+THE AUTO STARTS AGAIN — ALL'S WELL UNTIL SUDDENLY IT STRIKES A BUMP IN THE ROAD
+BUMP!SHORTY IS KNOCKED UNCONSCIOUS
+BONG!THE CAR IS DRIVEN WITHIN A LARGE GARAGE WHERE IT IS MET BY A GROUP OF HARD-LOOKING MEN
+WELL, WHAT'S HAPPENED?PLENTY! LISTEN, YOU BIRDS! WE'VE GOT TO ACT — AND ACT FAST!
+SCRAM, YOU HOBOS! GO ON, SCRAM!
+HA! HA! LOOK AT TH' CHEAP-SKATE HOBOS! HITCHIN' A RIDE!",True,2026-04-10T16:59:19.923886,1.16,5.26,0.41,21.05,-0.75,"+ = a a - os _ a a a N ¥، مطلب Ns DO a re 7}
+Toa is the yt “Ret?7, al AN Pee a Ce Wn CG | a as ee PS een pi mem es iC m=&
+AF at MEAN WHILE Wee Soe ope Re cas Ss ops es tS SINGS۔ - GOCS CWE
+(ops Se a Spemey ترجمہ 1 iF Oa 1 ©): "" XH = وہاں سے
+{ee دی | جہاں cteam Bom rclothes fe
+ib 3 پر ""GRAMMY yaw"" —— 3V ae at کا ٹوئیڈ ہے۔ v ""جہاں ہم کہتے ہیں ""ہاں - جب ناگ کہتا ہے؛ 1
+EB ibsr: de one ks (Ode mate ye PRS oF atesipe upped cee fe
+RORY سالٹ 20 feo aed of oh Sf یعنی eueete still yes to
+NESE کے لیے TL the ToT] co sear Waees where poo oe |
+: heed It was me' 9n, s foe the r of "" © erg *, مذاق میں) BBTECTOD olf + جیسے ae ""% oa
+. . 7 اور aA : ge . ""میرا . ایمان پر Aes = . - 3
+2 ; SCS بجے 9 تال. , wt to Po tg : FAH. ایس ایس cca
+1. ہاں ہاں۔ N Sr i cou 7 , ‘ ° a : was S y ~ > −< ovo h
+اور - yy WY “4 - nr Ye 4 , ; نوح ہے * og f¥
+میں *34۔ . : % کارک جا رہا ہے Ro'
+ایک سی ٹی پو ساتواں مہینہ؛ . جہاں h => 4 5 - کہاں، ؛ اگر پر
+یا > ""اور اس نے مجھے دیکھا۔ NA : 7. ""s 7 * 4 ' on . میں اور 'کے ساتھ
+a \ WS ٹائی ae یہ ہے : . وہ ایک دوست ہے [|
+. "" ' ba - oo ey . oy h ' > i 'ana : - ANY ' ——< . تو 4 3 b en = ov 4 ee a They, va ehae: Ke + x
+غصے کا پین . y wots —— » veh a a i ae ay he 44 of a
+, / 3 اور 4 . کھاؤ 4 گھنٹے۔ : a AA SLY 5 Sy Lf Aba Aa SE ae §
+Fpl اسے پسند ہے ~ ساڑی۔ ہیں | روٹی fr ~ . : UR “Hey pee NM yes d
+: 4 یا ر) . سیریز 4 اور Se .
+: : ey ~ "" + ve A>. ogee het \ 3 { ' . ue —s — alae rr 7, CN i ‘ ee on an
+€ ps tbe 4 TM~ * == : a oy >A bee , + ws ~~ ss ire tt “BN + ” 4 ee
+i ta : eames yoy — a e : * ; : ME nd : ~ * ' * ~
+t 28 .. o.، موسم ""| 5 ' Bs AT. 2 ایکٹ، a
+Ce AUTS 'STARTC ""دوبارہ، ""AUUS -WOL UTIL [| شارٹی (G. KNOCKOO UACONGSIOUG:. lL:
+| یہ سڑک پر ایک ٹیلے سے ٹکراتی ہے، ای اے آان۔ 1
+7 یا میٹ SO خوفناک I Sn Ei SS ہے۔
+Byes ٹائٹن ہے، یا Y- kt کا نام بھی Pe Ee ایک انڈے کا ٹیسٹ Ca *۔ 7 کے لیے
+ایک ote یعنی ایٹ، آگ اوئے ہے۔ ONY AI +4, Wenge ah a Yo AE LASS oo 5) \ ! { ای اے
+oe | rs گھنٹے : CE AS CO DC Oe aden Loe NS NY rare LIN] ~~ O
+: q oF a ra % : rae ae SA EY Ate “a Nacaer is eis * bee ov 5 wee asl Seo : ae Se ° t
+:بیس اے ای۔ ue Ly gw FS Lg oN شہر کا نام wes she a ہے۔
+] پہلے اور این ایم ڈی اے جی ایف وہ کیا ہے؟ ہاں، کوئی NS Nf نہیں ہے (یہ ایک ہے!” x Oa ‘
+' کہاں پر . Hfe AQ GR pes Aad AM os k SOF arth V/A سی ٹیل
+| y پر Dk فلائی ٹو لو ؛ افسوس میں وہ ae { مجھ پر + ee پر oe se oan TM~) hen a yer
+'aaa *% : ld / , N aN . - اوئے میں. یا © .* یہاں ; کوٹ *. ave kt on S گھنٹے
+; i - : ra % a SF"" fj } Vee _ vw : . pO | \ a ; ed = ) eo . SA jf
+. ~ t Fy ‘ e ( - a r \ * \' - , ‘ n ¢. ; آپ
+| fous NOT Alsen [آپ کے لیے .
+bn P لمحہ fa 4 : econ £4 a wg _~ a? 4 - آپ ہیں ~ - _ - j C
+' © ""the spo 8 tae GN at oR"" "" oan - ye <6 ee, the wer
+بی بی ایس فی ایک، aa van ¢ ee bee mid Pon NaN ef
+. * . کا a rs ~ * * 2 . . ” ~~ = ae ew f rls 4
+pe 8 lee Be ga ef ae: non vvpsoninny wae td Kew. ایک کے طور پر ہاں! ایک اور میں ایک ent پر دیکھیں
+' af wat eo en y - ' Sews i - a -y ae i : ae ue a :
+4h AS وہ ہے — NS نہیں وہ 7 Poy t see Ea وہ ہے۔
+ms oy Og Ce لگتا ہے کہ ہوا eon f- E-Ten! گھر
+یو سیم فار OTIS OS بیپ ای جی بی ٹی یو سیز | اوہ نیس، سی اور ای ای
+Re ONO EE OP pee a ME OP y + کے مہینے میں 4 سیزر۔ _AF* آن۔ جہاں ST
+tomes ey؟ یہ سب کچھ ہے . : ea ss eee tte ot
+LETHE CAR IG ORINDA” کے اندر: A R \SY LENTY 2. NR!
+eye is ~ see ° is and ® with 7 fu My ~
+(1
+Sy ee you ee ee: ied HAPPENED؟ NY… 'Gdr To Ace) تھا۔ +P ONE
+Mt tfe Vi RES CCS < CKD gS SOC Bead ee peat Fare pF ED
+5 tea g اور ss 1 Fe , Soy ue اور Ae = اور 'ye 3 oY a on i۔ :rh گیلا a a. aac زندگی ہے. .
+AW 2, ) جہاں ; ایک برف ری ہم . , SODA ast » if Ru a 4 he. ae»
+; iu نے یہ بھی کہا f "" A _ ts fae Va ye the pre a e + ; the * a_i
+: wre . ہاں اور ایک | ہوا >. yes yes roe Ls y سے پہلے - : انار تھے
+a NA See King Yes S SENN ہاں RN 5s EU، Ae
+~~, Let t water - Be. a لی بیٹا Pr ae wy i ( i 7, Chas. hw +, * .
+sIANQ جاگ اپ) Aaa! مینز 0 اور PERT ys
+a a اور 3 . پانی ey af e As = Ve - ILy 4, 3 ag , :
+. : $ بطور Bn OSA ft ee dna i) 4 vam _t .) Y . ہو گیا،
+be Me, Y \, king 5 & ¢ = € can
+12 صیون انار \ کان ایجس میسنجر، : ais 1] | آسمان:
+“& nM t at SRS ‘ aa . * ewe = Nene ae. ¥ . _ ” 4
+\، ' ay Se : 2 آپ OP Ve کے لیے کیا کر سکتے ہیں، کین Fad ae'im —— _ ""
+"" ہیں | ہاں ہاں ہاں ایک F Te yes bie oe جبکہ SS −",True,True,,ur,2026-04-10T17:00:37.163245
+Screenshot_3.png,manga,6,"Editorial ‘at i Ve
+Advisory Board x ee Week
+DR. LAURETTA BENDER ——— %
+JOSETTE FRANK = \
+Gonecttent on Children's Reading, ———— CO) tb
+—-_ 4
+OR. C. BOWIE MILLICAN 2ASVi-#:
+Department of English Literotore S HV4 y
+New York University. ESEr = ~ 7
+cacter of Cortieslom Study. bY
+ry ran 43 —~ 98 \
+> QB)
+Acting Dive. Buran of Child Guidance THERE'S NO SUCH .,
+az The following mag- (AND LOW, Ton Aly,
+(YD) sins sie ne LAND LOM
+RI CLS)Seorntes ofthe best PI Re gg
+2
+TT a Seaterenaes ere a
+ACTION COMICS bea
+ASDATE Sait JUDY: POOR CHAP, HELL NEVER
+‘ADVENTURE COMICS READ THE BOOKE
+ALL-AMERICAN COMICS WITH THE SIGN THAT
+‘ALL-FLASH MEANS ""I WANT IT,
+ALL FUNNY COMICS GEE!""
+ALLSTAR COMICS SEI
+ANIMAL ANTICS o>
+BATMAN
+BOY COMMANDOS z
+Buzzy 2! >
+COMIC CAVALCADE CS, (s)
+DETECTIVE COMICS SOE
+FLASH COMICS us
+FUNNY FOLKS <a &
+FUNNY STUFF a ee
+GREEN LANTERN Oye a =
+LEADING COMICS [ ahi A ON Te ee a
+MORE FUN COMICS a REE Bare
+MUTT & JEFF WORA\ oS OMICS. ,
+REAL FACT COMICS IvS YOUR""
+REAL SCREEN COMICS hag GUARANTEE
+SENSATION COMICS Fak OF THE BEST
+STAR SPANGLED COMICS 4 INANY Comic | ~
+SUPERMAN At th MAGAZINE /
+WONDER WOMAN Wes
+WORLD'S FINEST COMICS (dis (2
+Rh ""Ss Satine tlS Sees Pictid he ldae cago nee ot Goede inte ot Sold SA ee","| Advisory Loard |Sa ae. . |:
+OR. LAURETTA BENDER 11] —— )
+iato Prof £ Psychiat == '
+: Schoo! of Medicine, Now York ""Unwerstty | ———=_ r ‘ .
+- JOSETTE FRANK | Jf == ~*~ “a qe
+Consultant on Children’s Reading,. __——— @ a bs ’
+Child Study Association of America Es — . Q Es .
+| DR. C.. BOWIE MILLICAN —, \S j, Ly VATE
+i}: ) f English Literal — — [PAN ONS 1,
+Paver York Universily “e —S Fe fy gs Ses a
+| , = [=> Uy, aN .
+a Or. W. W. 0. SONES _ iy P
+Peofassor of Education ond i Yip, é |
+, University of Piltsburgh ” , a g 3 1
+Dr. S. HARCOURT PEPPARD U N KN OWN Y—~< |
+Lea Bicaoncly tee Wak ||] THERE'S NO SUCH, Cy)
+| WE'VE HUNTED HIGH * —~$ang DU
+OPERAS The following mag- AND LOW. “Gee, (ey, | ;
+e 7 axines all boar this IN LAND OF APE i
+DC trademark as your
+eX Ss, guarantee of the best op NB SN BAL,
+TASS in comic reading: B ay POUNDS i=
+ACTION COMICS _ IS Ry THE UN EROWN
+A DATE WITH JUDY POOR CHAP, HELL NEVER -
+ADVENTURE COMICS READ THE BOOKS |
+ALL-AMERICAN COMICS WITH THE SIGN THAT . |
+Ho ALL FUNNY COMICS GEE"" . _ |
+ALL-STAR COMICS. Sot py
+""ANIMAL ANTICS , DEER |
+BATMAN ; a) cA ,
+BOY COMMANDOS | By om o
+COMIC CAVALCADE LG. O;
+, DETECTIVE COMICS \ of ey far
+7 FLASH COMICS , SICK |
+FUNNY FOLKS —3 = |
+| FUNNY STUFF - age Tid “a0
+GREEN LANTERN IN fe.
+LEADING COMICS ONES Sha ~ON_THE COVER OF
+MORE FUN COMICS a c AS \ E L AS. Fe |
+. MUTT & JEFF Ese VA '
+REAL FACT COMICS a NB FOR EXAMPLE! |
+REAL SCREEN COMICS YE BF, , GUARANTEE .
+: SENSATION COMICS SEER OF THE BEST
+| STAR SPANGLED COMICS : Mitek HZ |: IN ANY COMIC | —
+i SUPERMAN yh Ne OU MAGAZINE?
+. WONDER. WOMAN APY ZS Or —s
+WORLD'S FINEST COMICS LW _
+DETECTIVE COMICS, No. 128, Oct, 1947. Publuted momt- 205 E. 42nd St. New York 47, N.Y, Entire contents copy:
+ly by National Comics Publications, Inc; 480 Lexington Ave. sighted 1947° by National Comics Publications, Inc. Except
+undee the act of March 3, 1879. Yeorly subseription in’ the Urely imaginary and fictitious and no identification with actunt
+U. S. $1.50 including postage. Foreign, $3.00 in Ametican persons, living or dead, is intended o¢ should be inferred, .
+. funds. For advertising rates ddtest Richard A. Feldon Be Con Printed In U.S.A. i",1222,2167,945,TO DO LIST,True,2026-04-10T16:59:23.974082,1.54,0.0,0.79,0.0,-0.75,"| ایڈوائزری لارڈ |Sa ae. . |:
+یا لوریٹا بینڈر 11] ——)
+iato Prof £ Psychiat =='
+: سکول! آف میڈیسن، ناؤ یارک ""Unwerstty | ———=_r ‘ .
+- جوسیٹ فرینک | Jf == ~*~ “a qe
+کنسلٹنٹ برائے بچوں کی پڑھائی، __——— @ اے بی ایس’
+چائلڈ اسٹڈی ایسوسی ایشن آف امریکہ Es — . Q Es
+| ڈاکٹر C. Bowie Millican —, \S j, Ly VATE
+i}: ) f انگریزی لفظی — — [PAN ONS 1،
+Paver York Universily “e —S Fe fy gs Ses a
+| , = [=> Uy, aN .
+ایک یا W. W. 0. SONES _ iy P
+Peofassor of Education ond i Yip, é |
+, یونیورسٹی آف پِلٹسبرگ” , a g 3 1
+ڈاکٹر ایس ہارکورٹ پیپرڈ یو این کے اون Y—~< |
+Lea Bicaoncly tee Wak ||] ایسا کوئی نہیں ہے، Cy)
+| ہم نے اعلیٰ * —~$ang DU کا شکار کیا ہے۔
+OPERAS درج ذیل میگ- اور کم۔ ""جی، (ey, | ;
+e 7 axines سب اس کو بندر کی سرزمین میں سوار کرتے ہیں۔
+آپ کے بطور ڈی سی ٹریڈ مارک
+eX Ss، بہترین آپشن NB SN BAL کی ضمانت،
+مزاحیہ پڑھنے میں TASS: B AY POUNDS i =
+ایکشن کامکس _ IS Ry The UN EROWN
+جوڈی پور چیپ کے ساتھ ایک تاریخ، جہنم کبھی نہیں -
+ایڈونچر کامکس کتابیں پڑھیں |
+آل امریکن کامکس اس سائن کے ساتھ۔ |
+ہو سب مضحکہ خیز کامکس جی"" _ |
+آل اسٹار کامکس۔ Sot py
+""جانوروں کی اینٹیکس، ہرن |
+بیٹ مین a) cA،
+لڑکا کمانڈوز | کی طرف سے om o
+کامک کیوالکیڈ LG۔ اے;
+, جاسوسی کامکس \ آف ey دور
+7 فلیش کامکس , بیمار |
+مضحکہ خیز لوگ -3 = |
+| مضحکہ خیز چیزیں - عمر Tid “a0
+فی میں سبز لالٹین۔
+معروف کامکس والے
+مزید تفریحی کامکس a c AS \ E L AS۔ Fe |
+. MUTT & JEFF ESE VA'
+مثال کے طور پر حقیقی حقیقت مزاحیہ ایک NB! |
+اصلی سکرین کامکس YE BF،، گارنٹی۔
+: سنسنیشن کامکس سیئر آف دی بیسٹ
+| سٹار اسپینگلڈ کامکس : Mitek HZ |: کسی بھی کامک میں | -
+i SUPERMAN yh Ne OU magazine?
+. ونڈر۔ وومن اے پی وائی زیڈ ایس یا ایس
+دنیا کی بہترین کامکس LW _
+جاسوسی کامکس، نمبر 128، اکتوبر، 1947۔ شائع شدہ ماں- 205 ای. 42ویں سینٹ نیویارک 47، نیو یارک، پورے مواد کی کاپی:
+ly by National Comics Publications, Inc; 480 Lexington Ave. sighted 1947° by National Comics Publications Inc. سوائے
+3 مارچ 1879 کے ایکٹ کو ختم کریں۔ یوریلی غیر حقیقی اور فرضی اور ایکٹ کے ساتھ کوئی شناخت نہیں
+US $1.50 بشمول ڈاک۔ غیر ملکی، $3.00 Ametican افراد میں، زندہ یا مردہ، کا ارادہ ہے o¢ کا اندازہ لگایا جانا چاہیے،
+. فنڈز ایڈورٹائزنگ ریٹس کے لیے رچرڈ اے فیلڈن بی کون پرنٹڈ ان یو ایس اے میں ٹیسٹ کریں",True,True,,ur,2026-04-10T17:00:37.163245
+Screenshot_4.png,manga,6,"© gat
+= genes i
+Pater ig : < ae pe ;
+— p be : 3
+7 : ; Paw |
+: ne te iis ENN )
+"" ep £ = ee 3","NY 1S Soh | ag 7 ae) =)
+PRs Paipoieed | |e EEDe Sr Se)
+ae; Gree SOHO | SEMIS
+ASSET 2) | paige
+D )és mae Th | Deer LQ
+’ ways W "" 7 ay. | — Bw ; 3x4 rere . ~ ) ! |
+| ‘ ai< WSF Y A ‘\ ‘ Via V/ G WS
+A <q Ae ce ana UPS ES\
+wes SS Ct
+| |
+7
+| 34 __ eee nnn ae",91,252,161,Write 'n'  Wipe Poster,True,2026-04-10T16:59:26.115866,19.51,0.0,7.88,0.0,-11.63,"1S سوہ | 7 اے) =)
+کرایہ پر لی گئی PRs | |اور EEDe Sr Se)
+آنکھ سلام SOHO | ساتویں
+اثاثہ 2) | پیج
+D) ہے لیکن Th | ہرن LQ
+' طریقوں W "" 7 ماہ | - Bw ; 3x4 rere . ~ ) ! |
+| ' ai< WSF Y A ' \ ' V/ G WS کے ذریعے
+A <q Ae ce ana UPS ES\
+ویسٹ ایس ایس سی ٹی۔
+| |
+7
+| 34 __ is nnn is",True,True,,ur,2026-04-10T17:00:37.163245
+Screenshot_5.png,manga,6,"Se SL tae
+
+: r me
+
+= a =
+
+- ES
+S- has ry ey
+q ZaIRS
+we = ~ “4 k \P a
+a ath, = Fee ~ +
+——_ See","SE 4 HERE. - — KN Ls :
+¢ oy AN \* . NS S > | \ A WY |
+= NS ws ) NS SQ) \ ~ an QC vo o ty
+
+NOT YET, SIR, BUT “i |
+| HE HAS TO BE , |
+ARQUND HERE — a, | |
+NY Gane as
+AA
+\ | TIMOR? oe eg ‘
+\ 4 TIMOR, CS 9 hsp |
+\ te ARE YOU 0 Ne ATS
+<Q BOs Ser { (SF PY ES vu
+SS ue —S ,",93,266,173,"OVER HERE., ANY SIGN OF HIM?, NOT YET, SIR, BUT HE HAS TO BE AROUND HERE SOME--, TIMOR? TIMOR, ARE YOU THERE?",True,2026-04-10T16:59:30.379571,18.99,4.55,46.76,59.09,27.77,"SE 4 یہاں۔ - KN Ls :
+¢ oy AN ** . NS S > | \ A WY |
+= NS ws ) NS SQ) \ ~ ایک QC vo o ty
+
+ابھی تک نہیں، سر، لیکن ""i |
+| اسے ہونا ہے , |
+آرکونڈ یہاں - ایک، | |
+NY Gane بطور
+اے اے
+\ | تیمور؟ oe مثال کے طور پر '
+\ 4 تیمور، CS 9 hsp |
+\ te کیا آپ 0 Ne ATS ہیں۔
+<Q BOs Ser { (SF PY ES vu
+ایس ایس یو - ایس،",True,True,,ur,2026-04-10T17:00:37.163245
+Screenshot_6.png,manga,6,"aera 7 ia \\
+FUGA BELA EX MS —}
+SF — ABS LB.
+Z j , 5 4 | I, .
+Ny (S\_ al Uy","o
+ogo TL
+oe ea ee T\
+RIA BE ZS EX L SL
+LN ITY, BN Ce > fe |
+Hy} ff L/D GAC",75,74,-1,"十一年了整整十一年系统你就不能给我好一点的天赋吗, 气抖冷……, 点赞转发",True,2026-04-10T16:59:34.577566,4.44,0.0,2.2,0.0,-2.24,"o
+ogo TL
+ہوا اور T\
+RIA BE ZS اور L SL
+LN ITY, BN کیا > ایمان |
+Hy} ff L/D GAC",True,True,,ur,2026-04-10T17:00:37.163245
+Screenshot_7.png,manga,6,"KE +L
+Ripa
+MEBDA
+BR ASK BSS
+FPitBA RAK
+RIRAMMAAAK AS
+MMRERERS
+A+ — FRITS
+Fx SC ATE F
+XA—MAVE","ASL
+Aina
+MEBDA
+BRK |
+( ATBRRRE—R \
+RARER AIS
+__\ xMEERERSM /
+| Bt EaKy
+ELM AEF
+XA—WMALE",92,87,-5,"我重生以后
+自带系统
+这是多少人
+梦寐以求的事
+
+不过每天只能摇一次
+灵根资质和先天气运
+这个设定真是坑爹啊
+
+可十一年都过来了
+我又何必在乎
+这么一两天呢",True,2026-04-10T16:59:38.727138,11.25,0.0,11.54,0.0,0.29,"ASL
+عینا
+MEBDA
+BRK |
+(ATBRRRE-R \
+نایاب AIS
+__\ xMEERERSM /
+| بی ٹی ایکی
+ELM AEF
+XA—WMALE",True,True,,ur,2026-04-10T17:00:37.163245
+Screenshot_8.png,manga,6,"we <i = *
+| THOUGHT. | : Sai","SA EZ
+""Ah a
+il LARA. LS
+— | ) fe , ‘| aes 6
+ear
+Bi WAN
+K ie (  o—~
+YS) SS oS ys
+SR CA Sep
+a up , aye
+22",28,103,75,"OR…. SO I THOUGHT,",True,2026-04-10T16:59:40.348088,44.44,0.0,12.77,0.0,-31.67,"SA EZ
+""اوہ اے
+لارا ایل ایس
+- | ) ایمان، '| 6 تک
+کان
+جب WAN
+کہاں ( o—~
+YS) SS oS ys
+SR CA ستمبر
+ایک اوپر، وہ
+22",True,True,,ur,2026-04-10T17:00:37.163245
+handwritten_1.jpg,handwritten,6,"a
+eee
+SS
+eS
+Ee Bse shad Ta Bacio
+=
+=a
+Pa","_ 4% Une ages 2 =
+a ODO al
+—. _——.- - oe — —_ ———— - - — - ——___— ———
+———— ae Ss ae a e
+—.__ —_——"" - ‘ oo _ - —— — —- -—- — —",40,125,85,"This is  A test image, writing like this to see what works, A blur should be harder",True,2026-04-10T16:59:40.861305,17.65,6.67,12.9,6.67,-4.75,"_ 4% Une عمر 2 =
+اور ODO al
+-. _——.- - آپ —_ ———— - - — ————————
+———— ہاں ہاں ہاں اور نہیں۔
+—.__ —_——"" - ‘ اوو _ ———————————",True,True,,ur,2026-04-10T17:00:37.163245
+image (1).jpg,handwritten,6,"Le | Wane
+sous",". : - a5, eS
+. . on . aes : t “~ ‘ a Ca i.
+. . . . ho . ” . on ’: 1 y . w a
+- “"" . . . . 7 -.! * . ; ete i a ; an ar , an Sons ~
+: ak . je , wat bd ao ad t at - ‘ {o- Fe .. ome & a :
+= . vee , ' : ore f } SM We f wo Op pe le eee et oe we . a a Aa “tp et ”
+srg teary : ' i= . or. ae ta wager! og ao ' : . i] . f et foe dey: 4 as eo : Aa :
+. “etter: at : . : | a Fa FY _ . Poa : , ars . . : wl a, ' ts i. nyo Z . : rae ‘econ Ta. a . ;
+- 7 te * . ab ey “3 +t ‘ oar * . : F ""ot 7 4 : # é a : . bacen wa ‘te = tae"" Jf wba I o "" .
+4 L aan i: rn ae OR 4 = » 4 i ; en - i ie Q fh, “5 a mt eset 1
+4 *. 4 Jee ed * Beet ee ne ‘* te . » . i *s "" : . a) nae : ees. ~ be - : ; ;
+a t ae Se ye 1a f 2 w % ae ek aes noted Ps , + * iol Pee ‘, % cee Swemee Yes Lo eee my ada ws . .
+i and Sa . e ae: a . s Ci eme “ee tia fg! rh rr ar” - ®A- ne mone ° te “.
+. “ee < hot F “ES tae rT od tt, feawt can . on
+§. , (eet oO oo *s . , "". SoBe ‘, ‘ &. Ms
+v } . Te ww =, : ’ we, “
+.. '",14,955,941,Though they may gather some left-wing,True,2026-04-10T16:59:41.848271,18.18,0.0,4.55,0.0,-13.63,". : - a5، eS
+. . پر aes : t ""~ ' the Ca i.
+. . . . ہو پر : 1 سال .
+- """" . . . 7 -.! * ; یہاں میں ایک ; ہمارے، ہمارے بیٹے ~
+: اور . je , wat bd ao ad t at - ‘ {o- Fe .. ome & a :
+= vee , ' : ore f } SM We f wo Op or le eee et oe we . ایک ہاں ""tp اور""
+srg teary : ' i = . سونا اور ایک دانو ہے! اور ' : . میں] f اور چار: 4 اور eo: Aa:
+. ایٹر: پر : . : | اے ایف اے ایف وائی _ پوا : ، آرس . : ڈبلیو ایل اے ، ٹی ایس آئی یا زیڈ : راے ایکون ٹا .
+- 7 میں سے * ab ey ""3 +t ' oar * . : F ""ot 7 4 : # é a : . bacen wa ‘te = tae"" Jf wba I o "" .
+4 W ords: rn ae OR 4 = » 4 i ; en - i یعنی Q fh، “5 سے mt eset 1
+4* 4 خدا ایڈ * بیٹ ای اور '* ٹی . » i*s "" : . a) nae : ees ~ be - : ; ;
+a t ae Se ye 1a f 2 w % ae ek aes نوٹ کیا Ps , + * iol Pee ', % cee Swemee ہاں Lo eee my ada ws .
+i اور Sa اور ae: a. s اسے کہتے ہیں ""your fg! rh rr ar"" - ®A-ne coin °te "".
+. ""ee < hot F"" ES tae rT od tt, feawt can . ہاں
+§. , (یہاں تک کہ اگر *s .، "". اگر '،' اور. محترمہ
+v } ww =،: 'جہاں،' کے لیے
+..'",True,True,,ur,2026-04-10T17:00:37.163245
+image (10).jpg,handwritten,6,"xssuredness ""Bella Bella Narie” ( Rarlophone ), o lively song that chonge tempo mid-way.",". Par . wee . oF ta . -_- . . . an wa oad aie! te . t oa . 7 : oe ty : . ; f t. . al WO ee ; at ece , . : . _ - : we : 7 . . . 2 -
+ae nots ""oo . a} : . - ro ty Nice Trae. 3 a ae? : ° ye Te Maley . alg < , . 1p: WO we “9 Ee: t oy * i at * othe sights cee a . wi. = heey, hae tA ‘imi: a tpiee iH Wh .
+t ? * “+ ’ i. as) ' Ve = 4 re 5 or ad . . woe Le ae - . as vt i) a oe oNn tose m_ Pore a nT ” ak Sea , a 4 fc : ve 2, : rg 7 Re t 7 axbe ele . ie "" i i""
+ne Gee.) eee EPA Wie ye RNS: RE SU) eee IBY ERR ane Sas Hes cree SN thes ‘Ai AS ak bh Te cae ee te a eS ce) ae
+. elie : : ea a | ar - at: ao (eB! ry mt Ws 2, wes AP de ae - ! oe ‘a ay sth ea a | Cre . i. a4 . ae opt ater eyes wk A caw th Oo ‘eat ¥ wet on KD Beles rene Pings ind aa A TRAPS. wre ee / ot 1 ‘oe ‘ ae f 4 ails . Th i ., eran re eet oe Be ae Te pled cla dg}it.- Woe weir ta, . wee fee *e it ten. Sr Pe aes te a ne
+eet So ian SoS EE ee pg RRS WAS Sy ioe rar 4 Gt oto nee oe ARES HERETO 7 OT A ROME Lo STROM ( SeOMMRIEY YR C7 gf COMED NIDA ( BSE SIDES IOLLR | FN! SeEN CU eee | et: ne hs: BESS CLE) Bie Lo eet a cee ee we LEGS ate weed Soveh tient cote 2 “I Fe, =. eo Re, ee a aN ye Moe Ne Eee TER. NY Le Fe een Ce
+RA EC ae md Ore LPT NY foe S SE bea) (ae ee eT . LC bg wat AC SS ND | eae nn 2 itt by - st eo aaees La ae . LG sta S Net e oe Ce OR arc ae Ln ied aC Peel bite etary OTR To “PS PETE 3h a AG: cB) he See ag sh ceteet S wee a SEL Ay | Sets Rea | (ee inc: Weplod ee Pay ‘ og Poste BM ee tee nes. AL ostsal oh. “oR
+FO CASEI Rent SONI CN EC a gs UR Gon RAR LCN ee (107 S ea ass We iepeics ot Pa RS EN ES =) BO AAR FRU RES SRO ER SR SERED Pande: Ci MB ET S05 DRS 2 Rr CeO 2 DNS SA ea eG mB aN SE an at og oe
+ns a ita tee Poe ay rane! Ke ope ON wt AS, , . Mot A ap wa Te API este oe es . hb 24 Heep oe. he re ay) fay be ORY Ber ce — he UP ys as ee de an v3 SY : Cts 3) By phe ere 4, we toe MPS PES - FA! ES | Ca he ee Oe BAS Ak ee TY, AF Cee 43h: EA are WN. UE Paee ie Uh fi oA . (ir. nt | a dee caie\ r a . ers: en . : aus oA Kise, ; $ AN NS “S ; aa
+Bae Wag i - eo) PAE '{3 ' Ho Pete 3s, TES ag tee Se an wae 4 WONG Yt! if oF De | ate ""4 suid UL sf) tf! af “ Nps dias - aia They y Len PON tale seb a arg Aye bd *: Xk if Re OT Rae es : Womens VRS UF, {on & en Ta aoe ee, 4 oak APS: a LSD Pe ee Aree Te Eo Ne eee wee \e Tne eek ae pe MG FEV AC Pests Be ae ve tA Ges? . A ! Ae Feces | + oS ed MY yr cae as ist Te ts
+me Ng TI Oe ype te ager ees cee 4% . so, . te —— ar an nn a aoe ate 4 : . wt ey ae re . o soe os ob tt ag o. -_ ar : a) ies . ar bry 4 ~®) . 177 OP ey vee ” a ae , : . soe ee. & “t- i Co et RR ware OT tee eee geet, we ae sy ren :
+ee ote TD ee we ye Tes yt Spt ag gm Oe CS A ee a a ne - . wae del . oF Rb : ee Pa EL ran . . ae ‘ tee eh ed er : ae : : 4 Ppa fe ~ ee as ( eo i a EET SATS | OE
+BSS STUER Tae Por Sree DSi GS a en a Ee aT : | ee eR OS . es _ Te Weare Ei tegl aE NO) Oe
+yer an ee a a a aaa vat “tos ae -— a : . ? ae oye i . : To. zi iC . Te yp . wee, : ao el tone Mae to Tet “ . , ; ey ae an te wo ons pets Sal .ototms . . . - . ; _ a eo an a . ° Pe Nass ore, ;",88,3053,2965,"assuredness ""Bella Bella Marie"" (Parlophone), a lively song that changes tempo mid-way.",True,2026-04-10T16:59:45.167300,91.39,58.33,1.91,8.33,-89.48,". . اس کے -_- . . a we oad fire! کا t oa 7 : اوہ تم : ; f t . WO کو ہاں ; ece میں , : . _ - : کہاں : 7 . . . 2 -
+ae nots ""oo. a} : . - ro ty Nice Trae. 3 a ae? : ° ye Te Maley . alg < , . 1p: WO we “9 Yes: t oy * i at * other sights cee a . سر = ارے، یہاں tA نام: a tpiee iH Wh
+t ? * ""+ ' i. as) ' Ve = 4 re 5 or ad . . woe Le ae - . as vt i) a oN tose m_ Pore a nT ” and Sea , a 4 fc : ve 2, : rg 7 Re t 7 axbe ele یعنی "" in i""
+EEE EPA Wie ye RNS: RE SU) eee IBY ERR ane Sas Hes cree SN thes 'Ai AS ak bh Te cae te a eS ce) ae
+. جہاں : : کہاں ایک | ar - at: ao (eB! ry mt Ws 2, wes AP de ae - ! oe 'a ay sth ea a | Cre. i. a4. ae opt ater eyes wk A caw th Oo' KD Beles rene Pings ind aa A TRAPS پر گیلا کھاتا ہے۔ 1 انہوں نے اسے کہا۔
+eet So ian SoS EE ee pg RRS WAS Sy ioe rar 4 Gt oto nee oe ARES HERETO 7 OT A ROME Lo STROM ( SeOMMRIEY YR C7 gf کمڈ ندا ( BSE SIDES IOLLR | سووہ نے 2 کو سنا ""I Fe, Neee Moe, ENYE =. Fe een Ce
+RA EC ae md Ore LPT NY foe S SE bea) (ae ee eT . LC bg wat AC SS ND | eae nn 2 itt by - st eo aaees La ae . LG sta S Net e oe Ce OR ce a arc ae Ln ied aC Peel SET SEL SET AGS Heet | Rea | (ee inc: Weplod ee Pay ' og Poste BM ee tee nes.
+FO CASEI کرایہ پر لیں SONI CN EC a gs UR Gon RAR LCN ee (107 S ea ass We iepeics ot Pa RS EN ES =) BO AAR FRU RES SRO ER SR SERED Pande: Ci MB ET S05 DRS 2 Rr CeO 2 DNS SAG میں
+این ایس باہر کی چائے پو رانے ہے! کسی کو بھی آنے دو AS، . Mot A ap یا Te API ہے oe es hb 24 ہیپ اوہ۔ SY : Cts 3) Phe ere 4 تک، ہم MPS PES - FA سے رجوع کرتے ہیں! ES | BAS اور TY، AF Cee 43h: EA اور WN۔ UE Paee اور Uh fi oA (ir. nt | a dee caie\r a. ers: en. : aus oA Kise, $ AN NS “S ; aa
+PAE '{3' Ho Pete 3s, TES ag tee Se an wae 4 WONG Yt! اگر دن | ate ""4 suid UL sf) tf! . اے! پاخانہ | + oS ed MY yr cae اور ist Te ts
+Ager میں Ng TI Oe ype 4% ہے۔ لہذا، te —— ar an nn a aoe ate 4 : wt ey is or soe the obtt ag o. -_ کے ساتھ: a) go with bry 4 ~®)۔ 177 OP ey vee ” a ae , : . soe ee. & “ t-i Co et RR ware OT اسے ملتا ہے ، وہ کرتی ہے : .
+ہاں او ٹی ڈی آپ ٹیسٹ ایس پی ٹی اے جی جی جی ایم او ای سی ایس اے ہیں ہاں آپ آر بی کی طرف سے ہیں: کیا Pa EL بھاگ گیا ہے۔ . : : 4 باپ fe ~ ee as ( جو EET SATS ہے | OE
+BSS STUER ٹائی سیریز DSi GS a en a Ee aT کے لئے : | ہاں eR OS is _ Te Weare Ei table aE NO) اوہ
+yer an ee a a a aaa vat “toss ae -- a : . ? ae oye i . : To zi iC . Te yp . wee , : ao el tone Mae to Tet “ , ; ey ae an te wo ons پالتو جانور نمک .ototms . . . --. ; _ کا ایک . ° ناس گھنٹوں کے لیے،",True,True,,ur,2026-04-10T17:00:37.163245
+image (11).jpg,handwritten,6,Showing Yat Such Changes Are part of Qa,"Payor? Ma ‘ep . 8S Fawn wee fF ? ee Se
+> nai Se Be wah BSS a je* yg a ee i ee a BO all
+” ""- , oe way TAs ys pte be tk). ae fetes ste _ fay te. uy telnet s oa. STE eens 1d *. _ ae a _
+en : ered feed eee heels Loe, aa sme We © soe ara? Se ae Oar Se ae te Se Ae tiope . i, a he Si ln. =
+— 2 x . awowe . woe tw et wae we wt ae ae | Ae a - ae ay why’, wot lt ee tears —, 9 HF Sa se * ""@ ts ""2 a te. a ae CORN a
+et haa / fre naan Se ~ et a ve we Sa wey Sper atBerty ee toe ie : Te ee aay 4 oe te escent ov gsr 3) Pt Te} wen Nt . oF ia ne rs
+AyQhl 5 7 . . . 7 ref R : ""BA thea, 40 ce . . re ed . . 4 . : = . . Me. Tatton “ . te . ar . ‘ t fe es *
+poy ren | i feees te res Ars “ie toe Pe omrearan the! OOP Sr A baa Ser’ 3 P en a ae 10% SSS oe nnd “+ LY foal Pe od a a and ae 5 et - Le Ree oe! iT Bt fete g Ct pee et et gg
+pate wap ot tan Whe 2a ate Sock Aa ea fsa. a ST ye aT me oe . -~* ay aes ~~? ‘ ray id ty or - “eo te hoe aot pee eo . fm wif * write Laem ar) ee, es LP Re Se et ot ar ine brie pal
+yess aH eo “a met ""Te = red Mess by (eee | Tae soft! tn 7 i? Te ew rege FE Eg eEy & 7 . ~ ) fy 7 - : cS a , ~ te ‘ eo - ee Hoa ey fees te et Pree ose ef vy 25° ae hints ta
+; SLAP es em *. | DOPE ETON | LY SCY | Se Eel. et eA, ae seme ese are oA wees tan ee ne . Loe rr + PELL Se ECS MOST LF 901 NS ae a OLED, | Sale oo ee te
+eapics OP oe en a arte are Wie REEDS, Seas | 1 }: “ ' “ * Og ol 40 aa oie ” fy as Der a . oh oe . ae? ‘ : ma) ne . ’ oe ate; Ww) sw ee ' aA Het Moet:
+Weed ee ‘/ 7] OS. St of iia Bye ree, Itt oie gan jad: SP ete oy RPS tele QS, SNC 3 See : ats OP as aes “3 ES. ect Cae ' . oy Ags i t oabestt - Bet. li A ; -. ; : _ week Oe a . 3 iss”, Tw ; i. pigs a} Sa
+0 Caen AS EN SS a PR gh seta Ce Ad RL PS a, ENTS 1 Ge ee tn eye Ue oy NY aa Phil Po ch PNT < 7 Oe Mt Sete Le sn ot eat - ones ne cn ' ft FASE re eee 7 x etre wate!
+eA RS! Ces “f CAS ar, BAeAenD Atk MRR ee ne ll ey SE | Me A Ol iar ah Sa hoa, CaP aie. a: aot SR Saree rr a ei tee _ ee lies . eGR gnu fa yee a Tie a tah eon e nat.
+SS WAS: yuirae BORE R12 OP RES > ei OER SNCS AS ole CNG ee Pa a Soeeraer atone) LPS 3 cl -9t) I 29- Pe LATE DTN: FEN ey St AF eee se ne OT AY ee ee a an EE peg 150 300d Se Veer?) 0) ees ae ts
+a X Vie ey OR ee SB VBEG SS a) ee oe oh Lie Sank : ab fe eee Se LT AN a wa aes De gh BLL I OS RY SG i pay Seen: ot 2 GOODS Dg 3 REG. - BAC SPRR Se ao At Tee Tp? vost * Tay 3 Ae Me ee Set ee ""
+Para e a ae ate We: . oO sy > 1 Seer oN Te Co RS a iit mf ee tase CSA aig: Grapes Bess BY ae 0% Age iay, ryt fee pide Oi ae ae <7 et) A: gn Lisa vel me CORA, ost BD: o, tee ee gt SY ND AO ame - are
+AA ee deface Ee deat ORY ALD, TEE: Eire ae aa ed 0 Be qos “e . a ay sege 1 YS i <alee A Cae tet” Wt Bee rae A Cathe ONE rp Qe .- tet he York oes oe "" ie we RAL) MCS, Se itn gps 4 oA AN t! kPIwie 4
+LAS OS et tee Me ee Se PP ees MBO NEE Se, RY x Xe BTS =A it POE LE at 4 OPIS, eo As ES Sr eae a eae Sa ae Rea ts wren PET AAC set Oy. 42. eee es TT tyipes! ak
+“Ter «9, 5 z of ee rele, mn tot asin : who g ae . ae - Wr te mw gl ge? . . a . ma ° . ‘a _ : AA! as ' wa’ fad Ps alow Pe ORR Le! ] Cet Bb eee a” “) Pry) er DP) of SEMEN 3 opie Assit 3 nt ea it om r aay: fp,
+Os OAS Oke re ca Ore late, ane oy SRR aeee <a ' ny ne pee ic o 6 cae ee NS TAY tS OE Oe CS 1 Sf 2 ag tes Ah Ss :* 7 t 3 "" esc ale i aae8 Cae ee WIR Pde Wo CGE 3 Megs ; 3 setae BDAC Tey
+med a tae < . . - .* : : - ogl fag aie, ia de yo ta. ees SS Pe =! Fran ‘ wy “ aa . . tes ? te oN D Na 3 5Fe Pats a ay (ine ra Gaz Z \ in ae ar Ay se th,
+tg TS orem pete t eal ES Da apet we EN eT tra te ew orale at “ote _ oa Ce er ee eh ad A ee Fe =! . fee en Se ere repaere -' rN Bite AV, ie. . CII Pe “eee Ne AO a ea OET 5d f
+aang ary SEAS: TT, esate ete ae my bf , a ee : . Dee Seeger eto tae Meet SA OT I Baa is et 0 oD Vp ae JD ee ee ag ee ee - ee Re et ee tod BERRY eo SND eo Fa A So aa Sat ited Bln a A ¥, Fe Nee hw IR Bip)
+eed naan ue, “: i wah ‘a wen. rete +S Lb ae, eo = ie . ’ T ‘ _? “TL, *~ i . oe re “are pane Se aN vue oe ' oe 7 ro : i? iy fatto en “a sah tae gt? Lars ated om Ls <_ et aes ¥ PEE e: Sonera ef mie Ronettes * ar = as; ae . 3'8 te en se: PAT eee ax: eo FS
+me ee ee oe fee : . nN Ss. . lee oe buteT ea . 87. : . a are . et the feet CL! os pret TA Aa Sa ote . tore ay Oe tee Og: wee P§ BEERS TEN, POS age. AS 2 3 cous aate Qe
+_ 1¢ te * ere es see, . cy - \ Nore Reo Loe ee . a ‘ . - oo one .* fe . . a, te r} . ‘ .* = e . : : teies megs as! rok fe ww Pte te ss oa ba — Soest 3° ‘ot hs ae . Soa ee Ta 4 ia i uf 2 q i het piis: oe = : oN
+oo eae - . ‘ - “a7 : Moore Se atten Oe t- A atlas ot wore ‘wey alah! _ Ps . SE & boo ae . lara st >a ieee TM wet le Te ie tiee.
+a = ae f. i yee es a ” re Daf es — “4 Te fe, NS : a fy . a hl eee os re we ~~ Vee ve — ° me. ‘e""
+‘ iw Se, ‘ ' oe Fed : .- no ee fee a. — a -- ve
+1 e e t ~¢ P] ca mA wet on
+.» at ae a ae ‘ ‘Toe: .",39,4815,4776,showing that such changes are part of a,True,2026-04-10T16:59:50.027131,93.75,75.0,1.52,37.5,-92.23,"ادا کرنے والا؟ میرا 'ای پی۔ 8S فان وی ایف ایف؟ ee Se > nai Se Be wah BSS a je*yg a ee i ee a BO all """" - oe way TAs ys pte be tk)۔ ae fetes ste _ fay te. uy telnet s oa. STE ایک بار 1d *۔ _ ae a _ en : ered feed eee ہیلس Loe, aa sme We © soe ara? Se ae Oar Se ae te Se Ae tiope . میں، ایک Si ln کے ساتھ۔ = - 2 ایکس۔ آپ woe tw et wae we wt ae ae | Ae a - ae ay Why', wot lt ee tears —, 9 HF Sa se * ""@ ts ""2 a te. ae Corn a et haa / fre naan Se ~ et a ve we Sa wey Sper atBerty ee toe یعنی : Te ee aay 4 oe te escent ov gsr 3) Pt Te} wen Nt . oF ia ne rs AyQhl 5 7 . . . 7 ریف آر: ""بی اے تھیا، 40 سی ای . دوبارہ ایڈ . . 4 . : = . . می۔ ٹیٹن ""۔ چائے . ' t fe es * poy ren | i feees te res Ars “یعنی toe Pe omrearan the! OOP Sr A baa Ser’ 3 P en ae 10% SSS oe nnd “+ LY foal Pe o a a and ae 5 et - Le Ree oe! iT Bt fete g Ct pee et et gg pate wap ot tan Whe 2a ate Sock Aa ea fsa۔ ایک ST اور aT اور oe -~* اے آسان ~~؟ ' ray id ty یا - ""eo te hoe aot pee eo . fm wif * write Laem ar) ee, es LP Re Se et ot ar ine brie pal yess aH eo ""a met"" Te = red Mess by (eee | Tae soft! tn 7 i? ey fees te a °e et5 et2 | ریڈز، سیز | 1 }: "" ' "" * اور ol 40 aa oie "" fy as Der a. oh you. ae? ' : ma) اور . تم نے کھایا؛ Ww) sw ee ' aA It Must: Weed ee ‘/7] OS۔ St of iia Bye ree, Itt oie gan jad: SP ete oy RPS tele QS, SNC 3 دیکھیں: ats OP as aes “3 ES. ect Cae '. oy Ags i t oabestt - Bet. li A ;-. ; : _ week Oe a. 3 iss”, Tw ; i pigs a} Sa 0 Caen AS EN SS a PR gh seta Ce Ad RL PS a, ENTS 1 Ge ee tn eye Ue oy NY aa Phil Po ch PNT < 7 Oe Mt Sete The sn ot eat - ones ne cn' ft FASE re eee 7 x درمیان wate! eA RS! Ces “f CAS ar, BAeAenD Atk MRR ee ne ll ey SE | Me A Ol iar ah Sahoa, CaP aie. a: aot SR Saree rr a ei tee _ ee lies . eGR gnu fayee a tie a tah eon e nat. Soeeraer LPS-9-LPS-9) DTN: FEN ey St AF eee se ne OT AY ee ee ee a an EE peg 150 300d Se Veer?) 0) ees ae ts a X Vie ey یا ee SB VBEG SS a) ee oe oh Lie fee a : AN GH BLL I OS Se RY: BLL I OS Se 300 300d Se Veer? SPRR Se ao At Tee Tp vost * Tay 3 Ae Me ee Set ee "" Para e a ae ate We: . oO sy > 1 Seer oN Te Co RS a iit mf ee tase CSA aig: Grapes Bess BY ae 0% Ae iay, ryt fee pide Oi ae ae <7 et) A: gn Lisa vel me CORA, ost BD: o, tee ee gt SY NDTOREEAE, Air Dee Ae: TEEEY ae aa ed 0 Be qos “e . a ay sege 1 YS i <alee A Cae tet” Wt Bee rae A Cathe ONE rp Qe .- tet he York oes oe "" یعنی ہم RAL) MCS, Se itn gps 4 oA AN t! kPIOSEE 4 LASEETS BEETS Se x NEE XYTS = POE LE at 4 OPIS، eo As ES Sr eae a eae Sae Rea ts wren PET AAC سیٹ Oy 42۔ ae - Wr te mw gl ge؟ . . جس کا لیکن ° 'a _ : اے اے! جیسا کہ 'وا' فیڈ Ps alow Pe ORR Le! ] Cet Bb eee a"" "") Pry) er DP) SEMEN 3 opie Assit 3 nt ea it om r aay: fp، Os OAS Oke re ca Ore late، ane oy SRR aeee <a' ny ne pee ico o 6 cae ee NS TAY tS TS A12 OEs OEs s t : S 3 "" es : aae8 Cae ee WIR Wo CGE 3 Megs ؛ 3 setae BDAC Tey med a tae < .* : : - ogl fag aie, ia de yo ta ees SS Pe =! . test ? te oN D Na 3 5Fe Pats a ay ay y a yazte ya zeem. t eal ES Da apet we EN eT tra te ew orale at “ote _ oa Ce er ee eh ad A ee Fe =! aang ary SEAS: TT, esate ete ae my bf , a ee : . Dee Seeger eto tae Meet SA OT I Baa is et 0 oDeee eeet ee tod BERRY eo SND eo Fa A So aa Sat ited Bln a ¥ ¥ , Ne hw) na Fee i IIR: “. wah ‘a wen rete +S Lb ae, eo = یعنی ’ T ‘ _? oe re “ are pane Se aN vue oe ' oe 7 ro : i? iy facto en “a sah tae gt? Lars ated om Ls <_ et aes ¥ PEE e: Sonera ef mie Ronettes * ar = as; ae . 3'8 te en se: PAT eee ax: eo FS me ee ee oe oe fee : . nN Ss. . . CL! os pret TA Aa Sa ote . tore ay Oe tee Og: wee P§ BEERS TEN, POS age. AS 2 3 cous aate Qe _ 1¢ the * ere es see, . cy - \ Nore Reo Loe ee . whose ' . - oo one .* than . . a, the r} . ‘ .* = e . : : this megs as rok fe ww Pte te ss oa ba — Soest 3° ‘ot hs ae . Soa ee Ta 4 ia i uf 2 q i het piis: oe = : oN oo eae - . ' - ""a7 : Moore Se atten Oe t-A اٹلس اوٹ نے 'وی الاہ' پہنا تھا! 'e' ' iw Se، ' ' oe Fed : .- کوئی ee فیس نہیں — a -- ve 1 e e t ~¢ P] ca mA گیلے آن .» at ae ae '' پیر: ..",True,True,,ur,2026-04-10T17:00:37.163245
+image (2).jpg,handwritten,6,Large ty Shy o/ Katou UM 3 ar Ohely Yo hen,"Ue, me tf pp fe kf. Mae oD Vif fi fe Sf
+aaaren Aaasy, Fim ity wt Lahti er $A fe wnwe PELE. /
+Lage ANAL OD fi o/ Kabir U7 fs are & hely “0 hun",42,141,99,A large majority of Labour MPs are likely to turn,True,2026-04-10T16:59:50.501415,52.78,10.0,28.57,10.0,-24.21,"Ue، me tf pp fe kf. Mae oD Vif fi fe Sf
+aaaren Aaasy، Fim ity wt Lahti er $A fe wnwe PELE. /
+O/ Kabir U7 fs کے لیے لگ ANAL OD ہیں اور ہیلی “0 ہن",True,True,,ur,2026-04-10T17:00:37.163245
+image (3).jpg,handwritten,6,,"att
+” . Wes =e weve OPE! a, Py re . . ra . wise : o Cos ria toe é “ . . a : : a . : as : Doh ate et : i
+of ae a an AoY on. wy os "" ¢ Nata ol _ ee , te . fF 4 en . { i. he i - Ff te . .
+ao ae 2 ¥ j oe , oo tos a ae oye yr te es - tb Fi : tat ' _ fo ak . o~ lia awe oe ne = . a . : eg ow i at oa < ; * § a ad : ¥ et : : . oo ; a y oo.
+' is we ry 7 F Ca ie t q — abe, oka Fs aed é 7 if . “4 a ag an on aut. 4 ‘ ft: at . a ‘ 2 : . Pi ee. ay OW «J hier : ey PY = « ” rd # ect a at . i .
+. rie afl a S| eh ep ig ot x te Pa or | 4 ‘ - U bal = ‘ f: no ; ae wd rts oa “ as “4 oy fh 24 es Gf vl 2 . t we ; f° ? fag ce : “tos. *“ . ne
+~ ae . att £ hy 3 CL aaahte SD food £ Coat Oe 4 - a Ae Lee oe ‘ 3 cite 3 ™ Fo pee ai 4 or Ae é Ll ae aie: aa ry New’ OL dO a eer 2 et ay? ce # pore on ? fo eA aw
+: aa i Maw ve =“ ae : aol ht A a on ro ff ¢ f Pa : ee Geo we ® Lie Fe baal “rare ar"" x: ” “roma go Swe eat Fad ay 7
+. a . . : — . . . A an Fi = * . rod . ve he, 4
+a
+7",0,952,952,members THE two rural African Nationalist,True,2026-04-10T16:59:51.537360,0.0,0.0,6.7,0.0,6.7,"دل
+"". ویس = ای وی او پی ای! اے، پی ری ... را. عقلمند: اے کوس ریا پیر ہے"" . دوسرا : as : Doh ate et : i
+کی ae a an AoY on. wy os "" ¢ Nata ol _ ee , te . fF 4 en . { i . he i - Ff te . .
+ao ae 2 ¥ j oe , آپ وہ ہیں جو - tb Fi : tat ' _ fo ak o~ lia awe oe ne = a . : مثال کے طور پر ow i at oa < ; * § ایک اشتہار : ¥ et : : . آپ a y ہاں
+' کیا ہم ry 7 F Ca یعنی t q — abe، oka Fs aed é 7 if ۔ ""4 a ag an on aut. 4 ' ft: at . a ' 2 : . Pi ee. ay OW «J hier : ey PY = « ” rd # ect a at . میں
+. لائن afl سے S| eh ep ig ot x کا باپ | 4 ' - بال = ' f: نہیں ؛ اور ""4 oy fh 24 اور Gf vl t کہاں؛ f°؟ کیا کریں: ""کھانسی۔ *"" اور
+~ ae att £ hy 3 CL aaahte SD food £ Coat Oe 4 - a Ae Lee of ' 3 cite 3 TM Fo pee ai 4 or New' OL dO a eer 2 et ay? کس # چھید پر ای اے ڈبلیو کے تحت
+: aa i Maw ve = “ ae : aol ht A on roff ¢ f Pa : ee Geo we ® Lie Fe baal “ rare ar” x: ” “ rome to Swe eat Fad ay 7
+. ایک . :- . . ہمارا بیٹا ہے = *۔ چھڑی ve وہ، 4
+a
+7",True,True,,ur,2026-04-10T17:00:37.163245
+image (4).jpg,handwritten,6,teeresses have hem Craleol Nest ~bpur Seakwerk,"reyes “A, FF. aT aie -
+7 ee “ye* ap eh NR e og a ew ne a i ie _ a - -™, -
+= “Res: CRE: ""SS ter pot eet es At CIN, Lot ee tte ea ot ee eS Tl aly yp eiet tee tiie vi igies steno ae man. ! C. 4
+id 4 aN ye A th ee 0 oon eend. aot, 5 ate Daas ee a ee = J ae ue vg rte! oe “Tt ” eat ese neta le eo” fash Bee ten Ute S at"" oe meew ey ae . r- vou “tetra 24 oe Se a re a a ee oo rr es a ro
+a ot Vy . =. ae eS ai oe en tee oo Tg Te Ne me en Fa oe - a See cot : oo an ot Pag ew ys ~~ epee M2 Mee paw ete OD. F - : 2 ytge tee ; a eo as aie a ae _ oe
+EIEN? SCR: fe pe a A A wie Tae Tiga epee aE teehee SS. Le JO a ety te the Pet das Taco Wet! LEE ite ag pee Te eth On te gh epee REA clad et Va er
+a. 7 fe TS Te re Oh ee ae, . . a 4 wo. ae 2 Cte oe ‘S aa ance i a er eee Da Pas oe ce a? tome 1 : end can ope ete rk veg oa 4 PC ee CC 2 Te ae an an Jey a es fy Le . an. ste ty he. es mv eSypr eect oe eaten Ste . ‘pe ” ut ey “ ah . iid . 7 oP - ‘ow a ie ir oF * _
+CT eee ee nein een Fe wb eet wd oth mae ee eee et TE 8” nny , Char ee cee ae Vl I ee A LE OP ene a Pr ee ‘ JOR aD Cm se ON be ge Seat ates oe we Fae te ee Fey Hb ees ~ Te an oo ee eee oe ‘Hite fe. per eee near eae Be Pl 2S eT ag ee ce em pag eer er SO i OE Te fee ae ed Sim ew Sg te Pee ee aye ou ae pe Tet et ae A re eh me ae oe gt
+= Phe hereshie woe fe.ef- *. er ir ett * aed et tt eet 7. 2eé ne PE eal ot I he a bd 2 oe “ veto ee arn te ee} yt crite Ogee Me oo NT a ‘ . > e * eee erm se. ew Thee <= isa . : a . if fet a a tO Pe . 4 = ry” “+ tp pe imate SL Pe ta aa A ad a he Se too we my iny - am tet eR me ee ee Ne
+Toms eee Bete Nea Fe te eo tee too eo bee tnt be teeny, TY 2 er) «Bete we ee Se ee ears, Sener eet Der Sent ae A tas . a tae ""OO ea Ew ye Caeely - eng Meter 2 bt NF wee om em Me ae mye tai ‘es Paw g OF. ‘ 1 . . me Bm et a te any gp FOTO ""et tae B v6 tote, t. -=™ Y toe 8 . yy ew fw oa ah Got et ah ee ee) Poa 4 . .- vy 7 <e y fem eye :
+an) {) gto Wi ea te ey sae e ae a be tS Oe mee a | toe Pion ae ve ge act, 1. tte O98, . Fe en ae ny se et ee : neh ee oe ey = ote : + j . a? tj= Pr rn rn ow 2 a, ee eee 7 Woe ad er hes .- : -- Cee mag! setup Qube T+ Sahel. _ ot ° wae ye. hae eae vee! ”Y corm -.. yee et Ree rs re oer ww pot te ° oy |
+a pee i! Motes Fee he og 1 atagwed i rors pene) Patan a I -. Sar rresy wate Td ait! .% oN the rf OE Ba on acd atoll on ¢. . on ete 4, . ry Tyee Pa ale meet Geaperetin , wa yeary a ee sue ff. fe ee te isnt AVS el le Xf Cover aks LN tet ee mo «ds, wor ov doe fee sree Fd 2, . 4 oy . by a ie tts rg hat ty wre Jal este yet oes hte ee iqtee a Fits tebe ay TR, s! se oe
+ow oy Pa a «54 PS bee ters aay Ve 4, Rr 8 ee OT - age i tae: oe Sw ee age fot lag hte iota fere eB ea ee a Cea ae ee ire. aes 9.3% ian ed an oP ie eke see LS) | eal ee i i ree “~ OO a ee Tan Ste te tM ss la ue cs Tee le OTE Arar eeS OBO rep a nn ae tat nee ar ne ae Se & ok eh lt ee 2 pr eet
+Brak 24 moans) Rae CT aioe Kea Th yy ~ oe te bm) wig ee, tn Fy i on rr ate ? re tee eee Pe Bt ltyetm Al ary ee ieee Pee sod ‘é . ; . dow i ep MB Il ene wre tg? Pw font Bem gs ecw met . tw sd, t . a ee emmy yt 1 5 4 a A eT oe aren Toy oh a ’ atta Oem pee Tha lise a Liner bel are aS bd NN ee a ee ett ‘ i Me et soft re i a 2 LT fe ey
+ae. - iy. - aS Lieek [eet er, “ “ey Ptoms Uaty we le fees ane i: AR ad cress H a”, 5 sty i Seen, oor voweise at. etre | iy) yews sacghee ct st ete rn Sr ce ee,  * wee +? + we Sar) re hn : ttle ef ied var ca ce om Sa ae) . sme Pe oes , ' 5 a ; a T7) CRS Sed i ne 8, Ie by ate oh 4 wa cba Ne ers Petes a. . [iad re ar Ct) a ar ee a J ee ee fe
+26a ie et . we xs eee fake cot) ‘x5 ff -Lars I: Pu ane se oa o N "" te"", aa or - : “y) we Le at mere) ey oy eee ee at eee weet . arf te “ die ° my At: t uw. este ae on pape’, ery) Shee a0. 7 wy tne ts oye oo. Te VAS oe 4""- we bate i -a ee Neat ae ete ae . poets Nero a) tue lb me ae bet 4 , ww .. an we oe 8 ! ro a Le Ps Soe ee ~~ Qe ep bt iz eens Me lms ewe! we Oran f a at tog i : 4 re gw wae ree
+~ ote At, ¥ we an Rens Areas ab? int eee Ty a Fae - ? 6 yy Mere, Clee om . the uo? aA TANS ea kh. ie Wess GONE eS aye ao oe te ag 4 Peasy ea Rh 4. fa eet we aes a ep mr EFT 7 so SA cote hd rs oi teed a ERC y S* far tee a ee id ee & ey 18 Rae er be ae Te . a4 Te yp Tg oe hi Pree SAE ey cay oO Pa ett Cl eet eo ee ew FS Peay VOL | A no ee ee gn DPN Tie Mae te et LM me oy LC.
+#4 Loan we seett ee 2: Be Ve . ee,’ Bieta AL ay ag nn . se or: my wba, as NY “My fee tl ye te me 1! fo mee vet ° Saete AY ""¢ ol “mae, te oe ate! 4 eae pie ne fle 1 heey oe 5 NY ue 7, ey he gee oa t f ee x re toe tht Gane ae Ue . a a Y ae we et ‘. ore ae fy wh te Iya weg telat ee a ees Bee Fe we, a ote Dae ere Ns Me iam ‘ets 4 oe ee ite apes: Lm tes 470
+> Teter?) ee® , Sena erent iv Ly tye! cmt ttgh ORE Ar on Wet Ae a) oa AUT we ie Pir ci oA. oS} i a ee ee ost Nhu ‘ pee. Pr Fol | Weed 22 We me vas Lt NUNCSEE hE: ONES oc “Rane PLT Sa “7 oy as ‘ eo. eat ed el Slt ‘Cserrey Hee oe Gee OE ey SO° i rr ee Thx S) ar eeee 2 te }. ae wg ye . arr te ee Ce TF ny Ne Sar ety ae ete yh ee 2s Gee Bn ar Pe eee Le ee er es SSF AY
+ee oe 27 = 2 ooh Ney Dy. Sa nan i POS WN: ~ te Gt: abated 2s Ce a iT Zee PEN PEAS LGUs Sp PGS oe eta ti “or ree ee. meee 4 a TIGR er TOS ADT Pee A TR As wean Neat? GN) AA oon Se EE MY TRO Paes ny bw fhe ei Ott Vee Lea a VF wn an A Nn eee ean APU, Poteet eoeti a Cae SC CEES ~f ee fet eta ee late Ae aor cele
+""4 LCs 4% Fee TASS See Lay ne et gs Breer tine Sec ome ated A £0 al ‘, SAPS Cee Grae ey Tg ee a | Pot + gee Mie” ob Pr gceh SOT: Fas aN Se oa” ai? oe ce at Me Oa +) nae Ot MR PS ie DY sree +e ity eh et fae e ! “ weeds cee i ‘Settee: res Ma Geeta s ? AS Airy a, wt. ree a a ed i re ae 8 pe Ror? Ver ee) Lee os ee Rage 7 spouse ee hea ee et eg fet ait
+me ee tel PP gt eee eye Fe, [, ai «yt tp! | oe tem Pagel Se na fot 4 aoe ‘ ie {'- wWNB YY alge! mee ame i ten Dai re i} / 7 Yael ‘ . hy tm pe ae fap PAs: “A BSA we hah at LF Hee Sy adr) eg ae "" vl Wott Fee as eat eee io"" “. - 1 /,- 2 ian Bde di) . nae A . Cr fo i ok ee ee ae ee ° +e dt gee g- Pay fe eae) yt ae. tc ho te 7a ge te per siee®
+an : RET Ee ya Tey , : Saar te See ond oS gee! rr 8 ~ we, fs roa cmt oe t Dee: 1S orang _ Vo? slecethee. * SRD Ee © +* we l . a et ti Ft re een Nine sf. Ca pF ihe on Mit fet tf thet & -..: a , athe Pee ot “ah wal one tu & tee Stee te tet otal t xe | ot i Tae bee 0 ada re nn Lae er | 2 Vhs Gaeta pT pera WB. AN ye eh |, ; 2 Wow ed Cater aoe) aera
+ar ees Lee en ioe Se a. Doe ee ° + Cag egs ~- Toes «fame - ee} Ae, ee ie Sen See 32. fe oe wey . oft, Pr ae hb. ferry PIRart 5 Pay spect TE ee seb ie ON Tee. ree SoM i ng le Ae 7 rd . RE -9 Latest | PRES 7, ddim, © ruts oe Tew tee c aah. oe v5) Aen aK toot ey a ele! ee . et lh ASS at eee Re eae’ Pe s? ee SNewraeepabi gs SS Je eee
+oe TR ge ee ee + Rt ots! Ot ei ewe ge ON ee eet! Srey bite P ose Sa Te PARA SE eT ee pee the NS t pao AOns eA AY. . ‘ef eos” Meee le “by oe itd fe0 ra EULER Three Ame f the “AN a ee: ear t, of NERS ca ee or 37, “4 Dy nk ae ade Ch ey ie We ROL - See | a rays tw, Le Gets eR P ere ay ee after Ne mite tt Shae PERO SDS TLI PR, nea at eh WY ALES ‘. iy Shia if “4 OP Vy Le Par aye ws
+Lar renee Gr irae Sn eS Se te ea TP we ae et pte te: poy tet fn. Les co. Sanh anes oy Sa es (nr ae shee te Cree ai) runs (VE ee | CAPR AON, SFA Re (Lo Sele ee ADT TS fo “Pe oA AG) Soe Re te eat te Sg we pret NCP at as EDR | PE Sen oa PEE 9/70 Vad wank aoe? mye. vo: on pe thy eee ALS Ps Nh Ore oer eran t,o ier +g, = AL oetten Pie. Lae hry Op 125 at Ge Re ete te ae me
+s- me em te GSS TNs = ae Nes ie rs aaeee aa st pare else col Pade ning T) ire coeeie tae be Dh ’ Sian 2m) LN ae GASES <n pe bag ~ 9.4 May tes ae Grr eanee abe Cave (Cn 4H ( er Mr Be Re Mito eR a Sng et NP iy Te Latah Sigh ALAN TY 8 AA OF Coase AeeteLC Aes oh oN FU Boe, i ree “oes ce BUS D (iat) eee oN 'e = Vege. on
+sS rr as ne Tce 2 an te fhe ores a“ ai a 2b ee a BE Or a free te the ls Rev ate rere ey om than edt arn rF) we ke ‘oe Ete eS KOE Beet yam re Ye SGU Salo bst Sat Sian ws te 2 a! on. CAR: thes TAPER NRE Gare Tee . ade b) 24 aoe AN) rte be Ay aM, ape”. ALC. Acree fc.eZ- erly its wae SN ee ce ot a r iG oe a te of pare! -
+J a ee “ oe - oe ese Cage), 2 wm, wie oi he 1o7 ney Tae we 0 Bes eb ee ee eee ee “ te eo te aa .ar eh oda Te ee ees ; far 1 pe Se A Cees tart LU. Pe «ttle tel ; CTO ath ary! yoo: \rcsaz MONE Oe: ee te ge fee Pee! meet LAete (dae Cy) Adem an ve fey See ge ee BT res zs Me tS 5 ely A ween Y wet! 7 Ay Mt ake \ SUA AY ovbe ede
+-_ - - Fee aa ~F va. = ele we ot roe fe ft . Py ee pte ee De® rh te Pade tae weg PTS We <a) Al = 3dr yp fehs: . ae Ene h/t rere se i Beg a ™ Pets) pero ar } ae | eee - ey py \ wines 1) Patene ifs Wout temy ff AY wt LO Be fee Se +) Crh ht «Sh . ‘Tbe Pima SP Ey hee Ah Soe Oe ake ore DAE” oth Tigh SPs ery
+_ ed se Oe we yt me Fm , eee: wet RG t Ve gootyty tet ee ~: ih Ay NS Wrue we ee eae £ ee ae ete GUL te aT Sony were cae KP. oe mg OT weet a G ad , .¢ if F Bond &. la oe BF p's 4 etry ‘fh Veal - Mate aS Jal_ ge Ws: age og IN wt Et >... o iis te an a we me gf
+7 / a vo . wm Y % 2 ely een | 'e we. ‘ewe! Ta Tee we Tye tent tnt =! = i hia oi a Pine, Cid Ht ge te e! so CR. , —_ _ ™? eu Mae, ta Pe Ey ie eee toe A Cay, ie, Me tl oF \eiee es ew te hp” Soe By: rea. “ Sa ~! , fel i) fam A cg. 1 ee il. mY 7 Aa arr Gna mae Ye
+$f @p,  * & a ot a tee eas eee eee ee PF ole; hk tie 4 tt ge SET se at honereruat Oe Dyer ae tess Tee eee soe Gee pat Pay it Fee ek at Ot, one oa eit Ree ea at “im ome) i : na eo yet ulead tte eee BRT SN ary wee “, tae
+ae at! oe 7 Pe he ee de eli ee od ie Oe ee, Sg we te tlhe ra Ue Te a rates PONE: Pees as, = ¥. errr —_ WSs ed Lo . cay Ate i hana et ee De ee eee (ed Ars ve",46,9612,9566,Peeresses have been created. Most Labour sentiment,True,2026-04-10T17:00:02.004567,61.9,14.29,0.99,0.0,-60.91,"reyes “A, FF. aT aie - 7 is “ye* ap eh NR e og a ew ne a ie _ a - TM, - = “جواب: CRE: ! C. 4 id 4 aN A th ہے 0 گنا۔ aot, 5 at Das ee a ee = J ae vgt rte with the red it” دس کے ساتھ نہیں کھاتا ہے! at"" of water ey ae =. ae eS ai oe en tee oo Tg Te Ne me en Fa oe - a See cot : oo an ot Pag ew ys ~~ epee M2 Mee paw ete OD. F - : 2 ytgee tee ; ae _ eoe a ; کیا؟ SCR: جہاں بھی A A کو Tiga یا SS ملے۔ لی جے او اور آپ پالتو داس ٹیکو گیلے! LEE ite ag pee Te eth On te gh epee REA پہنے اور Va er a. 7 TS دیں آپ کہیں گے Oh yes yes, . اور 4 ae 2 دا پاس کا جواب کہاں ہے؟ او کیا ایک والیوم 1 : اینڈ کین اوپن ایٹ آر کے ویج او اے 4 پی سی ای سی سی 2 ٹی اے ای این جی اے ایس ایف آئی لی می۔ ste you he. کیا قبرص کا ایم وی Ste ‘pe ” ut ey “ ah کھا رہا ہے۔ عید 7 oP - ‘ow a یعنی ir oF * _ CT نمبر ہے۔ Fe 8"" nny , Char ee cee ae Vl I ee A LE OP ene a Pree ' JOR aD Cm se ON be ge سیٹ ates فادر آف دی فی Hb ees ~ Te an oo ee of the Hite fe. لیکن وہ Be Pl 2S کے صفحہ کے قریب تھا اور اس نے اسے SO i OE The fee of Simeon Sg of Pee ee ou the fee of Tet et the Are eh me oe gt = Phe hershie woe fe.ef-* کا صفحہ دیا۔ er ir ett * aed et tt eet 7. 2eé ne PE eal ot I he a bd 2 oe “ veto ee arn te ee} yt crite Ogee Me oo NT a ‘ . ایو یو کیلی - کیا میٹر 2 بی ٹی NF wee om em میں اور میری والدہ Paw g OF ہیں۔ ' 1۔ . me Bm et a te any gp FOTO ""et tae B v6 tote, t. -=TM Y toe 8 . yy ew fw oa ah Got et ah ee ee) Poa 4 . .- vy 7 <e y fem eye : an) {) gto Wi ea te ey sae a e t ae a e t ae , o t ae . Fe en ae یا se et ee : neh ee oe ey = ote : + j ہہ؟ tj= Pr rn rn ow 2 a, ee ee 7 افسوس اس پر۔- : -- Cee Mag! کیوب ٹی + ساحل سیٹ اپ۔ _ گھر ° ہم ہیں۔ ہوا کو پھاڑ دو! ”The corm -.. yes et Ree rs re oer ww pot te ° oy | میں پیشاب کرنا! Motes Fee he og 1 atagwed i rors pen) Patan a I -. یہ ایک دوڑ ہے جب Td ait! .% oN the rf OE Ba on acd atol on ¢. . اور 4، ry فادر نے گیپریٹین سے ملاقات کی، اور سال اس نے مقدمہ دائر کیا۔ اگر آپ AVS Xf Cover اور LN نہیں ہیں تو آپ mo «ds ہیں، جہاں آپ سیریز Fd 2, 4 oys کرتے ہیں۔ ایک یعنی tts rg hat ty wre Jal este yet oes hte ee iqtee a Fits tebe ay TR, s! PS bee 3 aay Ve 4, Rr 8 ee OT - age i tae: oe Sw ee age fot lag and iota fere eB ea i Cea a ee ire. اور 9.3% oP یعنی LS) | eal ee i i ree “~ OO a ee Tan Ste te tM ss la ue cs Tee le OTE Arar eeS OBO rep a nn ae tat nee ar ne ae Se & ok eh lt ee 2 pr eet Brak 24 moans) Rae CT aioe Kea Th y ate bteer ~ temree ?) ltyetm جب وہ سوڈ کو دیکھتا ہے ; dow i ep MB tg کہاں ہے؟ Pw فونٹ Bem gs ecw سے ملاقات ہوئی۔ tw sd, t a ee emmy yt 1 5 4 a A eT oe aren Toy oh a ' atta Oem pee Tha lise a Liner bel are aS bd NN ee a ee ett i me اور soft re i a 2 LT fe ey آنکھ۔ - جی ہاں. - لائیک نے کہا، ""ارے Ptoms Uaty، ہم بڑے ہونے جا رہے ہیں""، 5 sty میں نے دیکھا، تم ٹھیک کہتے ہو۔ کے درمیان | iy) yews bag ct st ete rn Sr what ee, * wee +? + we Sar) re hn : ttle ef ied var ca ce om Sa ae) . sme دنوں کے لیے , ' 5 a ; a T7) CRS Sed i ne 8، یعنی by ate oh 4 wa cba Ne ers Petes a. . [iad re on Ct) a is a J ee is fe 26a یعنی اور ہم xs ee fake cot) ‘x5 ff -Lars I: Pu ane se oa o N "" te"", aa or - : “y) we Le at mere) ey oy ee ee ee ee at ee weet. arf te “ die ° my At: t uw. یہ کاغذ پر ہے', ery) وہ ہے. ro a Le Ps Soe ee ~~ مصری Me lms ewe! ہم اوران ایف اے جی او جی او وا : 4 بادشاہ۔ ¥ کہاں رینز ایریاز اب ہیں؟ int eee Ty a Fae - ? 6 مئی، صاف آدمی۔ یو او aA TANS of kh. یعنی Wess ERC y S* پر گیا جہاں آپ ہیں اور ey 18 Rae er be ae Te a4 The Pree SAE ey cay oO Pa ett Cl eet eo ee ew FS Peay VOL | DPN ٹائی Mae te اور LM me oy LC۔ #4 قرض ہم دیکھتے ہیں 2 ہے: نمبر بنیں۔ جی ہاں، ’بیٹا اے ایل ag nn ہے۔ se or: my wba, as NY “My fee tl ye te me 1! fo mee vet ° Saete AY ""¢ol “mae, te oe ate! 4 گوشت کی روٹی کھاؤ، رب کے دل کی روٹی۔ پھر Bee Fe we کا رہنما، اور وہ Ns Meet 4 کے گھر گیا اور اسے کہا: ٹیٹر؟) ee® , سینا eren iv Ly tye! cmt ttgh ORE آن گیلے Ae a) oa AUT جہاں پیٹر ہے۔ oS} i a ہاں ہاں ost کوئی نہیں۔ Pr Fall | Weed 22 Lt NUNCSEE ONES oc ""Rane PLT Sa"" 7 oy as ' eo. اور Slt 'Cserrey Hee of Gee OE اور SO° i rr ee Thx S) ar eeee 2 te }۔ اور wg ہے. Ce TF یا Ne Sar ety 2s Eat Bn on Pe eat Le eat on e SSF AY 27 = 2 ooh Ney Dy. POS WN: ~ te Gt: abated 2s Ce a iT Zee PEN PEAS LGUs Sp PGS oe state ti “یا ree ee۔ مہینہ 4 ٹی آئی جی آر آن TOS ADT Pee A TR اور دودھ چھڑانا صاف؟ GN) AA oon اگر EE MY TRO کنٹری Ott Vee Lea میں واقع ہے اور VF wn an A Nn ee ean APU، Poteet eoeti a Cae SC CEES ~f ee fet eta ee Ae aor cele ""4 LCs 4% a Fee TASS See Breeded Lay ne et et et es possibus: شکریہ ادا کریں Fas aN اگر آپ مجھ پر "" ai? oe ce Oa +) MR PS یعنی DY سیریز سے +e ity eh et fae e ! "" Weeds cee i 'Settee: res گیتا کیا ہے؟ AS Airy a, wt. king a a ed i king ae 8 یا Ror؟ Ver ee) Lee os ee Rage 7 شریک حیات hea ee ہے اور اس کے پاس فون نہیں ہے PP gt is eye Fe, [, ai «yt tp! | اور ٹائم پیجل اگر کوئی تصویر ہے 4 aoe ' یعنی {'- wWNB YY alge! I love you ten Dai re i} / 7 Jael ‘ PAs نے کہا: ""BSA سوالات کا جواب نہیں دے سکے گا۔ - 1 /,- 2 ian Bde di) . was A Cr fo i ok ee ee ee ee ee ee ° +e dt eat g- Pay fe eae) yt ae. tc ho te an : Yes you see ® : ET : ET اور او ایس جی آر آر 8 ~ ہم، fs تھوڑا سا t Dee: 1S کون _ Vo؟ slecethee * SRD ہاں © +* جہاں l . a اور کیا Ft re one Nine sf ہے۔ Ca pF ihe on Mit fet tf thet & -...: a , athe Pee ot “ah wal one tu & tee Stee te tet otal t xe | ot i Tae bee 0 ada re nn Lae er | 2 وی ایچ ایس گیٹا پی ٹی فی ڈبلیو بی۔ AN ye eh |, ; 2 Wow ed Cater aoe) en aera ar ees ioe If a. Doe ee ° + Cag egs ~- Toes «fame - ee} جی ہاں، ہاں یعنی سین دیکھیں 32. fe oe wey oft, Pr. Ferry PIRart 5 Pay spect TE دستیاب ہے۔ SoMing اور Ae 7rd کا بادشاہ۔ RE -9 تازہ ترین | 7 دبائیں، دبائیں، © Tew کی جڑیں۔ oe v5) مجھے یقین نہیں ہے کہ کیا کرنا ہے! ہاں اور ASS Reeae' Pe s میں؟ ہاں SNewraeepabi gs SS ہاں ہاں oe TR ہاں ہاں + Rt ots! گھر آن ہے! Srey bit P ose Sa Te PARA SE eT ee pee the NS t paws AOns eA AY۔ . EULER Three Ame f the “AN a ee: ear t, of NERS ca ee or 37, “4 Dy nk ae ade Ch ey یعنی We ROL - See | a rays tw، آپ اسے حاصل کریں گے I mite tt Shae PERO SDS TLI PR کے بعد، اس پر نہیں WY ALES‘‘۔ iy Shia if “4 OP Vy Le Par aye ws Lar renee Gr irae Sn eS اگر آپ EA TP ہم اس سے پہلے ایٹ پی ٹی ٹی: پو ٹی ٹی ایف این۔ EDR | PE Sen oa PEE 9/70 Vad wank aoe؟ میری Ps Nh وہ کہاں تھے t,o where +g, = AL oetten Pie۔ Lae hry Op 125 at Ge Re ete ایک ہی وقت میں GSS TNs = the Nes iers aaee to this pare else with Pade ning T) ire coeeie tae be Dh ' Sian 2m) LN to the GASES <n pe bag ~ 9.4 Mr Be Re Mito eR a Sng et NP iy Te Latah Sigh ALAN TY 8 AA OF Coase AeeteLC Aes oh N FU Boe, the ree “oes ce BUS D (iat) دستیاب نہیں ہے۔ ores a“ ai a 2b ee a BE or a free te the ls Rev ate rere ey om than edt we eete’rE'rne’ Ye SGU Salo bst Sat Sian ws te 2 a! پر اے ایل سی۔ Acree fc.eZ-erly its wae SN ee ce ot a r iG oe a te of pare! - J a ee “ oe - oe ese Cage) 2 wm, wie oi he 1o7 ney Tae we 0 Bes e e ee ee ee “ te eo te aa .ar eh oda Te ee ees ; اگر A Cees لیٹ LU میں 1 pe بنائیں۔ کے لیے CTO دوبارہ! میں: \rcsaz منی آپ: ہاں آپ ٹھیک کہتے ہیں پیشاب! Laete سے ملو (دو سائی) آدم اور ایلی A ween Y گیلے! 7 گھر میں کوئی گھر نہیں ہے -_ - - فیس ~F va ہے۔ = کہ ot roe fe ft کا پی ٹی ای ڈی® آر ایچ ٹو پیڈ پی ٹی ایس ہے ہم <a) Al = 3dr yp fehs: ae He h/t rere se i Bag a TM Pets) but ar } ae | eee - ey py \ wines 1) Patene ifs Wout temy ff AY wt LO Be fee Se +) Crh ht «Sh . 'Tbe Pima SP Ey Hee Ah Soe Oe Oe ake DAE' oth Tigh SPs ery _ ed se Oe we yt me Fm , eee: wet RG t Ve gootyty tet ee ~: ih Ay NS Wrue we ee eae £ ee aee ete GULTe waste. oe mg OT weet a G ad , .¢ if F Bond & . la oe BF p's 4 etry ‘fh Veal - Mate aS Jal_ge Ws: age og IN wt Et >... o iis te an a we me gf 7 / a vo . wm Y % 2 ely een | 'ایو. 'ایو! آپ اور آپ خیمہ tnt =! = i hia oi to Pine, Cid Ht you e! CR ہے , —_ _ TM؟ Soe By: rea, ""Sa~! , fall i) fam A cg. 1 is the. mY 7 اور اس نے Ye$f @p سے کہا، * اور اس نے اسے ایک PF ole دیا؛ hk tie 4tt ge SET se at honereruat Oe Dyer's tess Tee eee soe Gee pat at the O'te's Fee :) na eo ابھی تک ulead tte eee BRT SN ary wee "", tae ae at! oe 7 ہاں، ہاں، ہم سب PONE سے محبت کرتے ہیں: Pees as, = ¥. errr —_ WSs in Lo. cay دل ہاتھ میں ہے (Ars ve. میں۔",True,True,,ur,2026-04-10T17:00:37.163245
+image (5).jpg,handwritten,6,,"PPAR te ee pew we ME a te gt om eg tL et We ree CIPO TET as bette eh em 9K opp toto Tipe mm eo kk ee Cr as Pe le SP SR, eee © 0 a ry eS is i rr a 2 ate met Mey wy meh th! en eK pigetgT - lft tw ee ty Rm . . wid tia, - — : Ho - wt : a de oa es,
+Mosh slit Segre tet Os Ws Sty: . rae Vis me ee TT SORE oh ie Pal ty OTS LLE Ne oteth eee pete ey oe Die ee oe, eS Leen SO en ae nS 72 } Ona NERC : lets Ws ie to phe yee Loe Tey serete gee ae ep ae ee . Ce eB ee to we ot al, ote Fe OM eet gay! ”
+em een OL of 0 ve. . . ye te Bayt, TEAL ERK ENC Sod ee yea ld ofr be! Rane eos ’ an eed aera LN . pea Ge i { . Ap NG Power wat). an en r wey . omar 3 ee RT. ait | Lew! ; an 1 : mg et Barts by) Ly . ‘ ‘ . nn Sole ek ce . st yee fe
++7 r te 7D we ar See. RRL Ibe . . sacl ae [Dom a. sam - rr olen han Sy ¥ FY q St OC war 8 ad cr) 1 ne Sree ot ee pee gma tes be at ee een + sy, be wt TN Sa ees oe ty dy YP ae nee, IS Ce ahaa ea Y A © OC ~~, ee tw ety ONS ee Sera . _ cy PO ee oe cota e Le a hae Ly Ye ne ot ne ogi eo.
+
+eetee ee wg Re Cm C Ss | TY-08 fy) Cr ee ee IM as ee EE SAYS fel St terete oe ae fey eet eye UT ar gy ben LIT > Rema FA) ARO ORD E e l 4 he : wri Lele tN ete Meee on anne at DONUT LAR Pores oe ce 7 OPTS te omg ner TON Ppt OT eae ae
+
+Ji eC SR od) CCR OE RE MeaP AR. soho Fey as eet nee eat a a Taipan reg ah Be RE I ae eS AM ar I Me os AER ES TERM OOS st SA oy SS eee Seen UE Be ESA Se
+a"" Nd RP STOLE NotCuy Lie a a es [RL UNE AF, Meher ‘d; q 3 she TN 9 PO ee y r ! ery] iff walk aay hide) é AE ESA ONT VEY rise tae Row 7 @ol es if ee we NO gee a Le CTP aS ra Pepe : RR, A SO te 4h ate ond 10 yA ORE YY See ar hes — soe A Soest Let "" 15 ane y at tg =, DO Pe Oe REG: setae
+cain Mit ly Saree WN) PATS Wa Ba | Os BONA Waa eee NEE cepa OLS Seek Tesh Te A ANT) We } Pree SOLAS fe SVST SEY Ve ets ot 22 ea ret , aT” dar iet ROR 1 Oe / Oe ogo! {ra7% ripe sige cect ota SEs be Voy ne wy ee ge Of eee oe SS (SRO . Ses oh Ae A Rehm et
+tad fh 1 iM we a tes e, gt wv £: a -wweN Hea OKA wy BS )SSIRS 7? Renn BOLE GS OF. PACS PESTA) Ren y GREE Te Ree < oll Oa est, ay bg CEE ee de et ea ite | Oe APL Seed fy Bw si Meer a ral 4 ok} ey LY ee ee pe ey UP irs ee ie: 5A ae aay ) BAT meen as he oe ep See FF oN “at aI AL Biscay (Ses tbe, Wien. oe 2
+tee ep | 3 Aaa eA ee Cree aa AT See Se) ere A Oey af Myo ete Tal fee ey Ne. FANN mete Ae, \ise NO PL AE ARS DP a ae Sue SS ea ee CG SE RG SS a aherey xa he Ltd MYER ee nS af seyret, WLS ep FS Se CA] ERS AREY Dah 2) fe tO EY Ea PDT ks AY Mee ne in| AEA Reng Econ | ELON, Poet
+‘ on et ee tty a fee . AANA? * ora, wy a, -e ew Uf pt ve a oe ely } ’ upe ~ 1 4; 2 wget ” iD de eee 6 a di rating naa beaded Gl * Lh; ’. AS - : ag * On ph N fe? . :. a ey carl ‘ a he s “a ; mit “a ey al Add § (penne aaa ot oy ey OF 2a! Ite Slt oan 3 ui aS ae Py : eee bog :
+
+ue, eae = 8 eee ASS my in ME NE A aD i Ee oe UN ote ES a eg Fite Ss Me SET Woe SL ORAL Wohane Rena are Ce . ‘ in at ey bee at Gh etal fons leat le (pas Beet tape oA 6 Ae af SY Py) cP SI IAL! Pas? eR map mae IP ee there peces | wee PEt eS eae AY EORTC EV ANOS WO ee)
+
+SP STE, Re eT RNG LORRY BAM Raley aac RNC SRE SPER BGS Lo Nec cane A Sea eh aor SOT ROCA RENO « YRMEROO Ch ARS in tr OCHS Die SRE OER RNS Gs rel (Roe CTs EL A NOE TL ORE en Cio e TAT UA A MRR ASS on | Wr LLICS oh SOM LOE Roan S AI ee Oe AOE MIN UO aN Oh LOTT
+
+ee ene 2 LAN gle hye ies Sate Ss ee Meg See reed! we ema ot “at 4 | an pm rt : Sa rae © pe home atdeubs waphe ev yA. wea fog tL ~4y ° eee at) { aE SE Aree Cale ate of ete? os a “d. eee | Pee (37 Ar > AS oy il fa 25 Ot, oad Wan CAM al, a, pt”, To > gr ce Sink ed eel Gy tells ee) vt WER “ape. gf em NOLO
+
+<PPEnQeste: Soe UT a hPa Ye ak (erat Gey WEA SOT AE Pd seal Tt MR ree PEON ery ath Pera Tg PN mee (ese atte eee g Meat ae atin pea EMP ET | Le Ca hot 2s 5 a irle a e 13 PU eS IN ee ce se oo TERT AG BLT ah Bea alee eee ae Rate te ae Wwe ao od EMT ton ee LAG ee se Str ee hee Aft ee lidfs
+
++ Ee A's oak 5 Or i asf! Eis eee Sen ¥en IEE ah tag meer tae Bhp pas ee hee NS lp ete geste. Digs ete Dg ee ge ta See reve a” gt er eee BE St tage 8 a Ady yi aoe Se ae ASME ae A PN a iad (ee SLR tin wad BANS: Ne MONT NS eT atten nr BT a yt Te eZ Pw eNE is
+
+eM woes, a ee EELS gpa ee oy SB eee ora Shee tes pepe _ AGE Ltt Pal eA SNe SCN oct Dok At ay / ike ae MA GEF yen Rint to¥) elie 7: oye Seis reo. Vy 2 OPIASS aN Ss ae Nears er eee wiht Py av yaes tg: “2: ae tes rare Ot ee Cat! aN neg ee canine) Nee
+ep toe a bo tee Sapte pas eas or dala Me Oe See fale f * nes ar eh lod mt’ om a Te se oe er RI py tee ee Oe PF ee mre ey chee ete ey at te fe GR ee et og eT rary 0 IS a hs ae ME a 29s tA Cee fet sete Tet A oe topes tee Week Pa Eo ER ee Ce ed fd vcs! as ft
+
+cate ha gy ns - ‘eS Ntr ’ : pala Meee. eels, fe Te le on fl Bi an Soa oO ee Tel Ol tem ey el aed Omg Oe ee SSM oe Sa ee mtg tee ee La A ty ae hoe i Cea ee Or oan tm eee AP Ff ot ee Step -s wD om be pon ae we Mel Fler? owe Bias 8 Pat eomsve. foe ie a7 B “. Pe 975k ~s wae
+ee eA er OT een an? Vane tere Mette ge ral ten ee ate soe tie vel T aed Dan oe Ot Uh alane or Ae Se ae Pree gle RD ae a Ok Set a ine ite tered ce ge egg oS wf VP ERG C IS ee ag TES ed ee Nee es See we CLP! Sneek SS ee ese Der ee a ARE ate",0,5173,5173,"in Northern Rhodesia, but the Colonial Secretary,",True,2026-04-10T17:00:07.439960,0.0,0.0,1.7,14.29,1.7,"PPAR CIPO TET اور 9K opp toto Tipe mm eo kkr بطور Pe le SP SR کے لیے دستیاب نہیں ہے، © 0 a ry eS i r r a 2 ate met Mey wy meh th! اور eK pigetgT - lft tw ee ty Rm . wid tia, - - : Ho - wt : a de oa es, Mosh slit Segre tet Os Ws Sty: . } Ona NERC: Ws یعنی to phe yee Loe Tey serete gee ae ep ae ee Ce eB ہمارے گھر ہے، لیکن Fe OM ہم جنس پرست ہے! ""em een OL. rro olen han Sy ¥ FY q St OC war 8 ad cr) 1 نمبر Sree ot ee tests be at een +sy, be wt TN Sa ees oe ty dy YP ae nee, IS اور سارہ کے بیٹے; _سی پی او کا شہر ہے اس کے لی یہ شہر نہیں تھا۔  eetee ee wg Re Cm C Ss | TY-08 fy) IM بنائیں اور سینٹ ٹیریٹری پر SAYS بنائیں اور UT argy ben LIT > Rema FA پر نظر بنائیں) ARO ORD E e l 4 he : wri Lele tN ete Meee on anne at DONUT LAR Pores oe ce 7 OPTS te omg ner TON Ppt OT eae ae Ji eC SR od) CCR OE RE MeaP AR۔ soho Fey اور میں Taipan کھانے جا رہے ہیں۔ eS AM ar I Me os AER یہ اصطلاح ہے OOS ST SA oy SS eee Seen UE Be ESA If a"" Nd RP STOLE NotCuy Lie a a es [آر ایل یو این ای اے ایف، مہر‘ ڈی؛ q 3 TN 9 PO ہے r! ery] iff walk aay hide) é AE ESA ONT VEY TAe Row 7 @ol es if ee we NO gee a Le CTP aS ra Pepe : RR, A SO te 4h ate ond 10 yA ORE YY See ar hes — soe A Soest Let "" 15 ane D resein = 15 ane D resein pe) PATS یا نہیں | اگر آپ } پری SOLAS fe SVST SEY نیٹ ورک کے 22 نمبر پر، آپ ROR 1 Oe / Oe ogo دیں گے! {ra7% ripe sige cect ota SEs be Voy ne wy ee ge Of eee oe SS (SRO . Ses oh Ae A Rehm et tad f 1 iM we a tes e, gt wv £: a -wweN Hea OKA wy BS )SSIRS 7? اس سال کا جی ایس آف بال۔ پی اے سی ایس پیسٹا) دی گری دی کنگ < تمام او اے ہے، اور سی ای ای بادشاہ کا ہے۔ APL Seed fy Bw si Meer A ral 4 OK} ey LY ee pe ey UP IRs ee یعنی: 5A ae aay ) BAT meen as he oe ep FF on Biscay میں دیکھیں (ستمبر، Wien. a a a a a e Sue SS ea ee CG SE RG SS a aherey xa he Ltd MYER اور nS af seyret, WLS ep FS Se CA] ERS AREY Dah 2) fe to Ea PDT ks AY Mee ne in | AEA کلر ایکن | ایلون، شاعر آن اور فیس۔ این این اے؟ * اب، کہاں، -e ew Uf pt ve a oe ely }' دریا ~ 1 4; 2 wget ” iD of eee 6 a the beaded ریٹنگ Gl*Lh; ' AS - : ag * ph N fe پر؟ . :۔ § شامل کریں (penne aaa ot oy OF 2a! ite Slt oan 3 ui aS ae Py : eee bog : ue, eae = 8 eee ASS my in ME NE AAD i Ee oe oe UN ote S ES Me SL a مثال کے طور پر Fite and Ce' in ey bee at ey bee at the پس منظر پر جائیں؟ IP یہاں peces | SP STE, Re eT RNG LORRY BAM Raley aac RNC SRE SPER BGS The NEC Cane A Sea eh Gold Under the Rhinestone ROCK « YRMEROO CH ARS in tr OCHS Die SRE OER RNS Gs rel LOTT is her 2 LAN gle hye ies Sate Ss Meg See reed ہے! ہم شام 4 بجے ہیں | شام کے وقت دھند tL ~4y ° eee at) { aE SE Cale ate of ete؟ os a ""d. ہاں | پیشاب (37 Ar > AS oy il fa 25 Ot, oad Wan CAM al, a, pt”, To > gr ce سنک اور eel Gy بتاتا ہے ee) vt WER “بندر۔ gf em NOLO <PPEn سوال: Soe UT a hPa Ye ak (erat Gey WEA SOT AE Pd seal Tt MR king PEON ery ath Pera Tg PN mee) گوشت ایک اور صحیح مٹر EMP ET | Le Ca hot 2s 5 a irle a e 13 PU se oo ce IN BLT ah Bea Wwe اور EMT کا LAG اور Str کا ریٹ ہے lidfs کے بعد + ہاں A's oak 5 or i asf! Eis Sen ¥en IEE ہے اور جب وہ NS lp ete اشارہ دیکھتا ہے تو مزید Bhp کو ٹیگ کرتا ہے۔ Digs and Dg ee ge ta See reve a” gt BE اسٹیج 8 Ady yi aoe ASME A PN a iad (BANS میں SLR: Ne MONT NS eT atten nr BT a yt te eZ Pw eNE M woes ہے، اور EELS gpa ee oy SB ee ora peet_peet_do ike Rint کا MA GEF ہے۔ ٹو ¥) ایلی 7: اوئے سکس ریو۔ Py av yaes tg کے ساتھ Vy 2 OPIASS aN Ss ae Nears with Py av yaes tg: “2: بلی کے نایاب ہیں! فٹ کیٹ کے پاس کچھ نہیں ہے - 'eS Ntr' : بیلچہ Meee۔ eels, faith Tele on fl Bi an Soa oO ee Tel Ol Omg Sa کا SSM کہاں ہے La Aty کا mtg ہے Cea of Or oan is the AP Ff ot of the Step -s wD of the pon you Mel Fler؟ owe Bias 8 حصہ eomsve. foe water a7 B“۔ کیا OT پر 975k ~s ویئر eA کرتا ہے؟ VP ERG CIS اور CLP! Sneek SS نہیں ڈیر ایک ARE کھایا ہے.",True,True,,ur,2026-04-10T17:00:37.163245
+image (6).jpg,handwritten,6,lucky lo haye descended From Soh economic oltludes .,"a ae Foe vee te ete A>; - oo 5 . od Use u Pp aren re ara, on ‘\. : af _.
+* *) eo . we . 7 . ‘ GH ogee . a ' i ae RLaN as - ” a Wn 4. : _ . . at : a, : a : een AS Fo tay eee tt we ji . TO tee BP Bee NS. . a a vj coke ea ot Pe Ba a Ue, Sr eet: ry Sete! le wth rayon 7 a ‘ : - - aomae te cies tet : oo we oo. Pe tre prLas my Ta wy : LPs Seas ai Pee ESN KY. ‘ ee
+Poet ei mG - 7 ey (2): ~ - 4 . iS Gy. . o “EEO Ee, - sole AE 74 fy. ee L' pan se hee hn ara’ ot hel pit.. weeny CacOl see ar 1 / ne cece ah ~* : fo oe . Pe Vice : oat (Tae 7 Ra AT Tat eo. wh ge ere fe Lae, “ecit ere TPES ro Se Fatale: wen flecy oa oo By ioe PCO IE aie an er sey es a |
+Heo Eo EE ae Pisaot SSE Sa ca Raa ; sles “Ge ay SRULEN Aik Han ame MOP a PNG eg as oe ae iin x fp nn Est pith OP gas oi Aig en BR es Se RG eee Ree on ATO pes ether 1. Say St Deano ied Rs ey iy Beas ""AE ONES rN See a
+ae SCS, Rae TA oes | UR aa HEL % : a se Shut oR. eta” aM ified se oS Sea, RO aes CH crs Eg"" Png ‘$f or ye ss oy crt. aan) ee OMe asl acy yeh cu ea DS eh Fete BE aie a ct ; PRN Of ttl, Sh ae ee ee, py ape wale iw Soe futile y 25) beer ike, are. GA AL fl ere po “2, ee ah val AiR aks ye eo, Aye
+ey 1X4 DAN ia Ste miPst)! ae SUS Ua. Sp aces | Ore es Raa y yO teen 2 Gd eo te ye PRiAaH att] bas ee LES COLES Ptr ’, Rees Ory LY AY ad reais A aes ie AS ct mt P eoyy See ay te Yor: gt efiey! Ne pantie we cat wets gregtget. aly Bae dp, Cote tallt <P eeny oN yee ee By She “€:t°,! ees xs LViSeTF el Oapaaa Ee >) eC oa) EE OS es EN Ao + Sy"" We pee N IOs ‘ a ee EN ne Sty ty an
+A he PANS Aas Dilys (ee? 7 Nee eg tty at te aes be tht nye Trt Z SPiae olf Moeift 5 reer 1 ee TA As pedeyty. Tadieo Seat tl att Myke ref ogy ve Bed p Woke Se. wie fy ee, a Re —_ Shy ah eo ty Pas iat ae Here. lc CON Ip a ates oh “Pity. Sr 1: CLEP Ig RESET Vo 7's gah fyi. PAS Rh Sa e) ALi One Wk) a are > fa Sy =f 2h} We age eee lS py a ae. ny fe toe 0 ate
+ane EE Canta a Sg | ies: , . ee hyde ON ae, 5 4 ce Ca ate F met Ss To fete oe 1 Bea OE Lae ates of KY Hey? Sie] RE ed PPR eee et ere A Nr Ars Si errs >% Pe ay : i RE ORR fast AP Ae MAS Shy Fd AC an Soe, Vite ae eee wa. 3 opens Si ybiit. enh 6 Ae tal ah Ba RTS, ny er SG aT 2 i> chee Vo
+Ve ay RAS aE | BRS er j a Yes at 4 oT 4 gok vt age + eieidd snl Sat roan VWyteete ve4 oe eis are a 2b rm) meth Were bs DPD, 6 Res ah Ruety See cht fae al : Vt ” Pate . oN. aca SS 7 Beet: wae yr4 yea eg sre eA “ete Sy er ae / aE weap secre oon OE I tial Se ibd rear ny ee Bie tee SMS: eS Ny
+Meee gd tase vA aut: “ay on ff: . ait iet te, pric ae A ~ at wv Meas 2 aan mo el oe! ft Vion A ie . vite te! ees meee! oe OP ey ‘Al, vy ~) a meet: vis wat ft We toyed aie Shyer Nd 3025 t. : as at! rr ee pee: soe: ole  teadeN het ee ae ae to REO, an Fh poe et, 2 Nes. “ . “mak Ape ma tree: oe 5 “Vatee 2b RS San: Se +"" etree eed Lae “ee Lo. hed Serre 9S 5 T
+2 ae we mal eee ae , eS a a ara 8 ; PAE eee Ane Gyultsy Avent 2 Mate ween ee re tas ee et som eet Sor a Te Beep ete Ne 2 ee ete a eg Sg ee yb Pr ee tetas aot
+
+=? ete. CO EO Soe . ee ry a 2 , baat Ae is coe tette : ee ee ware, we fee : - ="" wm wens aah ‘| co . - . oC nt eg ge fee pea 7 ™ '
+ied ee a } 7 ve ete : t. : . oy eae - N&e : ; en et or ‘ me Seen ee ne | ny n | : } eF ; . : : :
+
+_ ‘4 7 , ‘ ead Je :",52,3225,3173,lucky to have descended from such economic altitudes.,True,2026-04-10T17:00:10.544495,86.67,50.0,2.63,12.5,-84.04,"اور ae دشمن آپ کا A> دیکھیں۔ - 5 od Use u Pp '\' پر نہیں ہیں۔ : منہ _.
+* *) . کہاں 7 ' GH ogee a ' i ae RLaN as - ” a Wn 4. : _ . . at : a , : a : een AS Fo tay ee tt we ji . TO te BP Bee NS۔ آپ تین چیزیں کر سکتے ہیں: LPs ESN KY کے ساتھ کھڑے ہوں۔ ‘ ہاں
+شاعر ei mG - 7 ey (2): ~ - 4 . iS Gy . o ""EEO ہاں، - واحد AE 74 fy. ee روٹی گڑھے میں نہیں ہے.. weeny CacOl see ar 1 / ne cece ah ~* : fo oe. oa oo PCO IE ساتویں پر ہے |
+یہ ہے Pisaot SSE ; sles “Ge ay SRULEN Aik Han ame MOP a PNG eg oe ae iin x fp nn Est pith OP gas oi Aig en BR es Se RG eee Ree on ATO pes ether 1. The St Deano ied Rs ey iy Beas ""AE ONES rN دیکھیں
+اور SCS، Rae TA oes | UR سے HEL %: a یا شٹ یاR۔ eta” aM ified se oS Sea, RO aes CH crs مثال کے طور پر ""Png ‘$f یا ye ss oy crt۔ aan) OMe ہے اور acy یہ DS ہے Fete BE ایک ct ہے ; PRN Of ttl, Sh ae ee ee, py ape wale iw Soe futile y 25) beer ike, are. GA AL fl ere po “2, ee ah val AiR aks ye eo, Aye
+ey 1X4 اور he Ste miPst)! اور SUS ٹو۔ ایس پی ایسز | Ore es Raa y yO teen 2 اور اُس نے اُن سے کہا، ہمیں جانے دو۔ اور پینٹی جہاں بلی گیلے ہو جاتی ہے۔ aly Bae dp, Cote tallt < ملک کی قدر EN Ao + Sy ہے""
+A he PANS Aas Dilys (ee? 7 nee ty ty at te aes be tht nye Trt Z SPiae olf Moeift 5 reer 1 ee TA As pedeyty. oh “Pity.Sr 1: CLEP Ig RESET Vo 7's gah fyi.PAS Af W Safy = S.A. 2h} ہماری عمر eee lS py a ae.ny fe toe ہے۔ 0 کھایا
+ane EE Sg to Sg | یعنی:، ee hyde ON ae، 5 4 ce Ca ate F میٹ Ss سے 1 Bea OE Lae ates of KY Hey؟ Sie] RE ed PPR eee et ere A Nr Ars Si errs >% Pe ay : i RE ORR fast AP Ae MAS Shy Fd AC an Soe, Vite ae ee wa. 3 کھولتا ہے Si ybiit۔ enh 6 کوئی RTS نہیں ہے، یا SG aT 2 i> وہ Vo پر ہے۔
+RAS aE ہیں | BRS er j a ہاں 4 oT 4 gok vt age + eieidd snl Sat roan VWyteete ve4 oe eis a 2b rm) meth Were bs DPD, 6 Res ah Ruety See cht fae al : Vt ” Pate .oN. aca SS e S e e e ese a es es a secreto tial Se ibd rear ny ee Bie tee SMS: eS Ny
+ویون اے یعنی . vite te! es meee! oe OP ey ‘Al, vy ~) a meet: vis wat ft We toyed aie Shayer ree : 3025 as at! pee: soe: خُداوند اُس کے پاس آیا اور کہا، 2 Nes۔ "" ""mak Ape تین نہیں: oe 5 ""Vatee 2b RS سوال: اگر +"" آپ اور Lae کے درمیان ""yes Lo. hed Greenhouse 9S 5 T
+2 اور تم دیکھو گے اور دیکھو گے 8 ; PAE eee Ane Gyultsy Avent 2 Mate ween ee and som eet Sor a Te Beep ete Ne 2 ee ete a eg Sg ee yb Pr ee tetas aot
+
+=؟ شام Soe ee ry a 2 کے ساتھ، بات یہ ہے کوئی ٹیٹی : ای ای ویئر، ہم فیس :-=""
+ied ee a } 7 اور ete : t. : oy eae - نہیں : ; et یا 'me Seen ee اور | میں n | : } eF ; . :::
+
+_ ' 4 7 , ' ead Je :",True,True,,ur,2026-04-10T17:00:37.163245
+image (7).jpg,handwritten,6,aunck {bor RU-; charlet. [Cw Jeeta kh Lad,"Ase ca . Aehye ~ ” . ey, ays . 7 . en) ey
+
+Le . . site =o mo Way we, Ah of ° ity oa ae .. my ioe ‘ sy Hor: et sn
+Be ) | , ee ) y ‘ Ast +. i8 3 oe : i jane f ( SBS : eet y, nN ‘os ay AT ree - ib a ee me te.
+. wo . wee . Tahoe re . ~ ws ‘ Want & \ds52er se <. Yan } ve af’ *o4t Q oom gee tate, . tf le Oe a. . % aie - ey tet J Weene | ny ort Lait
+
+. me . = £00 6 1 fis ale . ae FB eS os Zs = DAP se ee We Woop Be ry any ye: °3 Ce i oe . 2 AB LAY: On eS vP erate Oy Mee tee Ms oh og i eee £0F: ee
+
+, . oy ne ve fi . . aon frie “eee “.T4 ~The aa 733 an © aed Se wise Tete Rie Ts if - ve py t)- hd *. ca (7 i oS PAS Sask tea St pe tdae a f fr i Boe « ail fre 4, Od. eo ORT pe
+. . Sty, ae ease hf see Bay f e: . ie Soret a ea, . at cS £ ta ges RN py Or “lag ‘ OF 6s On hive Le act eee AD At tet Py MES wey fd . ae ee | an ‘i Bers - jee. OPT ERO
+ft fates Le: es Ore : Rare le out. oie Z:- Poe | RO SRR ky... week, ay Sn Mp ey Ae Ec laSeeee ME mee! fs 7 fy at ieee wate SUPPORT 2 hid O Ryigde! VEST LEM Ee ee NSA ST fora Re is poe ee Feira ise —_
+Poets. isis He pik ue es oe ! we ano hk Cerri | a oo =} ice ¥. ‘ ote ty 1: vitae, Ogi a PULA y iy eet p. ies wy (Pacem eh oe. y s ey . Wendics, PATS Mee eT et ere Tee ap Net EAS hat PR SC Nee — : ae ooo .
+Bae Sa NES it eR Nea Ap EEO SS Neg Ee oF PRE DE MIE REY Gr rer: pe net.
+ie oN cad er . eh yes oie Bie ee GAT AB Magar ach ay eek ree 273 oh Lt . ae - s oot : . ole ; - , _-
+Sot EasaSe a 4 . 2 a Ss in le . Se Pn Coal) i i 44 vi val : ‘| ' to Dt . ay ‘ : ‘eo
+FS ie . ; a ‘5, fs my - -",41,1526,1485,and their filing clerks. The studio is lad,True,2026-04-10T17:00:12.113606,31.88,12.5,3.6,12.5,-28.28,"Aehye کا محور ~ ” ey, ays . 7 . en) ey
+
+. . site =o mo Way we, Ah of ° ity oa ae .. my ioe ‘ sy Hor: et sn
+ہو) | ، ہاں ) Ast + i8 3 oe : i jane f ( SBS : eet y, nN ‘os ay AT ree - iba ee me te.
+. wo پیشاب طاہو میں۔ ~ ws ' Want & \ds52er کہنا <۔ Yan } ve af’ *o4t Q oom get tate، . tf اور Oe a. . % air - ey there J Weene | یا تم دو
+
+. پہلے = £00 6 1 چائلڈ ایل۔ اور FB eS os Zs = DAP اگر یہ ہے: °3 Ce i oe ۔ 2 اے بی لی: مجھے یقین نہیں ہے کہ کیا کرنا ہے۔
+
+, اوئے اور وی فائی aon frie “eee “.T4 ~The aa 733 an © aed Se wise Tete Rie Ts if - ve py t)- hd *۔ ca (7 i oS PAS Sask tea St pe tdae a f fri i Boe « ail fre 4, Od. eo ORT pe
+. . Sty، اور دیکھنے میں آسان Bay f e: یعنی Soret was, at cS£ta ges RN py یا ""lag ‘ OF 6s On hive Le act eee AD at tet Py MES wey fd .ae ee | an ‘i Bers - jee. OPT ERO
+ft fates The: is Ore: Rare the out. رات Z:- Poe | RO SRR ky... آپ، میں Sn Mp ہوں اور میں نہیں ہوں! fs 7 fy at ieee wate SUPPORT 2 hid O Ryigde! VEST LEM ہاں اور NSA ST آؤٹ کنگ پو اور فیرا ہے —_
+شاعر۔ isis اس نے ue اور oe اٹھایا! ہم ایک HK Cerri | a oo =} برف ¥۔ 'ote ty 1: vitae, Ogi a PULA y iy eet p. وینڈکس، PATS مجھے یقین نہیں ہے کہ کیا کرنا ہے۔
+PRE DE MIE REY Gr rer: pe net.
+یعنی کیا ہو گا ہاں رات یہ گیٹ اے بی ماگر ہو گا لیکن بادشاہ ہو گا 273 oh Lt ae-s oot : . ole ; -، _-
+EasaSe کے تحت A 4 2 to Ss in the If Pn Coal) کی قیمت 44 ہے:' | 'یا Dt ay' : 'ہاں
+ایف ایس پانی ; a '5، fs اگر - -",True,True,,ur,2026-04-10T17:00:37.163245
+image (8).jpg,handwritten,6,,"La ae - ‘fas ~ a wie a ee ee . os.y ’ vate . ae . -
+—. ws } ‘a igf ony : we , . bol oe oe pice ete ae ' ne vas wath ce ele ONY oo Kd tet ee: eh CON A es, oe A.
+\ Sab! Be f Ne . pS A Sis Fl aarer AOE oane rag RL ren ul As Nee ee trys. . Rf ~ Weehre eek Dae ee TT ae aS
+a ae -} ae AN vee 1 Hel... Peete ware of ae wee . { Rect ee : AN, ts of~ 7, s hyp stes en WE ine tes oe ager os Ol aa + SA ety on. oe aN Sd ll ee See eee Ms : le oat Mp
+‘ oo ca Pa? . 4, 4 ole any Ly  e . . ao -k 3"" “gee _ ° 4 py we ate: cece i Wee gen * N: 4h PE ECLOD ee see 8 ae iy Fost HAR i ee 5 % 7 att : ; z
+2 oo \ an a re . . : d os ~ me i'l \’- wa ° sore . . ri rm \s- PAawef as ios . ee a”: lye oy “e e ‘htga* 1 ca . a te Se ¢ NN QS ge Ea 260. A vite -- 7 - : Meet ee et sg Tos, oe To . ae 5 | af ; .
+Ai ie : . ih Th ; : TF im + : = “ants : 0 v. ee brs rae Nasa . ah. ee yo . rape sme, oe my "" Mii hes nie Is Uh i tls oo: Ate Ly was 4 he oy oe a id SS Eee 3 : We | : 3
+z\. . toe 3 , mee “7 bog wa ~ ” aft oy : - eo Te... . my tee a ve wee aa ee . . oe > te i “. oi . ae “et Me - ‘ ~, w+ . , ec -, :. — a ee Te STs . ¢
+har ee ° “ot 7 ’ a rT n , . cots nT, ee"" ic palate ot ”, r ~~ rt ay welt oH % { fa rete Nef b van -°at Py Sze ee rad +4 Be a € oe ee wee an YC ‘Wah: 4 wes wool ‘ “ hes) oe SOS me ei ae > rl a eel a
+te? : 4m,” rn .f sofa et ae as ae 8 3 3 Pr ae a? ar eee 5 7! ol wee: 35 Sans oa ia ""a, RA Ae, aa hee IS Sek wa cate he een LO SMe OT, Pe me en J es Tee:
+x ; 2S On aes : pre ? - RA oe . mas he po aA eae 3 = tee ele: eed re Yee te weet * : wet t od, ii egy Ei — Seo weet a cen = eT Teens",0,1578,1578,water to make him swim when he is born.,True,2026-04-10T17:00:13.940163,0.0,0.0,3.77,33.33,3.77,"ae - 'fas ~ ee ee os.y' vate کا اختتام۔ اور -
+-. ws } 'a igf ony : ہم ، . ٹکڑے کی گیند پیس کی گیند تھی: eh CON A es, of A۔
+\ست! انہوں نے f Ne pS A Sis Fl aarer AOE ایک رگ RL نہیں کیا اور اس نے کوشش نہیں کی۔ . Rf ~ جہاں ڈائی TT ​​اور aS ہے۔
+a ae -} ae AN vee 1 Hel... peete ware of ae wee { Rect ee : AN, ts of ~ 7, WE میں موجود hyp OL AA + SA وغیرہ کی طاقتوں کے ٹیسٹ میں ہے۔ دیکھیں ee Ms : le oat Mp
+'یا پا؟ . 4, 4 ole any Ly e . . ao -k 3"" ""gee _ ° 4 py ہم نے کھایا: cece i Wee gen * N: 4h PE ECLOD ee 8 ae iy Fost HAR i ee 5 % 7 att : ; z
+2 yes \ an a re . . : d os ~ me i'l \'- یا ° اوپر۔ ri rm \s- ios کے طور پر یہ a"": lye oy ""یہ 'htga* 1 ca 260 ہے۔ زندگی -- 7 - : ای اور مسٹر ٹاس سے ملیں، oe To اور 5 | زبان .
+پانی:۔ ہاں Th ; : TF im + : = ""چیونٹی: 0 v. ee brs rae Nasa. ah. ee yo. rape sme, oe my "" Mii hes nie Is Uh i tls oo: Ate Ly was 4 he oy oe a id SS Eee 3 : ہم | :3
+z\. . toe 3 , mee “7 bog wa ~” aft oy :- eo Te. میری چائے بہت اچھی تھی۔ oe > of i “. oi . of “اور Me - ‘ ~, w+ . , at -, :. — ہاں نہیں STs ¢
+Nef b van -°at Py Sze ee rad +4 Be a € oe ee wee an YC ‘Wah: 4 wes wool ‘ “ hes) oe ae > me SOS
+چائے؟ : 4m,"" rn.f sofa et ae as ae 8 3 3 Pr ae a? ar eee 5 7! ol wee: 35 Sans oa ia ""a, RA Ae, aa hee IS Sek wa cate he een LO SMe OT, Pe me en Jes Tee:
+x ; 2S برف پر: دعا؟ - RA رات . Ei — آپ کیا جانتے ہیں = eT کشور",True,True,,ur,2026-04-10T17:00:37.163245
+image (9).jpg,handwritten,6,"‘Lock fe wont om earnantly ""You at net gorng","*,
+. Loft . cece
+ay soe . . - ret! - ee
+& 3 ne oy TT vy Lo . oe Ot . ~~
+- iby. UAE bee a : . ; I
+£ os Rep Ay SF, ; seq i. - Ay ao
+} . : ~ , ¥ . v . ry "" e. na e . v ant .
+ere ‘ae at ds Berets vee A ergy’ WSett es i NG an cae : r . secs copy ie ses tens
+J: a Py . ne oo Ae ) Pay 4 Ay . : o! ¢ Wt . es oo dren - - Ne: ~~, aa ' 2 Sg tS roe .
+‘he va a: Ws Daa . - 1 ‘ NPT i “a ES kin eo . diagnos wee eerie 77,» a 1 eee uy! Bo Ns yb atest “ Pep. ud caf ras Aicigeysg y
+thaN «f AN v 1 Velie : ny Ar) fone i aa Ay _ . Tn lees Pt ee : ote ft tr. 28 i i ORR Cll. See A> Yell ROLE BMY YE \r
+: ay v. “eg, i a Py aft oe ae it v8 ‘Oai ff Sb wee ""e Poa bn VAS GAs fe 7 me oe Pom Lean qi hy SAA os 5 DY oO tea
+ann - : fa: ae tZ5 | in ry a eNO By YB a BO tg ‘ ant i nt, - * offi. -: “fel Beds te de A 2g Peeper Fee a TI Ge
+aN il MT Oe ef | “gr Aa AY at} ee it eee “By ie i Sm eg SSPE MNE ATS £ SS A BJS MY re a ‘ ee}. ‘APR ae AAR it ASG EN Dis ee ee Ph z
+a toe om vo oSe CIEE iS) ‘ Fae Lee Pe Ay SPOR aT. s SV. a: - I DP eG, . y Dt TA Dd ite ier en . aoe ge . na . NS i LO — > . eNO TL TNS ve ac PE ie TE Se hh
+: NB : = 3 Ae! (8 xh p Tene aN anrs 5 Ate AD Re Tey mee : i «oe Lo CoAT tn‘ ha Poe oe Co ee Se 3 : ‘ ak >, ae re 1.9 Says ego Pat “IDE eo eh re. oy Mood nt, ens 5S)
+- 33] ie apg getter = NO AT Be ah 4 pe Broek 24 Veggie: 7 om} 2 we OF: ay or, <) . » ONE EAE Mage: ee oF R a Co Seder ot eats "" vant ""7 } . foe, op. AAs 4 FO? Dees we bee Reason patting 7 oe gn Ri. nN wee TOA Oe pie |
+te kot - V5 is Bec lAsey so > TRA Bee Aww Ae ho ce. ra: Coe SOG Te SNORT, 1 & Ch re wa ee 1 ESSARY et sey OB ee Penae Ss ee OS | Pre BO ti ne a ae ‘ pe
+i” fad See Ai, sf nee "" . wy fia 7 Miah ead aN } A: Oo NZS at fan BN a ce ‘ LaF » ww OS tegen we tat Tey: f ree es Tey at ie ‘4 Ly x creas we ve ans : S EME 7 a | . fe: ees fs ‘ a | i:
+7 . - . T/A ot ose wae? Se . eee Py en em wee oe ae, hie aes ; ' tig: Soe ae A 7: ‘ 5 3 nf | Cae ’ . : wos ‘ One TNE | ; : | Ho 3
+CEES : < : ce : Bee RR TG =~ Ne eee “ee = * W rs on wee - iy aan aan (0 AD iz ro) a om, nid faite om =.) se fe - oo. ‘) . * “ Pr a + eee, } ca :
+o wees eet a eet ann oi, 1 Py A ee re eed . wt. . dso : . ef ron, Win | i ee Sy a tout -. 74'*, ae . - . -. le SM LN - , nel Po
+TT re"" a ai ae a “ oe of be het) oo ~ . wos ws“ ~ 24 oy —_ o- - . \ . a8 PAWS ., . - oe ayy i Fi v
+ee wee OTE SS ta : - ao -, . . . Li. . eos toe, hare te 1 RN . : are AES? : 4 fa
+eT fe toe wo ee . : :f , : ; : .
+a ae we, - oe ee De °
+_ le. Ou . tee - - | ;
+ri",44,2479,2435,"""Look!"" he went on earnestly. ""You're not going""",True,2026-04-10T17:00:16.272060,64.94,0.0,3.19,12.5,-61.75,"*،
+. لوفٹ cece
+ہے . - سرخ! --.کھانا
+اور 3 ہیں oy TT v Lo . ایوان کے ~~
+--.iby. متحدہ عرب امارات ایک ہو گا : . ; میں
+£ os Rep Ay SF, ; seq i - اوہ ہاں
+} : ~ ¥ . v کے ساتھ "" e. than e . v ant .
+Ere 'ae at the Berets will be A ergy' WSett NG an cae میں ہے : r dry copy water sex tense
+J: اور Py اور oo Ae ) 4 ماہ کی ادائیگی: اوہ! ¢ Wt اور دوسرا - - Ne: ~~, aa ' 2 Sg tS roe
+'وہ گیا: Ws Two - 1' NPT i ""a ES kin eo . diagnos wee eerie 77,» a 1 ee uy! Bo Ns yb atest "" Pep. ud caf ras آئس کریم y
+ThaN «f AN v 1 Velie : or Ar) فون i aa Ay _ . Tn wood Pt ee : ote ft tr. 28 i اور ORR Cll۔ دیکھیں A> Yell The Role of BMY \r
+: مہینہ v. ""مثال کے طور پر، Poa bn VAS GAs fe 7 me oe Pom Lean qi hy SAA os 5 DY oO چائے
+سال - : do: اور tZ5 | in ry a eNO از YB a BO tg ‘ ant i int, - * off. -: ""فیل بیڈز آپ کو A 2g Peeper فیس سے TI Ge تک
+MT Hour ef | ""gr Aa AY at} ee it eee ""بذریعہ یعنی i Sm جیسے SSPE MNE ATS £ SS A BJS MY re a ' ee}۔ APR ae AAR it ASG EN ​​Dis ee ee Ph z
+اور پھر سے CIEE کے فادر لی یا Ay SPOR aT۔ s SV. a: - DP eG, y Dt TA Dd ite کل . سے NS اور LO --> . eNO TL TNS ve ac PE یعنی TE اگر hh
+: NB : = 3 ہاں! (8 xh p 5 Ate AD Re Tey me کا جواب ہے: i «oe Lo CoAT tn‘ ha Poe Co ee Se 3 : ' ak >, ae re 1.9 ego Pat کہتا ہے ""IDE صحیح ہے۔ oy Mood nt, ens 5S)
+- 33] یعنی apg getter = NO AT Be ah 4 pe Broek 24 Veggie: 7 om} 2 we OF: ay or, <) . » ONE EAE Mage: ee of R a Co Seder ot کھاتا ہے "" vant "" 7 } . دشمن، op. AAs 4 FO؟ وہ بغیر Ri کے 7 گھنٹے تھپتھپانے کی وجہ ہوں گے۔ nN پائی کی اپنی |
+te court - V5 Bec LAsey ہے تو > TRA Bee Aww Ae ho ce۔ ra: SOG سے SNORT، 1 & Ch سے 1 ESSARY اور OB سے Penae Ss سے OS تک | پری BO آپ ہمیں دیتے ہیں‘ کے لیے
+i” fad See Ai, sf not "" wy fia 7 Miah ead aN } A: Oo NZS at fan BN a ce ‘ LaF » ww OS tegen we tat Tey: f ree es Tey atie ‘4 Ly x creas ہمارے پاس جوابات ہیں : S EME 7 a | . ایمان: ees fs 'a | میں:
+7 --. T/A گھر چلا گیا؟ ای ای پی ای گھر میں تو گھر گیا ; ' tig: A 7 کون ہے: ' 5 3 nf | Cae' : wos ' One TNE | ; : | میرے پاس 3 ہے۔
+CEES : < : ce : Bee RR TG =~ If “ee = * W rs on wee - iy aan (0 AD iz ro) a om، اور نہ ہی om =.) اگر fe - oo. ‘) .* “ Pr a + eee, } ca :
+یا ہم کھائیں گے، 1 Py A ee reed wt. . dso : . دوڑنے کے لیے، جیت | i ee میں سب ہوں -. 74'*، اور . --. --. SM LN -، پو میں
+TT re"" a ai a "" oe of be het) oo ~ wos ws"" ~ 24 oy —_ o- - . \ . a8 PAWS ., . - oe ayy i Fi v
+OTE SS ہے : - ao -, . . لی . eos پیر، خرگوش سے 1 RN . : کیا یہ AES ہے؟ : 4 یہاں
+eT fe دوبارہ wo ee : :f , : ; :
+a آپ ہیں، - o De ° ہے۔
+_ کے ساتھ اوو چائے - - | ;
+میں",True,True,,ur,2026-04-10T17:00:37.163245
+image.jpg,handwritten,6,ae hy oe pe come ig ~S spe a,"a ff a Jy fo ff wo”
+free owt vi aioe ioe orn Pi ae he EE PFE we COP me a y ad orl ge ay Sg ge te
+/. Pa ae fe oe / : a",28,117,89,"Though they may gather some Left-wing support, a",True,2026-04-10T17:00:16.731213,32.79,12.5,11.38,12.5,-21.41,"a ff a Jy fo ff wo""
+مفت owt vi aioe ioe orn Pi ae he EE PFE ہم نے مجھے ایک y ad orl ge ay Sg ge te COP
+/. Pa ae fe oe / : a",True,True,,ur,2026-04-10T17:00:37.163245
+Screenshot_1.png,handwritten,6,(May,"Te aa oat Ste - : . - iors oo Powe ae Fg a nee entnene . TO . ; .
+a - * e . Soe. : us _ . ' : lee en c - . my Oo we . a a)
+# . . . . ab L . ‘ ee ue an .
+: ao . o- ae ‘ ” : io -_- -- a . ~ . . ay a” a are ‘
+“¢ a ? . o* . ba vs t , -
+An ; . +, ish . -? ; ""s ; : wt ’ ’ woos ; i in ot ee _
+a . . ie ia ea . _ . ° an . . “is wage . . eee
+. . - Oo. 7 Lote : 5 - _. an ; _ ' m . ; . . 5 boat 2
+he . coy mo . . = J its me ne oF sO in : *. 7. - . ve ran petal _ te - . -
+- ‘ . oy . - . 7 ' . . ‘ . om , . . .
+oy he i ; ~ “ . “leaky . : 4 yt i Heoig an! wt wt ,
+: : en 2) ' ~- ee -* | : ve > .- . fe = 0 an 7 : a rs . .
+: a a i ee a4 _‘ ’ : bd _ », pth owe . : . . -. .
+ve . oo at : eos Ly Jc ‘A FS ! “ey of | ye : op 4 , ""
+H il ~ Oo : ‘ ae. a, ie a 5 : Z rd wet ee , eet wake , sy: ate ‘ “y . 1
+: : . .- ; ut . . - e ae -- . Cn on . ; ; _ a 4 . a fos we x Ps ° Bf F sy : ni i . ry : ws . .
+. co Hf woe ; _ xe iin piel . . yee ~ Byrn 1 be, . [ ~- ; ‘ds = <? feos . es ‘° < el
+an ‘Ae, . oo : : - a . fs ¢
+wel . ¥, . . oo 8 Loe . \ ‘ 4 . . .
+wee A \ %” . oe . ; on 2 : ee . os . . v ' - ; . - .
+, . ra ae ~ ; pera abe : so .. . an ; : ce | . : a
+ON Ree gee. : ' . if aa . vee 8 o . .
+. en rie - . ; me TE tees oF nan cl . . . an : : . cu ” ,
+- get bd - . 7 . oO , oor . on -",4,1263,1259,Always,True,2026-04-10T17:00:18.030587,40.0,0.0,1.25,0.0,-38.75,"Te aa oat Ste - : . - iors oo Powe ae Fg a nee entnene . کو ; .
+a - * e . سوئی : ہم _ . ' : لی این سی - . میرے او ہم . a)
+# . . . اب ایل ' ee ue an .
+:ao o-ae ‘ ” : io -_- -- a . ~ . ay a ” a are ‘
+""¢ a ? . o * . ba بمقابلہ t , -
+ایک ; . +، ish. -؟ ; ""s ; : wt ' woos ; میں اس میں _
+ایک . یعنی ia ea _ ° ایک . اجرت ہے...
+. . - اوو. 7 لوٹے : 5 - _۔ ایک _'m ; . . 5 کشتی 2
+وہ coy mo . = J it me ne oF sO میں : *۔ 7. - ve بھاگ گیا پنکھڑی _ te - . -
+- ' اوئے --. 7' . ' اوم، . . .
+ارے وہ میں ; ~ "" ""لیکی . : 4 yt i Heoig an! wt wt ,
+: en 2) ' ~- ee -* | : ve > .- . fe = 0 اور 7 : ایک روپے .
+: a a i ee a4 _ ‘ : bd _ », pth owe . : . --. .
+ve oo at : eos Ly Jc ‘A FS ! ""کی | آپ : op 4 , ""
+H il ~ Oo : ' ae. a، یعنی a 5: Zrd گیلی ee، eet wake، sy: ate '' y ۔ 1
+:: .- ; ut . --.e ae --. Cn آن. ; ; _ ایک 4 . a fos we x Ps ° Bf F sy : ni i . ry : ws .
+. co Hf افسوس ; _ xe iin piel . . yee ~ Byrn 1 be, . [~- ; 'ds = <؟ feos es ‘° < el
+ایک 'اے ای، . oo : : - a . fs ¢
+ویل ¥، . . oo 8 لو . \' 4۔ . .
+wee A \ % ” . oe . ; 2 پر : ee . os . . v ' - ; . - .
+, ra ae ~ ; پیرا ابے: تو... ایک : ce | . :a
+آن ری جی۔ :' اگر اے اے vee 8 o . .
+. en rie - . ; me TE tees oF nan cl . . . ایک :: cu ”،
+--.bd --. 7 oO، اور پر -",True,True,,ur,2026-04-10T17:00:37.163245
+Screenshot_2.png,handwritten,6,andwrit ten,,11,0,-11,Handwritten,True,2026-04-10T17:00:18.380619,95.24,0.0,0.0,0.0,-95.24,میں,True,True,,ur,2026-04-10T17:00:37.163245
+Screenshot_3.png,handwritten,6,"aX
+= AS
+xo v9
+A.
+i
+4.
+A-",": 2 = ~— = Cai ™ = 5 TS: ee
+enn A ys ae ae a i:
+: |
+i a |",24,57,33,TO DO LIST,True,2026-04-10T17:00:18.946460,6.67,0.0,8.7,0.0,2.03,": 2 = ~— = Cai™ = 5 TS: ee
+enn A ys ae ae a i:
+: |
+ایک |",True,True,,ur,2026-04-10T17:00:37.163245
+test_image.jpg,handwritten,6,=,"mn ll ; Date _——_____
+I~ Polynewmal tinre  pryblems are datopmriarctle
+a. rad go, y ks £8 Juad ia hel 2 giu) D [reat tant and
+NP oe Aen deteranttec aslo romial Titre 12. cron
+in type ct prolyl Fed pa “olive bh peqerres ef fovt
+yo tblve yithaivh ony clea matacd: OF ssfufns ue
+“* piufe fhe comalevisi af ‘luigav: enh rs: Ofn ye",1,326,325,"Polynomial time problems are deterministic and can be solved without complication and is understood by most people whereas NP or nondeterministic polynomial time is used a type of problem which requires effort to solve without any clear method of solving it.
+
+I don't know
+
+The time complexity of binary search is O(log n) while the complexity of linear search is O(n)
+
+I don't know
+
+The big O of the loop below is O(n²)",True,2026-04-10T17:00:19.680397,0.0,0.0,1.62,9.62,1.62,"mn ll ; تاریخ ___________
+I~ پولینیومل ٹنرے پربلیمز ڈیٹامریارکٹل ہیں۔
+جس کا rad go, y ks £8 Juad ia hel 2 giu) D [reat tant and
+NP oe Aen deteranttec aslo romial Title 12. cron
+قسم ct prolyl Fed pa “olive bh pesqeres ef fovt
+yo tblve yithaivh ony clea matacd: OF ssfufns ue
+""* piufe fhe comalevisi af 'luigav: enhrs: Ofn ye",True,True,,ur,2026-04-10T17:00:37.163245
+Screenshot_1.png,stylized,6,"LIFE IS IN
+THEIR HANDS-#@ DEATH IS ON
+THEIR MINDS!
+EXPLODES
+a
+HENRY } FONDA STICKS
+f DYNAMITE!
+AINGRY WRX","iva. Wo SN Cad See
+LIFE IS IN
+THEIR HANDS-W DEATH IS ON
+r THEIR MINDS!
+EXPLODES
+LIKE
+12
+HENRY F FONDA sticks
+OF
+f | DYNAMITE!
+4,3 |
+Pailiie
+a UE COMB ER SBE .1 CMM AOR kc es
+ao» SRE | are ENN HON | ORAS er one bY LEE |",105,218,113,Always,True,2026-04-10T17:00:20.261354,4.04,0.0,3.24,0.0,-0.8,"iva Wo SN Cad See
+زندگی داخل ہے۔
+ان کے ہاتھ سے موت آن ہے۔
+r ان کے دماغ!
+پھٹتا ہے۔
+LIKE
+12
+ہینری ایف فونڈا لاٹھی
+آف
+f | ڈائنامائٹ!
+4,3 |
+پیلی
+ایک UE COMB ER SBE .1 CMM AOR kc es
+ao» SRE | ENN HON ہیں | ORAS er one by LEE |",True,True,,ur,2026-04-10T17:00:37.163245
+Screenshot_10.png,stylized,6,,"TO KYO EXHIBITION
+{i
+ESE ih
+
+SiR ft
+en if",0,41,41,"コ…コロン…
+その生物は
+一体何だ!?
+
+わーっ
+そんな物
+食べるな!!
+
+バリッ バリッ",True,2026-04-10T17:00:20.716111,0.0,0.0,12.5,0.0,12.5,"KYO نمائش کے لیے
+{i
+ای ایس ای آئی ایچ
+
+SiR ft
+en اگر",True,True,,ur,2026-04-10T17:00:37.163245
+Screenshot_11.png,stylized,6,N iat A ii,it At 2 1,10,9,-1,"...SAVE THE SOUL SOCIETY. 
+ICHIGO KUROSAKI...!",True,2026-04-10T17:00:21.172101,12.5,0.0,12.77,0.0,0.27,یہ 2 1 پر ہے۔,True,True,,ur,2026-04-10T17:00:37.163245
+Screenshot_12.png,stylized,6,"FPtovoocosevoveseseseseness
+* *
+3 ee aw :
+but S AT |
+= bad g 4
+& z
+* *
+= z
+3 vz 3
+i os t
+: iw :
+: :
+$ wtly }
+i ee le i
+Torsssenesraeaoseneeanannad","ZEEE SSSR SORE ESE ESS The He
+& &}
+f ye w 3
+‘ Lol al :
+: ad 2 ‘
+: ¢
+a :
+iB ad :
+: 3 t
+3 3
+SS
+iy i
+o> cy
+: :
+: © L< :
+| neneseaaenaereranaenesent",146,144,-2,"آپ کی احتیاط
+آپ کی سلامتی کی
+ضمانت ہے",True,2026-04-10T17:00:21.846299,2.63,0.0,2.76,0.0,0.13,"ZEEE SSSR SORE چاہیے ESS The He
+&&}
+f w ہے
+'لول ال:
+: اشتہار 2‘
+: ¢
+a:
+iB اشتہار:
+: 3 ٹی
+3
+ایس ایس
+iy i
+o> cy
+::::
+: © L< : .
+| اور یہ دوسرے اور یہ بھی",True,True,,ur,2026-04-10T17:00:37.163245
+Screenshot_13.png,stylized,6,"| Trafalgar
+Lambeth > |Z
+Bridge ce","} Gen Trafalgar
+
+Square [
+Lam beth =» | a al:
+Bridge rai.",34,57,23,"Paperink
+A natural ballpoint handwriting font",True,2026-04-10T17:00:22.279612,30.99,0.0,15.73,16.67,-15.26,"} جنرل ٹرافالگر
+
+مربع [
+لام بیت =» | a al:
+پل رائے۔",True,True,,ur,2026-04-10T17:00:37.163245
+Screenshot_14.png,stylized,6,"A Give way to No footway
+Humps for oncoming for 400 yds
+12 mile vehicles","Give way to No footway
+Humps for oncoming for 400 yds
+'2 mile vehicles",72,70,-2,"Humps for ½ mile  
+Give way to oncoming vehicles  
+No footway for 400 yds",True,2026-04-10T17:00:22.681709,45.76,92.31,46.15,92.31,0.39,"No footway کو راستہ دیں۔
+400 گز کے لیے آنے والے کوبڑ
+'2 میل گاڑیاں",True,True,,ur,2026-04-10T17:00:37.163245
+Screenshot_15.png,stylized,6,"i > Bek
+1
+(ex: 20)","ry qe » J ;
+Jie JO: vy i Peg * 4
+~— - _) —— ‘
+a ‘3
++ fie p ONES %: d
+Phat t lt leyel: at ’ BS. 2"", . “Gg
+eg . + ee we 8 we ee ee ee we . aes . . q
+SEE ESESS SS TESSSEES PMRIC SEI SS EPCS TSIEN PCP CH CSCC TREE EC SEC PE NRECIET '
+*. “ t on ihe ars olathe”
+te - ow i ft PN ae a... =e
+>. ait ai
+' ~ a > <i ¥. # wel ‘an
+‘ Qe ot fee | oo. . »* aed a it ef. aly “J 7 ae",18,364,346,Max Speed 20,True,2026-04-10T17:00:23.346000,32.0,0.0,2.92,0.0,-29.08,"انہیں ry » J ;
+دیکھیں JO: vy اور Peg * 4
+~— - _) —— ‘
+اور '3
++ بیٹی p ONE %:d
+تیز بارش: بی ایس ہے۔ 2""۔ ""جی جی
+مثال کے طور پر + ہاں ہم 8 ہم ہاں ہاں ہاں ہم aes۔ . q
+دیکھیں ESESS SS TESSSEES PMRIC SEI SS EPCS TSIEN PCP CH CSCC درخت EC SEC PE NRECIET '
+* ""t on ihe ars olathe""
+te - ow i ft PN ae a... =e
+> توجہ
+' ~ a > <i ¥. # سالوں کی تعداد
+'او ٹی فیس | آپ . »* اس پر ایڈ اگر. aly ""J 7 a",True,True,,ur,2026-04-10T17:00:37.163245
+Screenshot_16.png,stylized,6,"NO
+EXIT","NO
+EXIT",7,7,0,NO EXIT,True,2026-04-10T17:00:23.882985,92.31,100.0,92.31,100.0,0.0,"NO
+باہر نکلیں۔",True,True,,ur,2026-04-10T17:00:37.163245
+Screenshot_17.png,stylized,6,"NO
+ENTRY","NO
+ENTRY",8,8,0,NO ENTRY,True,2026-04-10T17:00:24.465549,93.33,100.0,93.33,100.0,0.0,"NO
+اندراج",True,True,,ur,2026-04-10T17:00:37.163245
+Screenshot_18.png,stylized,6,gMARKET SQUARE},"a OV ge ae }
+oe . - ’ att of - * = ee ae , -
+<r sAus- 7 Se! iw . . - ; 4 le all Ae aay, by
+. : ~ 7 oz a Eee ab > ower —<— - - 7 os 1 . r aaa \. ar a oo ~*~ ee:
+7 7 ae te » of eg ‘ - * 6 { be. ’
+Ot ene _* . . © -* oo a i ya Ser oy imal —_— ~ a a
+_ a . Ot Lew _* fe, : + . ys. aa . . — ee é
+«? al ~ eee"" a © ae é + . . . x ‘ c———- . Page
+Sng inderier = ’ . ee a
+. ” . on a te . , a ~—— + - 2 . _ : .
+: —“ . -  aareboe awe oe “ 3 tars Ce “4
+at ne a rt en sm a. IAS |
+‘ | ‘ . ~ * 2 yp ig 4 - - _ ** one at FIP pease
+. - ° _ ose aa ~ .
+* . e , . -~ ~*~ ; ¥ o- ew * - . . .
+"" * ' ne) .- - . .*, > -
+at. bad Pe 68 oe Eee a gs « . = = PR . 4 , . a ow \ a? . . * 1
+« _« . _ - Qeahene & AT . “
+- ’ s ° he
+ete + we a . -# y -, a ~ . a+: baad . . $
+3 > - . “~ .
+»«- ie ‘
+am bl |
+. °
+_———_
+. te ee ee * foe: . r ° . “
+~ we o - . a — «os Saeed peer —— .. 2) tate
+en ans ‘ : ‘ Se ‘ aa a . ‘ ' of fee -
+. rs 2 ee . nt a ae f , a ‘
+- “Ze a . —— we 1 ' * .
+— tr <A a hagacae awit fe a is . ’ - 9). _.* ; _.
+_ ; . . ’ : ac ~ a) - = I . _ ape 8 gee Osa xg we + -~owengeemes ol""
+ait voy o. - . - "" % « ~/ . ‘,' ~ _! | “af ~ fe oe f ae me “+ af * wee
+ad , . . dim at — ~ oa , * ° . ! ?: . . ~ - we Ve, f . . _« ‘ am | et
+e« a» o ™ . ’ id ~-08, eae -? A 4 * 4 cd * .
+n ad . . . i ‘ ~* . . e . Lod ‘
+7 eA Ase — 4 .
+mA ""3 eee - Sat comely o f 5 .? *
+AS eee : ‘ . — ba | eT wed
+Sai a) - 47 2. Wtez or os + oe oe
+en- os ; po 4 ‘ 24: ros : F we _¢ ' 7
+- ae Al 4 or ‘ ' : baaaind eo oof to . oe ay ao 4a los
+. “+ pt A . . F aliad . : -, : Fy Cd - ‘oe wt a OF £ ao Pa
+- a —* ee : ‘ ; [ eee, ad yf vf hen,
+4 to. 7 a : feria QPCR ES mean —- *, Y et a a ae _”
+me in ro rr a a , eS a i “ws fe PO ee enema man fe oo pee” oO” . .
+a . -- ‘h 7 ; a Fd a . - «ce il b I and . fa «- . - * « "". ’ C . #° a
+2 pe Ie ee ee Oe ged ° a i . ae ewe } * : . ; . - . - * “ot Lo ..
+. . ' = _* ¢ . - vw 4 . ae OS * o we fe .
+a he “¢ =. ly ee ee ON ge oe > Ie . - : , =o
+- _ oe rf ” po 2 . (s Sad * d eG ot . : —,
+, a - - (. m ~S —
+- ao” af ° : » i “ _ so,
+. ~t",15,2007,1992,MARKET SQUARE,True,2026-04-10T17:00:26.587257,92.31,0.0,1.21,0.0,-91.1,"OV ہونے دو }
+oe - ' att of - * = ee ae , -
+<r کان- 7 یا! iw . - ; 4 تمام Ae کے ساتھ، بذریعہ
+. : ~ 7 oz a Eee ab > ower —<— - - 7 os 1 . r aaa \. آپ پر ~*~ ہاں:
+7 7 اور » کے مثال کے طور پر ' - * 6 { ہو. '
+گھر وہ _* . . © -* ہاں a i ya Ser oy مستقبل —_— ~ a a
+_ ایک ہاؤس آف لیو _* fe, : + . ys دوسرا . - ہاں یہ ہے
+""? al ~ eee"" a © ae é + . . . x ‘ c———-۔ صفحہ
+Sng اندرونی = ' . ہاں ایک
+. "" . آپ پر .، اور ~—— + - 2 . _ : .
+:-"" - ""3 tars Ce"" 4 کا دوسرا خوف
+at اور a rt en sm a. IAS |
+' | ' ~ * 2 yp ig 4 - - _ ** FIP pease پر ایک
+. - ° _ تمام aa ~ .
+* اور، -~ ~*~ ; ¥ o-ew * - . . .
+""* 'اور) .- - .*، > -
+سال برا صفحہ 68 کا Eee a gs « = = PR 4 , . a ow \ a؟ . . *1
+""_"" _ - پادری اور اے ٹی . ""
+- ’ s ° he
+ete + who a -# y -, a ~ . a+: دنیا۔ . $
+3 > - ""~
+»« - یعنی '
+am bl |
+. °
+_———_
+. ہاں ہاں * دشمن: r ° . ""
+~ جہاں آپ - . a — «os سعید پیر —— .. 2) والد
+جواب میں ' : ' اگر ' آپ ' فیس کے -
+. 2 جی ہاں nt a اور f، a '
+- ""Ze a —— جہاں 1 '* .
+— tr <A بلند گانا ایمان ہے ' - 9)۔ _.* ; _
+_ ; . . ' : ac ~ a) - = میں۔ _ آپ 8 جی اوسا ایکس جی ہم + -~ owengeemes ol""
+جاؤ یا اے. --. - ""% « ~/ . '،' ~ _! | ""اف ~ ایمان او فی می ""+ محبت
+کو، . dim at — ~ oa , * ° . ! ؟: . . ~ - جہاں نہیں، f. _«' am | اور
+اور «a» یا TM’ id ~-08، ہے -؟ A 4 * 4 cd * .
+n اشتہار . اور '~* . اس کا لوڈ‘
+7 eA محور - 4 ۔
+mA ""3 eee - Sat comely o f 5 .؟ *
+جیسا کہ وہ: ' - نہیں | eT بدھ
+سائی اے) - 47 2. Wtez یا os + oe oe
+en-os ; 4 ‘ 24 کے لیے: گلاب: F جہاں _¢' 7
+- ae Al 4 یا '' : گھر کا گھر اوہ اور میں چوتھا لوس ہوں۔
+. ""+ pt A. F الائیڈ . : -, : Fy Cd - of wt a £ ao Pa
+- a —* ہاں : ' ; [ہاں، وہ کریں گے،
+4 سے. 7 a : منصفانہ QPCR ES کا مطلب ہے —-*, Y et a a ae _”
+لیکن rorr a a میں، یہ ""ws fe PO اور man fe oo pee"" oO ہے۔
+ایک -- 'h 7 ; اور Fd a - « کیا b I اور . استعمال کریں ""-. - * """"۔ 'سی. #° a
+2 یا Ie ee ee Oe ged ° a i ae ewe } * : . ; . --. - * ""قانون کا گھر ..
+. . ' = _*¢ . - vv جہاں OS * یا کہاں fe
+a he “¢ =. ly ee ee ON ge oe > یعنی . - :، =o
+- _ oe rf ” 2 کے بعد ( Sad * اور eG ot کے ساتھ : —،
+, a - - (. m ~S —
+- ao"" af ° : » اور "" _ تو،
+. ~t",True,True,,ur,2026-04-10T17:00:37.163245
+Screenshot_19.png,stylized,6,"r = * The Royel some — Ses
+Se SS and Chelsea ‘
+pemieees] PAVILION Be
+ge STREET, SWI",". ur “f° ~ = ‘ * os : Sy b. tats te on i 7 er Owe 0 7 *). = ¥ -
+‘ _—= aati . : ane ~ a gE
+‘, RW - 2 Ga. tee Yr eee ' so ae Hee
+lia wt, Lee, ae nein ce = 9 RY
+GT AP oe Roysl Borough of <vungion
+Sater Bis Was AD Che Woyal Borough oF ~) :ington a
+ie ""ye ""al - yt Oe rf orl > «
+Fond Spi TES aT and Cheises ey
+a «6 el oY . -_""
+apes STREET. SW1 Eee
+Myon, : anes + ‘
+rida ad ore ao i ° e « Ps #1
+root See ga TOS ig Se SRO ORC lee
+~ * ore 7 na . _¢@ Sh hee ~ : ~’
+. - eB. oe wf ; — «fl « «§ . a ~~ a =
+i ROC: i KS Mei Iie : . “wk Lae, o at e = a5",83,538,455,"The Royal Borough of Kensington and Chelsea
+PAVILION STREET, S.W.1",True,2026-04-10T17:00:27.434608,58.73,50.0,19.24,30.0,-39.49,". ur “f° ~ = ‘ * os : Sy b. tats te on i 7 er Owe 0 7 *)) = ¥ -
+' _—= اتی : ane ~ ختم
+', RW - 2 Ga. tee Yr eee' so ae Hee
+lia wt, Lee, ae nein ce = 9 RY
+GT AP oe Roysl Borough of <vungion
+Sater Bis Was AD Che Woyal Borough oF ~) :ington a
+یعنی ""ye"" al-yt Oe rf orl > «
+شوق Spi TES aT اور Cheises ey
+ایک «6 oY . -_""
+بندر گلی. SW1 ہاں
+میون، : ڈل + '
+Rida ad ore ao i ° e « Ps #1
+جڑ دیکھیں ga TOS ig دیکھیں SRO ORC پڑھیں
+~ * گھنٹے 7 اور . _¢@ نیا ش ~ : ~'
+. --.ای بی oe wf ; — «fl « «§ . a ~~ a =
+میں ROC: i KS Mei Iie : . ""wk Lae, o at e = a5",True,True,,ur,2026-04-10T17:00:37.163245
+Screenshot_2.png,stylized,6,"ws
+are abe bony Serrerel
+(8s are oe
+cee MB ree > So mee
+a oa Bis bs, ae Ee Pe fle
+fame) De Te |. i. es | (ca an
+Sh” wee a) 2 ae?)
+sioaiaaiaidec aghresmade 5. ON OA SRO HOND cree","we ~— rere eee - ar = : | —_ * we rr
+7 y nee “oo ee oe
+Serres ae ate
+q ». wae i Aruba | a [2 Patgen “
+J = q , ‘ ‘ e. '§ * * . e a ° 4
+i ‘. & a t 8a ‘ . : ° . Hye
+im - 4 x! Ty ar . ,} . ' we . o
+- 4 s eae '; ’ 4 “ff ,
+on 4 vfs yt. : *. I @ ” ie } , pn, po ~ “a “t 33 o :
+“W ee a __ eee
+, . Res: ee + ee _
+| Sena Com tt TRG T ye | CeO WEOgS
+t. a Ros ok Ty Pe: , a we
+om oe 2 re : x? 2. . tea. a, be : : % f
+Ne i 2 a . hao: | Be “oe ne en ¥:
+- q . ~ . - aa -t a * ¢: ¥ -
+“+ = capa ~~ : he “ rod we ar . th .
+Berets GeaeTs meg eee 7 ae :
+%4 4 =~ wp rte . i ' ' Oe et me
+— 1 nt he 4 - ot ~ rs
+'g » ’ ' o 3 1 . ps | ' a ‘ ‘
+: e uN 4 : | . ‘f . i . ~~ ’ i = Z 7 ed
+s alnatat ke OAL Se ee",177,680,503,Handwritten,True,2026-04-10T17:00:28.556861,7.89,0.0,2.16,0.0,-5.73,"ہم ~— کے مطابق - ar = : | —_* جہاں rr
+7 y nee “ you ee you
+جگر کو سیرس
+q». اروبا میں پانی | a [2 Patgen""
+J = q، ' e. '§ * * . اور 4
+اور '. & a t 8a ' . : ° ہائے
+اور - 4 ایکس! Ty ar ,} . ' کہاں . o
+- 4 سیکنڈ؛ ' 4 ""ff،
+4 vfs yt پر۔ :* I @ ” یعنی } , pn، پھر ~ “a “t 33 o :
+""و ای اے __ ہاں
+, جواب: ہاں + ہاں _
+| سینا کام TT کی TRG T | سی ای او ڈبلیو ای او جی ایس
+t ایک Ros ok Ty Pe:، چلو چلتے ہیں۔
+آدمی oe 2 re: x؟ 2. چائے a، b : : % f
+2 میں آپ: | ہو ""oe was ¥:
+- q ~ . - aa -t a * ¢: ¥ -
+""+ = پرت ~~ : وہ "" راستہ ہم ہیں
+بیریٹ چھوٹے 7 ae :
+%4 4 =~ wp rte ۔ میں '' تم اور میں
+- 1 nt وہ 4 - ot ~ rs
+'g » ' ' o 3 1 . پی ایس | 'تمہارا'
+: اور uN 4 : | . 'f i. ~~ ' i = Z 7 ایڈ
+s alnatat by OAL اگر ہاں",True,True,,ur,2026-04-10T17:00:37.163245
+Screenshot_20.png,stylized,6,"Watford Pr
+Amersham wT |
+, M250 #","7 : ~~ « dl ""3. , ead TT vee, ; Pw ‘
+Nw ° < ae 7 4 , 7, a“ a .
+__ os,
+as
+attor ae
+ge i a
+Amersham 7 v
+< ran tet ng
+} me aes
+ms . , ¥.
+{ “s y P] ro _ = _ re ’ _ . a - oad (} * | 4
+A i ar « Bel Re ek Ste a ST:
+; : ee ee + ae P aca he ne ee a8 t 7 ¢ <,
+; Rs - eh ons , ere TT. BN » 8° Aten we te OS, BR nen Oe
+a a. 7 oe ur te ¢ Dd. 4 < . q an ' a. yr *) ‘ “ « roe .
+AGOCEN ERORts Oe ee ere ee Tiel
+o/s Ee ; 9 ibe ee er a —- 25 ion - a vv “ar °",33,440,407,"Watford  
+Amersham  
+M25",True,2026-04-10T17:00:29.278065,83.33,66.67,11.15,33.33,-72.18,"7 : ~~ « dl ""3. , ead TT vee, ; Pw '
+Nw ° < ae 7 4, 7, a“ a .
+__ os،
+کے طور پر
+اداکار اے ای
+یہاں ایک ہے
+امرشام 7 v
+< تین دن ng
+} اور آسان
+ms ¥.
+{ ""s y P] ro _ = _ re ' _ . a - عمر ( } * | 4
+A i ar « Bel Re ek Ste a ST:
+; : ee ee + ae P aca he ne ee a8 t 7 ¢ <,
+; روپے - ایہ اونس، پہلے ٹی ٹی۔ BN » 8° Aten we te OS, BR اور Oe
+a 7 oe ur te ¢Dd. 4 < q اور 'a. yr *) ‘ “ « roe .
+AGOCEN ERORts Oe ee ere ee Tiel
+o/s ہاں؛ 9 ibe ee er a —- 25 ion - a vv “ar°",True,True,,ur,2026-04-10T17:00:37.163245
+Screenshot_3.png,stylized,6,AMAICA ROAD,AMAICA ROAD,11,11,0,TO DO LIST,True,2026-04-10T17:00:29.745757,11.11,0.0,11.11,0.0,0.0,امیکا روڈ,True,True,,ur,2026-04-10T17:00:37.163245
+Screenshot_4.png,stylized,6,"’ — — ;
+r= Tey
+ot Soe ome - a
+coe
+Cees ci","di @ al i , Pw al =f — © . 4 ; * t “""q , “— 4 4
+. « Oe aU Oy wee
+. ! ig : —_
+— . *, |
+} - ee i |
+7 >t ang r - = ——",41,114,73,Write 'n'  Wipe Poster,True,2026-04-10T17:00:30.448642,24.0,0.0,13.19,0.0,-10.81,"di @ al i , Pw al =f — © . 4 ; * t """"q، ""- 4 4
+. ""اوئے اوئے اوئے
+. ! ig : -_
+- *، |
+} - ee i |
+7 >t ang r - = ——",True,True,,ur,2026-04-10T17:00:37.163245
+Screenshot_5.png,stylized,6,"BRIDGE ST
+> A 458 |
+TOURBRIDGE |","re «BB Shae ‘
+1 r |
+
+* @
+Q Sipa@o io,
+< y | ew | 3 Qe. 4 a ib. Orta",32,67,35,"OVER HERE., ANY SIGN OF HIM?, NOT YET, SIR, BUT HE HAS TO BE AROUND HERE SOME--, TIMOR? TIMOR, ARE YOU THERE?",True,2026-04-10T17:00:31.212616,19.13,0.0,18.98,0.0,-0.15,"""BB Shae"" کا
+1 ر |
+
+*@
+Q مجھے مارو،
+< y | ew | 3 کیو۔ 4 اے آئی بی۔ اوسط",True,True,,ur,2026-04-10T17:00:37.163245
+Screenshot_6.png,stylized,6,"=
+CAUTION
+DANGEROUS CORNER
+DRIVE SLOWLY","EeE—_— ae “— « <. ee d . —_— , ~~
+he teh , ff = , q 4 _— i 4 = “ ZA wok ~
+wat . via “a * ——— 7 q a | | q
+ght ¢.°= ae eae bree -. *
+~~ "" we. lg _  s-- an oo . << * e =) i
+q ~~ = e- v= 4 ‘> 64 i,
+- e ~ ae . Las &< , Se | a er | &
+aie . — 4 x ~ { oe -—_ > Sa ee maar p , NN ‘ Sid
+y i a Se E . SS 4 4 Pa - on ~ 4 ,
+es. ® a “ Aime. ie j S ye a we a wey - oA a ao é ~ ™ . : — y
+Sar ' és. 7
+_ — My .",39,392,353,"十一年了整整十一年系统你就不能给我好一点的天赋吗, 气抖冷……, 点赞转发",True,2026-04-10T17:00:32.249448,0.0,0.0,1.38,0.0,1.38,"EeE—_— ae “— « <. ee d. —_— , ~~
+he teh , ff = , q 4 _— i 4 = "" ZA wok ~
+واٹ بذریعہ “a* ——— 7 q a | | q
+ght ¢.°= اور یہ ہے -۔ *
+~~ "" we. lg _ s-- an oo . << * e =) i
+q ~~ = e− v= 4 ‘> 64 i،
+- اور ~ اور The &< , اگر | اور پر | اور
+ہوا — 4 x ~ { of -—_ > یہ ٹھیک ہے، NN 'Sid
+اور i a If E SS 4 4 Pa ​​- on ~ 4 ,
+میں ® a "" Aime. یعنی j Sye a we a wey - oA a ao é ~ ™. : — y
+یہ ہو جائے گا. 7
+_ — میرا",True,True,,ur,2026-04-10T17:00:37.163245
+Screenshot_7.png,stylized,6,,"ae ion a a oo ——aZ wih Bl e ; L - * .
+ee - i d f q * a
+i (il ee
+5 ie
+1 4 Las Ug : .
+, ) mat d _«
+S |
+r .
+| | ) | ,",0,114,114,"我重生以后
+自带系统
+这是多少人
+梦寐以求的事
+
+不过每天只能摇一次
+灵根资质和先天气运
+这个设定真是坑爹啊
+
+可十一年都过来了
+我又何必在乎
+这么一两天呢",True,2026-04-10T17:00:32.656544,0.0,0.0,10.39,0.0,10.39,"ae ion a a oo ——aZ wih Bl e ; L - * .
+ee − i d f q * a
+میں (ای ای
+5 پانی
+1 4 لاس یوگ : .
+, ) چٹائی ڈی _«
+ایس |
+r
+| | ) | ,",True,True,,ur,2026-04-10T17:00:37.163245
+Screenshot_8.png,stylized,6,"Dy [een0un id +
+aid Tea eOUC CUE .
+
+@\caszacese< |
+| SRURLLITES.
+| B The entrance to the quest room becomes only a hotel guest F
+‘ J | would like the meetings in a lobby &",". ° f . a et an - . # . ¢ ¢ an . ‘ “a: ae @. . ’ ae . . . °
+2 oo : S, . ad 7o , Ss Pe . . ar .” ‘ “a ' ' ey ‘ @ ay 7 Ne ’ cv ; ' Py - ; 4; § ; $
+oP we ’ ae a a erend Sane e. et age tw Ma 2 : .- ‘f'=
+Pe a _ . , wart’. 7 > Pee to lat ag rad . ‘Coe s “ - 4 Or ioe yn: a ‘
+ME fig wf wets ° “OF ~° o. 3°"" ube. av Ay ‘ a ee : a zy"" x gr > of i.
+° : le. ae: 7 oe ee ots ‘i ‘ i 4’ , . :
+. - *§ ota @’ oo. ”% 9 ig. re. a ae ae . 4: ee 8 e-
+1 # ‘ei 1 i * 8 y a) a > . , ¢ > ' an r) f . <a teel ; , ; .
+SS on ) ; 3 : . Al ‘: ™ s ‘ , om i Le
+we a — :
+. : . ; <F ue . a a - .
+: + Z a, gt + *{ J . © ; |
+an i"" ; g ' ny Ai og ae 1
+eo | a ® | ‘ on ‘ a had s Fj ; ‘
+7 3 Fa | p RG a wg ri red . :
+. ¢ * - al a . ’ a a = asf : y | Ee s>
+* “ a : ; : “ .4 4 z . . i ; oy ‘ ’
+‘ 4 \ 1 ie yr ‘ ~ ""
+- : - e- ate! : ®
+{ : ; . : or i. be yp f BS En 2 f 3 . ;
+‘ a 2 4 wee | wi ¥ ’
+e Fe. s. : OS gt ae. : _ ~ wee :
+nor oe . | ‘ d a i # ros at . : (
+‘* . _— 5 ao . . ‘ ~— & ‘ ‘
+oe ; _— o ie if { y ¢
+_ ta the | ly.a hotel. guest
+fee =| The entrance to the guest roomsBECOMES QNIe: ) oe
+7 | e en rance ve he i : soy A : ‘ a
+bea a we
+>». ~ 4 ® * Swe .
+| es, =| | would like the meetings in'a :
+. % : bf
+.. ‘« j
+, a ‘.
+PP. -¥ . : ’ _ gee a be! : _ ‘
+26g: a = . , > a . af . cd +» oe oO * . @< an ‘ a |
+: : ° * “ : ‘ « . ‘ 1 eer | e ° _ von te - “-
+ay 4 ea. Yo fe 1 nh + ‘ tee KAN oe @ &,"" * roe ge
+. UA -* . rd “ee ,?” ee . ‘4 - Py v % . my . ew . ee er . . Pog at ~
+i rr nr ae . Vi “ < an , ~MA- Oe: wee}",171,1472,1301,"OR…. SO I THOUGHT,",True,2026-04-10T17:00:34.437857,6.49,0.0,2.47,25.0,-4.02,". ° f ایک اور ایک - # ¢ ¢ ایک . ' ""a: ae @.. ' ae . . °
+2 oo : S، . اشتہار 7o , Ss Pe . . ar."" '' a ' ey ' @ ay 7 Ne ' cv ; 'پی - ; 4; § ; $
+oP we’ ae a erend Sane e. اور عمر دو ما 2 : .- 'f' =
+مٹر _ ۔ ، مسسا'۔ 7> پیشاب سے لے کر ریڈ تک۔ 'Coe s' - 4 یا ioe yn: a '
+ME fig wf wets ° ""OF ~° o. 3°"" ube. av Ay ‘ a ee : a zy"" x gr > of i۔
+° : le ae: 7 oe ee ots ‘i ‘ i 4’ , . :
+. - *§ ota @’ oo. ”%9 ig. re. a ae ae. 4: ee 8 e-
+1 # ei 1 i * 8 y a) a > . , ¢ > ' an r) f . <a ٹیل ; , .
+ایس ایس آن) ; 3: Al ': ™ s '، om i Le
+ہم ایک -:
+. : ; < F ue . a a -
+: + Z a, gt + * { J . © ; |
+ایک i"" ؛ g 'ny Ai og ae 1
+eo | a ® | ' on ' a had s Fj ; '
+7 3 فا | p RG a wg ri red . :
+. ¢ * - al a . ' a a = asf : y | Ee s >
+* "" a : ; : "" .4 4 z . . میں اوئے‘‘
+' 4 \ 1 یعنی سال ' ~ ""
+- :- ای کھایا! :®
+{ : ; . : یا میں۔ ہو yp f BS En 2 f 3 . ;
+' ایک 24 ہفتے | wi¥’
+e Fe. s : OS gt ae. :_~ wee :
+نہ ہی oe | ' d a i # ros at . :(
+'* _- 5 بجے . '' ~- اور ''
+oe _— o یعنی اگر { y ¢
+_تا دی | ایک ہوٹل مہمان
+فیس =| مہمانوں کے کمروں کا داخلہ QNIe بن جاتا ہے: oe
+7 | e en rance ve he i : soy A : ' a
+bea a we
+>»۔ ~ 4 ® * Swe .
+| es، =| | میں ملاقاتیں چاہیں گے:
+. %: bf
+.. ‘ « جے
+، ایک '.
+پی پی -¥ :' _جی اے ہو! :_‘
+26 گرام: a = . , > a . af cd +» oe oO * . @< ایک 'a |
+: : ° * "" : ' « . ' 1 eer | e ° _ von te - ""-
+ay 4 ea. Yo fe 1 nh + ' tee KAN oe @ &,"" * roe ge
+. UA -* rd ""ee،؟"" ee '4 - Py v % . میرا ew ee er . ~ پر پوگ
+میں rr nr ae Vi "" < an , ~MA- Oe: wee}",True,True,,ur,2026-04-10T17:00:37.163245
+Screenshot_9.png,stylized,6,,"“
+.
+¢
+o , id
+aid -— ow Mo we weer eet wee ww - e® . ~~ —— - ~ ene™ ,: oe ~-—w ow — om eee
+-e @e- . a *¢
+-
+. ~
+os : - a* @ <
+aiid - ~@~ - rm a OO aw oe ere ee ee eee —~ map - _*
+e
+- . ee - -
+.
+.
+eo
+: ow ase . - ~
+eae e
+.
+_ one NN Me we a ee: nn 8 eee ee eo ~~ « a a ae ~-.
+- > . --
+ae Sa ae ae a, ote Cn eae y SC . .
+a A TS AC AR A LET
+— a ht nn ir ne en ee ee Ed
++e Or eer WR 6 a 8 OE a Se es. SE OE ee Ee as .
+. 7
+*. - os
+santas a i aden wee a ~ Pow... wae. a ee an en -. om % =
+.
+* ad et eee ~
+_ - + pe. - - i me
+.
+5 cd eam
+vn ~e . . ~~ , - .. ~~ nme * - es _-
+.
+* = . - .
+ne i eee ad ~ . One . _ ew we _—— ~- eee ne .. . . —<. «
+. . .
+— s _ a en e .",0,652,652,IT’S UNBREAKABLE. SEE? !!!?,True,2026-04-10T17:00:35.786493,0.0,0.0,4.19,0.0,4.19,"""
+.
+¢
+o، id
+امداد -- ow Mo we weer eet wee ww - e® . ~~ —— - ~ ene™ ,: oe ~-—w ow — om eee
+-e @e- . اور *¢
+-
+. ~
+os :- a* @ <
+aiid - ~@~ - rm a OO aw oe ere ee ee eeee —~ نقشہ - _*
+e
+--. ہاں - -
+.
+.
+کھو دیا
+: ow ase . - ~
+ہاں
+.
+_ ایک این این می وی ای ای: این این 8 ای ای ای ای ای ای ~~ « a a ae ~-.
+-> --
+ae Sa ae ae a، ote Cn eae y SC . .
+اور A TS AC AR A LET
+— ایک ht nn ir ne en ee ee Ed
++e یا eer WR 6 a 8 OE a Sees۔ SE OE ee ee as .
+. 7
+* --.os n
+سانٹاس ٹو ایڈن وی اے ~ پاو... وی اے۔ اور ee an en -. om % =
+.
+* اشتھار اور eee ~
+_ - + یا۔ --.ساتھ
+.
+5 سی ڈی ای ایم
+vn ~ e . ~~ , - .. ~~ nme * - es _-
+.
+* = --.
+ne i eee ad ~ . ایک۔ _ ایو ہم _—— ~- ای ای نی... . —<۔ ""
+. . .
+— s _ a en e .",True,True,,ur,2026-04-10T17:00:37.163245
